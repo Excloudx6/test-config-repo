@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 42,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Towne Park",
+            "spider_name": "workday",
+            "start_url": "https://townepark.wd5.myworkdayjobs.com/ext",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Towne Park"
+}
