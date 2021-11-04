@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Commerce Bancshares",
+            "spider_name": "workday",
+            "start_url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Commerce Bancshares"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6,
+            "integration_provider_id": 32,
+            "is_python": true,
+            "name": "G4S",
+            "spider_name": "tribepad_ats",
+            "start_url": "https://community.g4s.com",
+            "status": 1,
+            "url_params": [
+                "jobboard=talentify"
+            ]
+        }
+    ],
+    "name": "G4S"
+}

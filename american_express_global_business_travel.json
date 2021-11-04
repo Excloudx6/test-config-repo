@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 60,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "American Express Global Business Travel",
+            "spider_name": "workday",
+            "start_url": "https://travelhrportal.wd1.myworkdayjobs.com/Jobs",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "American Express Global Business Travel"
+}
