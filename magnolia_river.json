@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10487,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Magnolia River",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MAG1011MRII/JobBoard/f252e3bc-add1-45d5-9e86-761ec9fea05e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Magnolia River"
+}

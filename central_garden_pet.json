@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12822,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Central Life Sciences",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phe.tbe.taleo.net/phe02/ats/careers/v2/searchResults?org=CENTRAL&cws=54",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27378,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Central Garden & Pet",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phe.tbe.taleo.net/phe02/ats/careers/v2/searchResults?org=CENTRAL&cws=49",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Central Garden & Pet"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23664,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "C Squared Systems",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=bc616144-8e8b-46d4-a1ef-43a3f1dbdc36&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "C Squared Systems"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19192,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Abacus Staffing",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=a7jdnw0rudinbr81br1sc6365pz6vm01dc49exhl6ft6po5epjlu5o1ay4maizrc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Abacus Staffing"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10857,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Rueter's Equipment",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/4447ea93-c877-44fc-8146-c1ffe1c24b15",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rueter's Equipment"
+}

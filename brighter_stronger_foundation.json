@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31044,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Brighter Stronger Foundation",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=6b7ac768-787b-4e88-a863-ad03fcbca570",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brighter Stronger Foundation"
+}

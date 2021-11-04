@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10848,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Phoenix",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/2bcdb77f-81f8-4746-93fc-ac568c84ad7d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Phoenix"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6555,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Cr\u00e8me de la Cr\u00e8me",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=a1e1d560-537d-402d-9234-c74c7ee70608&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cr\u00e8me de la Cr\u00e8me"
+}

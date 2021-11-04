@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6509,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Conversant Group",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/015abe59-22b0-4f10-8244-e14852430707",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Conversant Group"
+}

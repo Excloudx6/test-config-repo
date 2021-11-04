@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16801,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Agence Fran\u00e7aise de D\u00e9veloppement",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://afd.csod.com/ux/ats/careersite/5/home?c=afd",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Agence Fran\u00e7aise de D\u00e9veloppement"
+}

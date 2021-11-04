@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10780,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "The Marine Mammal Center",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/9c4f5683-4962-4559-ad7b-cd2c80e7a868",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Marine Mammal Center"
+}

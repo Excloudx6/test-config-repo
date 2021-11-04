@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15007,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Customers Bank",
+            "spider_name": "icims_career_page",
+            "start_url": "https://customersbank-orspartners.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Customers Bank"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6717,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "INAP",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=c26d099f-6a0f-41a6-92c7-48430f3fc94f&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "INAP"
+}

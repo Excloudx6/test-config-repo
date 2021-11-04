@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24403,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Lazy Dog Restaurant & Bar",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/LAZ1001/JobBoard/572d9c29-5e1e-3b84-42d0-04a3bbea60c1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lazy Dog Restaurant & Bar"
+}

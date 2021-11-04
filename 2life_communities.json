@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17425,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "2Life Communities",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=7d58836c-11dd-4415-9de0-63b918b88652&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "2Life Communities"
+}

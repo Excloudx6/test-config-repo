@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19237,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Centric Consulting",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phg.tbe.taleo.net/phg02/ats/careers/v2/searchResults?org=CENTCONS&cws=38",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24704,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Centric Consulting India",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phe.tbe.taleo.net/phe02/ats/careers/v2/searchResults?org=EDUV6K&cws=38",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Centric Consulting"
+}

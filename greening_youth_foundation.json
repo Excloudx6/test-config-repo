@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19210,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Greening Youth Foundation",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=ldjdnwzhb3gn6r5aaohezef1uz2q470438g5bn2i6dtfsrgcmasd093311hdu2jl",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Greening Youth Foundation"
+}

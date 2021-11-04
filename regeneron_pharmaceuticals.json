@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10654,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Regeneron Pharmaceuticals",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.regeneron.com/search-results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Regeneron Pharmaceuticals"
+}

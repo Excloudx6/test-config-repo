@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10357,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Ultimate Software",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/BUN1000BUNZL/JobBoard/e6decf20-c86a-432d-8796-d23e69732c85",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ultimate Software"
+}

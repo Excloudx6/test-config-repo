@@ -1,0 +1,385 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10431,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Bartell Machinery Systems",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/268e4644-2959-4e0d-a1da-d1d343b85c9d",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10432,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Heico Companies",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/26d2c7f6-8301-c646-466c-00853e506497",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27651,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Ancra International",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/34f27f95-c069-409a-982d-405191585f92",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27652,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "B/A Products",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/7cfaa746-4010-40e7-875b-5d08c7de79fc",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27653,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Barko Hydraulics",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/0266e078-08b2-48d4-a0b5-54133508e27c",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27654,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "C/A Design",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/ed51a8df-d0aa-4731-9b7a-e7e5e3b4e8b3",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27655,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Construction Solutions Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/1327678e-0dc1-459c-b3e3-ff5a02dedd10",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27656,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Kinedyne",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/75336e4b-51c6-48c7-b472-c635ac05c5a4",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27657,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Field Controls",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/542c59a9-a7f1-402e-b251-3c058d3950fc",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27658,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Standard",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/d1c8c0fa-90ce-4efa-8283-feb73a4e135e",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27659,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Wakefield-Vette",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/7a97df02-8b6a-487c-8471-012c2704da83",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27660,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Davis Wire Corporation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/7b85aff9-372e-4f36-9f99-28c7d5e85a14",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27661,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Shred-Tech Corporation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/ead1bb76-410e-4134-b7d8-137e0f52d247",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27662,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Rioned",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/98c69f3a-5d1b-41da-a220-526ad69b8a08",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27665,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Metal Processing Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/919ec0e7-522f-4a4d-9a5a-6580fc57bdd4",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27666,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Pettibone",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/be963fbd-e6f2-47e3-8454-f9bd4c1dcf20",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27667,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Spartan Tool",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/07bb99d9-7536-42e0-a642-9e7c38be9c73",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27668,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Ohmite Manufacturing",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/8fa846e4-ce1a-4347-a12f-5c88dafda6d7",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27669,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Strand",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEI1002/JobBoard/e0fa8b20-4aac-4035-bad4-5720e884505f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Heico Companies"
+}

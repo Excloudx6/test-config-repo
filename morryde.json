@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10877,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "MORryde",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/a9f9a8d7-7178-4d80-9666-05cb559c5f6f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MORryde"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17970,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "UK Centre for Ecology & Hydrology",
+            "spider_name": "workday",
+            "start_url": "https://ceh.wd3.myworkdayjobs.com/CEH_Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UK Centre for Ecology & Hydrology"
+}

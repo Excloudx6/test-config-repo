@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7018,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Summit Contracting Group",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=f83ad267-7e66-43a8-a0b7-b97aa26317f3&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Summit Contracting Group"
+}

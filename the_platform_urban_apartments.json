@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10627,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Platform Urban Apartments",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WES1006/JobBoard/7bc4f5bf-be90-e6c0-9585-97f59348854a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Platform Urban Apartments"
+}

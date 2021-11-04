@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5650,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Waters",
+            "spider_name": "icims_career_page",
+            "start_url": "https://internationalcareers-waters.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30056,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Waters - US",
+            "spider_name": "icims_career_page",
+            "start_url": "https://uscareers-waters.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Waters"
+}

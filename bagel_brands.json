@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21083,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bagel Brands",
+            "spider_name": "workday",
+            "start_url": "https://coffeeandbagelbrands.wd1.myworkdayjobs.com/coffeeandbagelbrands",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bagel Brands"
+}

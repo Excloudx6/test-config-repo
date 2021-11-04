@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16365,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Floor Coverings International",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://fci-lakeway.careerplug.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Floor Coverings International"
+}

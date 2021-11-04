@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25958,
+            "integration_provider_id": 151,
+            "is_python": true,
+            "name": "International Consolidated Airlines Group Sa",
+            "spider_name": "avature",
+            "start_url": "https://iaggbs.avature.net/careers/searchjobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "International Consolidated Airlines Group Sa"
+}

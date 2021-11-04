@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15480,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Phillips Edison & Company",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PHI1009PHED/JobBoard/d8224c32-ade8-4917-8a97-3ea2d4094e2d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Phillips Edison & Company"
+}

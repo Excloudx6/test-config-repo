@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15598,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Woda Cooper Companies",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/WOD1000WODA/JobBoard/b1d498e3-3f12-400b-bfbd-65ad0f99daef",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Woda Cooper Companies,"
+}

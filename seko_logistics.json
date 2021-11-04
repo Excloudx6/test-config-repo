@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 125,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SEKO Logistics",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SEK1000SEKO/JobBoard/74fce1de-dad6-4c73-bfd8-d49f18d4b1aa",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SEKO Logistics"
+}

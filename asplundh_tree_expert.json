@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14190,
+            "integration_provider_id": 113,
+            "is_python": true,
+            "name": "Asplundh Tree Expert",
+            "spider_name": "our_career_pages",
+            "start_url": "http://asplundh.ourcareerpages.com/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Asplundh Tree Expert"
+}

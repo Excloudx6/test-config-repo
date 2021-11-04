@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23816,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Home Health Care",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://recruit.zohopublic.com/recruit/Portal.na?iframe=true&digest=@r@7wSF@ZVdDur9utzIVnXGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Home Health Care"
+}

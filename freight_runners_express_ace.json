@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11755,
+            "integration_provider_id": 115,
+            "is_python": true,
+            "name": "Freight Runners Express / ACE",
+            "spider_name": "applicant_pro",
+            "start_url": "https://freightrunners.applicantpro.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Freight Runners Express / ACE"
+}

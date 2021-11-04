@@ -21,6 +21,46 @@
             "url_params": [
                 "source=Talentify"
             ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 405,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Les Schwab",
+            "spider_name": "workday",
+            "start_url": "https://lesschwab.wd1.myworkdayjobs.com/en-US/Operations",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7183,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Les Schwab ",
+            "spider_name": "workday",
+            "start_url": "https://lesschwab.wd1.myworkdayjobs.com/HQ",
+            "status": 1,
+            "url_params": []
         }
     ],
     "name": "Les Schwab"

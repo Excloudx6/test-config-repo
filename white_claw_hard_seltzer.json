@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10490,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "White Claw Hard Seltzer",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MAR5000MAG/JobBoard/4171595d-faab-4bf7-8af9-2f3c5e506cd4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "White Claw Hard Seltzer"
+}

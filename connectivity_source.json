@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11003,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Connectivity Source",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/19d32964-558c-4b02-9a40-26842cd6f5dc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Connectivity Source"
+}

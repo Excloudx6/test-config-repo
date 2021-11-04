@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10794,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Navvis",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/acdb24c2-401d-43d6-85fc-d514f2caeafb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Navvis"
+}

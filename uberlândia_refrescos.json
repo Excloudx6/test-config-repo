@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29436,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Uberl\u00e2ndia Refrescos",
+            "spider_name": "gupy",
+            "start_url": "https://uberlandiarefrescos.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Uberl\u00e2ndia Refrescos"
+}

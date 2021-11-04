@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13398,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Primo Water",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1110207/search/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27650,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Primo Water ",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1110207/search/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Primo Water"
+}

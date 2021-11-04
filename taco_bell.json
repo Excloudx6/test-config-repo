@@ -1,0 +1,4705 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25968,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27985,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "WMM, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27986,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Monty Mex Corp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27987,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Discover Taco Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27988,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Keith Sherman Enterprises, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27989,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "V2 Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27990,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "ZOEB, inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27991,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Que Taco Enterprise",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27992,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Jim",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27993,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Weber Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27994,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Cahill and Associates",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27995,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "PRB",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27996,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Georgia | Texas Operating Company",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27997,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Charter Foods, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27998,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Danbarb, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27999,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "ABDD Capital",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28000,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Hagan and Hagan",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28001,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MKR Taco",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28002,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Ocean Bell, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28003,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "NJB Enterprises, Albor RG LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28004,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Weaver Enterprises, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28005,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Wilkes Sombrero, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28006,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Great West Hospitality",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28007,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "BBG Specialty Foods Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28008,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "BBG North",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28009,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sanweco, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28010,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Summerwood Corporation",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28011,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Century Fast Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28012,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "321 Taco LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28013,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Hefcam Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28014,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Hospitality Syracuse Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28015,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "T and K, L.P.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28016,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "C2C East, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28017,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Vision Restaurants Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28018,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "GF Enterprise LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28019,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sigma Bell, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28020,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "CTI Restaurants Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28021,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Cema Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28022,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "BKK Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28023,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Timberline Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28024,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Dunafon Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28025,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Golden Gate Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28026,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Kentucky Bell Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28027,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sundance",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28028,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "BurgerBusters Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28029,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "The RC Group, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28030,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lewbell LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28031,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Ream TB Development Company",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28032,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "City Different Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28033,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "UP Real Estate Holdings Corp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28034,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bill, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28035,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KMAC Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28036,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sonar Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28037,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "San Antonio Taco, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28038,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "DM Patel",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28039,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "ES-O-EN Management, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28040,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "R and N, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28041,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Little Foods, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28042,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Grand River A&W, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28043,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "J and S Food Sales, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28044,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bell of America Inc dba Taco Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28045,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "TT Management Company",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28046,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Helm Restaurants, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28047,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Hot Stuff of NY",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28048,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Tacala Companies",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28049,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Manaj Bodhan Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28050,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Yum & Chill Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28051,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sansej Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28052,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "W&M Restaurants Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28053,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "TD Food Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28054,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bell Corporate",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28055,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lost Mesa, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28056,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Delect Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28057,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Marble USA, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28058,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Paradise Companies",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28059,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Chandan Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28060,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lockwood McKinnon Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28061,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "JJC Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28062,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mayer Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28063,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Nick Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28064,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "St Mar Enterprises, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28065,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Engen",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28066,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Western Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28067,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Parochetti Ent. Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28068,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "DD Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28069,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "TacoBocci, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28070,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Southeast Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28071,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lucwork Enterprises, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28072,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lockwood/McKinnon Taco Ventures",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28073,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "LTD Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28074,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "RLC Enterprises, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28075,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Penn Valley Shell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28076,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MRK Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28077,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KorMex Foods, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28078,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Danop Ltd",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28079,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Kumar Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28080,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Bertanzetti LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28081,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Will I Am",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28082,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "NV Restaurant Management, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28083,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Carolina Taco Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28084,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Maha Mitra",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28085,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Inactive Paradise Foods Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28086,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "TriBell, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28087,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MNA Taco Corp dba Taco Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28088,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Southern Multifoods, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28089,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Duryea Group Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28090,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "DJ Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28091,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Delight TB Indiana Management LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28092,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "J A Rowe Enterprises, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28093,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Pacific Bells, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28094,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Soma Enterprises 1 LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28095,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "PMTD Restaurants, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28096,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Snappy's",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28097,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "STI Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28098,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bell | BDE Florida, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28099,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mall Treats LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28100,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "C and M Smith Restaurants",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28101,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "ColCal Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28102,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Cantina Hospitality, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28103,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Desert De Oro Foods, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28104,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Westaco",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28105,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "J and R Hock Enterprises, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28106,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "CLC Restaurants Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28107,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KFC Aarsand & Co.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28108,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "VB Preferred",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28109,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KC Bell, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28110,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "GBM Restaurants",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28111,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "T and T Taco Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28112,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Bagshaw Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28113,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "JingleBells LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28114,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Employee Resource Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28115,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Zak LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28116,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mariane Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28117,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Hodges Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28118,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Silver Oak Mgmt",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28119,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Tonns Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28120,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "JEM Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28121,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Haza Bell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28122,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Southwest Operations Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28123,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Dortch Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28124,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Palo Alto Alvarado Concepts",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28125,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Bell | Bell American Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28126,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Bee-Mac Corp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28127,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mas Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28128,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "B and G Food Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28129,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Inmack Foods Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28130,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Colomex",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28131,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Steve DeClerck Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28132,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "W&M Restaurants",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28133,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Northwest Restaurants, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28134,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "ZMA Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28135,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Imperial Associates",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28136,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Fiesta Holdings",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28137,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Clatra, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28138,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "North Texas Bells",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28139,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Lyon etal",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28140,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "O and M Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28141,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Taco Steve",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28142,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Orchard Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28143,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Plaza Dine",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28144,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Natron Corporation",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28145,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "R2 Restaurants, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28146,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MRCO",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28147,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "D.B. Concepts",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28148,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mid-Atlantic Taco, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28149,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Buddy Bells",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28150,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Bravo Foods, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28151,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Double O Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28152,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "PJ Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28153,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Dee Dee Bells, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28154,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "JA Sutherland, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28155,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "US Leader Restaurants",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28156,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Southeast QSR, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28157,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Garrison QSR",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28158,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "RAD Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28159,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Luihn VantEdge Partners LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28160,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Border Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28161,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "West Quality Food Service, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28162,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Pyramid Services Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28163,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "El Gregorio",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28164,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "DG Smith Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28165,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "NCSC Tacos Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28166,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Delectabell",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28167,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "DF",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28168,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MTB Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28169,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "TME Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28170,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Franklin Park Taco",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28171,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Soma Enterprises LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28172,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Ampex Brands",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28173,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "RCGF LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28174,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Shree Capital Investments",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28175,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "NVP Properties Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28176,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Cotti Foods Corp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28177,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Border Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28178,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Quikserve Concepts, Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28179,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Four Corners Taco Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28180,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Ticaboo Management LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28181,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Atlantic Restaurants",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28182,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Central Florida",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28183,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Denali Foods Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28184,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Killer Shrimp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28185,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "F F Food Services",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28186,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "C and R Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28187,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Crave Concepts Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28188,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Top Shelf Holdings, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28189,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Indus Hospitality Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28190,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "JMS ANS LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28191,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Guerreri Management",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28192,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Yummy Taco",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28193,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Bell-co Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28194,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KBP Bells",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28195,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Fulenwider Enterprises Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28196,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Kai Restaurant Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28197,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Travel Centers of the Ozarks, Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28198,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Intermountain Food Stores",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28199,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Ball Industries",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28200,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "The Coles Group",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28201,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "LynnRich Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28202,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Burton Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28203,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Little Greek",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28204,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "AG Bells I",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28205,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Rutter's",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28206,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Sun Culinary",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28207,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "SMJ Partners",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28208,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "KBP Foods",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28209,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "FMI Group, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28210,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Best Chick Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28211,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Mike and Teresa Inc.",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28212,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "MMC Enterprises",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28213,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "STR Partners LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28214,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Englefield Inc",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28215,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "AG Bells II",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28216,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Morongo Taco Bell, LLC",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28217,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Farnaj Foods Corp",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28218,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Trails Travel Center",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/tacobellcorporate",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Taco Bell"
+}

@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29835,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "GroupM",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/groupm-emea",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29897,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "GroupM",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/groupm-na",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29898,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "GroupM",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/groupm/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29899,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "GroupM   ",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/groupm-apac",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GroupM"
+}

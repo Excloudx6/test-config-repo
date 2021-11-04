@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20120,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "Variant",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/variant?uri_b=ia_variant",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20130,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "U.S. Xpress",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/usxpress?uri_b=ia_usxpress",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30071,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "U.S. Xpress",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://usxpressdevelopment.csod.com/ux/ats/careersite/4/home?c=usxpressdevelopment",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30076,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "U.S. Xpress",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://usxpressdevelopment.csod.com/ux/ats/careersite/5/home?c=usxpressdevelopment",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "U.S. Xpress"
+}

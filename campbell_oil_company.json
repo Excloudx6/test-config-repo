@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23919,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Campbell Oil Company",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c675535542017575903f0a0860",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        }
+    ],
+    "name": "Campbell Oil Company"
+}

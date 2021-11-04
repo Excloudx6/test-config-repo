@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24859,
+            "integration_provider_id": 178,
+            "is_python": true,
+            "name": "The Carlisle Group",
+            "spider_name": "pc_recruiter",
+            "start_url": "https://host.pcrecruiter.net/pcrbin/jobboard.aspx?rdid=Y8RDqI4peiVE%2FBnSD4n6VL9atmzUQGf7E7WpD5g%3D",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Carlisle Group"
+}

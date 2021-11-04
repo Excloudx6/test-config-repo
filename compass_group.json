@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31049,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "Compass Group",
+            "spider_name": "icims_web_api",
+            "start_url": "https://compassgroup.jibeapply.com/main/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31050,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "Compass Group PLC",
+            "spider_name": "icims_web_api",
+            "start_url": "https://compassgroup.staging.jibeapply.com/main/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Compass Group"
+}

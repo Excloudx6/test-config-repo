@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30702,
+            "integration_provider_id": 210,
+            "is_python": true,
+            "name": "Laura Curran",
+            "spider_name": "government_jobs",
+            "start_url": "https://www.governmentjobs.com/careers/nassaucountyny",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Laura Curran"
+}

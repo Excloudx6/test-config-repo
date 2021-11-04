@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11658,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Rosenbauer America",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=03F49D0846EF4AAF221BF3C05F433A0E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rosenbauer America"
+}

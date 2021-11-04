@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23976,
+            "integration_provider_id": 168,
+            "is_python": true,
+            "name": "F. Schumacher & Co.",
+            "spider_name": "recruitee",
+            "start_url": "https://schumacher.recruitee.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "F. Schumacher & Co."
+}

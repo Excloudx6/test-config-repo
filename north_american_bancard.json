@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15450,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "North American Bancard",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NOR1054NABC/JobBoard/532ac6e4-b22c-4a5d-880b-8c6ae2ad0a88",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "North American Bancard"
+}

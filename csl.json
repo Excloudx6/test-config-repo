@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30021,
+            "integration_provider_id": 123,
+            "is_python": true,
+            "name": "CSL Behring",
+            "spider_name": "recsolu_career_page",
+            "start_url": "https://csl.recsolu.com/job_boards/1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CSL"
+}

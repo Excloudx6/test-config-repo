@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13048,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Sloan Lubrication Systems",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/2d3e2fef-f4c9-407a-81af-aa8d0ed7e109/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sloan Lubrication Systems"
+}

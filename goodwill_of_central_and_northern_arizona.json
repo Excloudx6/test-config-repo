@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14814,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Goodwill of Central and Northern Arizona",
+            "spider_name": "workday",
+            "start_url": "https://goodwillaz.wd1.myworkdayjobs.com/en-US/GoodwillAZ",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Goodwill of Central and Northern Arizona"
+}

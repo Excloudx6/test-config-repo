@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1223,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Colorado Permanente Medical Group",
+            "spider_name": "adp_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=208739d8-1560-4c07-8baf-cabefc450eaf&ccId=19000101_000001&type=MP&lang=en_US",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Colorado Permanente Medical Group"
+}

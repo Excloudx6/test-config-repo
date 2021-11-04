@@ -1,0 +1,125 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27628,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - Support Center Roles",
+            "spider_name": "breezy_hr",
+            "start_url": "https://cdpsupportcenter.breezy.hr",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27629,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - Practice Roles",
+            "spider_name": "breezy_hr",
+            "start_url": "https://practice-positions.breezy.hr/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27630,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - Oral Surgeon",
+            "spider_name": "breezy_hr",
+            "start_url": "https://oral-surgeons.breezy.hr/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27631,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - Orthodontist",
+            "spider_name": "breezy_hr",
+            "start_url": "https://orthodontist.breezy.hr",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27632,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - General Dentist",
+            "spider_name": "breezy_hr",
+            "start_url": "https://cdpdoctor.breezy.hr",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27633,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Community Dental Partners - Hygienist",
+            "spider_name": "breezy_hr",
+            "start_url": "https://hygienistcareers.breezy.hr",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Community Dental Partners "
+}

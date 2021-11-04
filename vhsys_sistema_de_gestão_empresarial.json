@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29761,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "vhsys - Sistema de Gest\u00e3o Empresarial",
+            "spider_name": "gupy",
+            "start_url": "https://vhsys.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "vhsys - Sistema de Gest\u00e3o Empresarial"
+}

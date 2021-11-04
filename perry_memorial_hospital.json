@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9824,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Perry Memorial Hospital",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/cs/perrymemorial/#/results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Perry Memorial Hospital"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6949,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Ranger Energy Services",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/RAN1005RENS/JobBoard/2f4c8486-0a1b-4ddb-9743-205ee2611076",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ranger Energy Services"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25266,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "Standish Management",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/standish",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Standish Management"
+}

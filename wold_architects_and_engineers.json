@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10638,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Wold Architects and Engineers",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WOL1004WLD/JobBoard/45377717-7544-4d21-b846-59e7d50ee9ea",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wold Architects and Engineers"
+}

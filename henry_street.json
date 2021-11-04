@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6249,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Henry Street",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/HEN1005HESS/JobBoard/534bfcf2-4786-441b-9afe-0d1ecae2788f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Henry Street"
+}

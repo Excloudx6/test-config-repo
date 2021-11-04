@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25161,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "Mission Barns",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/missionbarns",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mission Barns"
+}

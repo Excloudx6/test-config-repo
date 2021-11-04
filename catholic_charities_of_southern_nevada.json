@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20539,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Catholic Charities of Southern Nevada",
+            "spider_name": "hrm_direct",
+            "start_url": "https://catholiccharities.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Catholic Charities of Southern Nevada"
+}

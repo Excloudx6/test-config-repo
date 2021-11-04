@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27935,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "WeClever",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/weclever",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29935,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "WeClever\tVendas",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/vendaconosco",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29936,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "WeClever.co",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/beclever",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WeClever"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12867,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Landesa",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf03/ats/careers/v2/searchResults?org=LANDESA&cws=37",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Landesa"
+}

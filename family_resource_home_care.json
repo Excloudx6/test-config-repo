@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23014,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Family Resource Home Care",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/13a6f37a-bafc-496a-ae81-624d777945d2",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        }
+    ],
+    "name": "Family Resource Home Care"
+}

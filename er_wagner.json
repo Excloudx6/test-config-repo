@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11477,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "ER Wagner",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C8D8E892DFCA9E4EFD86D079ECC426B5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ER Wagner"
+}

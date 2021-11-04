@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22504,
+            "integration_provider_id": 156,
+            "is_python": true,
+            "name": "PODS",
+            "spider_name": "pods_xml",
+            "start_url": "http://pods.luceosolutions.com/openrest/requisitions/active",
+            "status": 1,
+            "url_params": [
+                "?idpartenaire=10149"
+            ]
+        }
+    ],
+    "name": "PODS"
+}

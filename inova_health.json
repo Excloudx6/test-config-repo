@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10689,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "Inova Health",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25649&siteid=5465",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31059,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "Inova Health System",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://elar.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Inova Health"
+}

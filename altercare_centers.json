@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22159,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Altercare Centers",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a788260598c1f3c0159b421f74b2e6f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Altercare Centers"
+}

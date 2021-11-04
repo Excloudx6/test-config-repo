@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10842,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "LightWerks Communication Systems",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/592f95c6-dc6f-4e13-a2c9-2a7a9c49d73b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "LightWerks Communication Systems"
+}

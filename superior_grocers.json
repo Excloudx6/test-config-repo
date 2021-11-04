@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26571,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Superior Grocers",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/superior-grocers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Superior Grocers"
+}

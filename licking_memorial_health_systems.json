@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15380,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Licking Memorial Health Systems",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/LIC1000LMHS/JobBoard/3a2849cd-0da6-4a57-813a-80b366fb0172",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Licking Memorial Health Systems"
+}

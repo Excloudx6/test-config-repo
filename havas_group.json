@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14939,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Havas Group",
+            "spider_name": "workday",
+            "start_url": "https://havas.wd3.myworkdayjobs.com/fr-FR/GroupExternalCareerSite",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23405,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": " Havas Health & You",
+            "spider_name": "workday",
+            "start_url": "https://wd3.myworkdaysite.com/recruiting/havas/HealthYouExternalCareerSite",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23406,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Havas Creative",
+            "spider_name": "workday",
+            "start_url": "https://wd3.myworkdaysite.com/recruiting/havas/CreativeExternalCareerSite",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Havas Group"
+}

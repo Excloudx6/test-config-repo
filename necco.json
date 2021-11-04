@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31058,
+            "integration_provider_id": 52,
+            "is_python": true,
+            "name": "Necco",
+            "spider_name": "ultipro_career_page",
+            "start_url": "https://recruiting.ultipro.com/NEC1002NCO/JobBoard/ae716500-5e52-4cd8-a968-50ed46cc651c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Necco"
+}

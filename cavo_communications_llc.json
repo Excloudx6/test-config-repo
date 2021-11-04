@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6229,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CAVO Communications, LLC",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/DYC1000/JobBoard/566fef8a-402b-4ceb-8e87-ce6ee2d5c605",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CAVO Communications, LLC"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26685,
+            "integration_provider_id": 187,
+            "is_python": true,
+            "name": "Podimetrics",
+            "spider_name": "bright_move",
+            "start_url": "https://j.brt.mv/JobRSS.do?companyGK=40415&portalGK=30617",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Podimetrics"
+}

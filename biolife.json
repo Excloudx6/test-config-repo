@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6303,
+            "integration_provider_id": 103,
+            "is_python": true,
+            "name": "BioLife Plasma Services",
+            "spider_name": "biolife_xml_feed",
+            "start_url": "https://platform.talentbrew.com/api/v1/jobstream/32806-5313738668235075937-14467227366947009929",
+            "status": 1,
+            "url_params": [
+                "source=tmp_biolife_talentify"
+            ]
+        }
+    ],
+    "name": "Biolife"
+}

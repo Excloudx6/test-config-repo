@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10773,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "IPEG",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/69c79a1c-3833-49ef-93db-c01cb7b753f2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "IPEG"
+}

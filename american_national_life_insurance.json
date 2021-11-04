@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7462,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "American National Life Insurance",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career8.successfactors.com/career?company=1182615P&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=4o%2bEVAFPXc%2b5vyIY9nRk37TRo2EteadXo8W8How%2fd%2fQ%3d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American National Life Insurance "
+}

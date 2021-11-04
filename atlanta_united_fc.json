@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14910,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Atlanta United FC",
+            "spider_name": "workday",
+            "start_url": "https://ambgroup.wd1.myworkdayjobs.com/AMBSE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Atlanta United FC"
+}

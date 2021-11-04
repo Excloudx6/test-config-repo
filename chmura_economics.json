@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10764,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Chmura Economics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c20c50e7-d8a9-4afb-9ce5-fed1e8d6f570",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Chmura Economics"
+}

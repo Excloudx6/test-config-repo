@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10762,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Humatics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/ff6e5206-e737-4282-a061-dfcc868741bc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Humatics"
+}

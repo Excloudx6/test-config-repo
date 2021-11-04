@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 409,
+            "integration_provider_id": 73,
+            "is_python": true,
+            "name": "AP Management",
+            "spider_name": "applicantstack_career_page",
+            "start_url": "http://apmanagement.applicantstack.com/x/openings",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "AP Management"
+}

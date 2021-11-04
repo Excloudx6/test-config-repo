@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22958,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Friendship Public Charter School",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-friendshipschools.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Friendship Public Charter School"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19182,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "MVP Consulting Plus",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=2jjdnw0m4hqln51ytf8kzryiz4j71001d8vzgxkxckwzdfyqet9e4e0pqk29tmrt",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MVP Consulting Plus"
+}

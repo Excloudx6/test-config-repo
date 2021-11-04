@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4796,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "YOOX NET-A-PORTER GROUP",
+            "spider_name": "workday",
+            "start_url": "https://ynap.wd3.myworkdayjobs.com/YNAP_Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "YOOX NET-A-PORTER GROUP"
+}

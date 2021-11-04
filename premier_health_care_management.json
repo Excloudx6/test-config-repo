@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26052,
+            "integration_provider_id": 185,
+            "is_python": true,
+            "name": "Premier Health Care Management",
+            "spider_name": "apploi",
+            "start_url": "https://jobs.apploi.com/profile/premierhealthcare",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Premier Health Care Management"
+}

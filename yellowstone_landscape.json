@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15600,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Yellowstone Landscape",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/YEL1000YLINC/JobBoard/3d2d11f6-9e28-4a1d-afcb-d5533eb0fe7d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Yellowstone Landscape"
+}

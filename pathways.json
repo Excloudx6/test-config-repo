@@ -1,0 +1,555 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7493,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of Arizona",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-arizona.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7494,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "MapleStar Colorado",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://maple-star-colorado.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7495,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Family Preservation Services of DC",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://family-preservation-services-of-washington-dc.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7496,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of Delaware",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-delaware.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7497,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "AmericanWork",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://americanwork-llc.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7498,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Transitional Family Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://transitional-family-services.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7499,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of Idaho",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-idaho.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7500,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Camelot Care Center of IL",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://camelot-care-centers-llc-of-illinois.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7501,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Dockside Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://dockside-services.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7502,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Family Preservation Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://family-preservation-services-llc.careerplug.com/jobs",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7503,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of Maine",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-maine.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7504,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Family Preservation Services of NC",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://family-preservation-services-llc-of-north-carolina.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7505,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Choices Group",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://choices-group-llc.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7506,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "MapleStar Nevada",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://maple-star-of-nevada.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7507,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "MapleStar Oregon",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://maple-star-of-oregon.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7508,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Children\u2019s Behavioral Health",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://childrens-behavior-health.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7509,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways Community Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-community-services-of-pennsylvania.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7510,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Raystown Developmental Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://raystown-developmental-services-llc.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7511,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "ReDCo Group",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://the-redco-group.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7512,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Camelot Care Center of TN",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://camelot-care-centers-llc-of-tennessee.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7513,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Family Preservation Services of VA",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://family-preservation-services-llc-of-virginia.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7514,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of Washington State",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-washington-llc.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7515,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Pathways of California",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://pathways-of-california.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9689,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Family Behavioral Resources",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://family-behavioral-resources.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9690,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Access Family Services",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://access-family-services.careerplug.com/jobs?locale=en-US",
+            "status": 1,
+            "url_params": [
+                "s=496768"
+            ]
+        }
+    ],
+    "name": "Pathways"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11622,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Platinum Dermatology Partners",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=0F65B2C71586D708B73B9D008A2A6084",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Platinum Dermatology Partners"
+}

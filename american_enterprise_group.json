@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15283,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Enterprise Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AME1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Enterprise Group"
+}

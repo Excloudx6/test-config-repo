@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24160,
+            "integration_provider_id": 168,
+            "is_python": true,
+            "name": "SHV Energy",
+            "spider_name": "recruitee",
+            "start_url": "https://shvenergy.recruitee.com",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24705,
+            "integration_provider_id": 131,
+            "is_python": true,
+            "name": "CALOR",
+            "spider_name": "workable_career_page",
+            "start_url": "https://apply.workable.com/calor-careers",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24706,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "PINNACLE",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=0b47c702-7c3b-4e77-bc67-56daf2b2cb17&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24707,
+            "integration_provider_id": 114,
+            "is_python": true,
+            "name": "CALOR UK",
+            "spider_name": "page_up_people",
+            "start_url": "http://careers.pageuppeople.com/595/cw/en/jobs.json/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SHV Energy"
+}

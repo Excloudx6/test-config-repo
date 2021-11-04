@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19181,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "JTSi",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=0yjdnwnzak5f378ya84o8o7c3xzogl02eeq09g8bx9lbj7wyi0d2ehzw7mi0hpky",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "JTSi"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6273,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Henderson County Community Hospital",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/COM1038/JobBoard/31198d9b-1d33-4998-a24d-645bed4828cf",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Henderson County Community Hospital"
+}

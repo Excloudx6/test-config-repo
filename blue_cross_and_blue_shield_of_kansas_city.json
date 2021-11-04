@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4136,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Blue Cross and Blue Shield of Kansas City",
+            "spider_name": "workday",
+            "start_url": "https://bcbskc.wd1.myworkdayjobs.com/BCBS_External_Career_Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Blue Cross and Blue Shield of Kansas City"
+}

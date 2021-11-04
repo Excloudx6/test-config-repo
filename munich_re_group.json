@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24723,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "Munich Re Group",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://ergo.recruitmentplatform.com/Apply/AAACGAAA-3f36193a-da22-4e2d-8f17-17d428a66923/apply.html?jobId=PU0FK026203F3VBQB79V7LOEK-227264&langCode=de_DE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Munich Re Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11235,
+            "integration_provider_id": 127,
+            "is_python": true,
+            "name": "Arby's",
+            "spider_name": "recruitics_career_page",
+            "start_url": "https://s3.amazonaws.com/action.feeds-public.prod.recruitics.com/feeds/genericfeed8/3327_talentify_9ffebfc3-167f-4ced-bd93-f9815e09b92d.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Arby's"
+}

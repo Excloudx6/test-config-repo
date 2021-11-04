@@ -1,0 +1,137 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1214,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/hyundai/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1215,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/itauunibanco/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1216,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/fundepag/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1217,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/amaggi/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1218,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify ",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/animaeducacao/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1219,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Talentify",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/minerva-foods/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Talentify Brasil"
+}

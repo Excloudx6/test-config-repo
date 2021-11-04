@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6289,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Bloomin Brands",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OSI1001/JobBoard/452847b5-4810-485f-929c-d0c33c18bf9e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bloomin Brands"
+}

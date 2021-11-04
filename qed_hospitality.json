@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24076,
+            "integration_provider_id": 169,
+            "is_python": true,
+            "name": "QED Hospitality",
+            "spider_name": "prism_hr",
+            "start_url": "https://qed-employer-llc.prismhr-hire.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "QED Hospitality"
+}

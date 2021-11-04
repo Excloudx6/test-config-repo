@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11430,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "CML Security",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=BA73E8C4F5DB36C2C7A96244CDB0D0C9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CML Security"
+}

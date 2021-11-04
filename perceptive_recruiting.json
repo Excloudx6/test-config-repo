@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19197,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Perceptive Recruiting",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=m4jdnw7txb21180a2e0n5ntdx8c64f0305d4w0ltnk2ojymgkt43s3pfe19dfn63/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Perceptive Recruiting"
+}

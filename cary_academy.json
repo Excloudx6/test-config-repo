@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15339,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Cary Academy",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CAR1053CARY/JobBoard/12c1456c-229c-4e8c-a423-cf1b3dc93755",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cary Academy"
+}

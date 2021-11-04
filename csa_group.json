@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17901,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "CSA Group",
+            "spider_name": "workday",
+            "start_url": "https://csagroup.wd3.myworkdayjobs.com/csagroup",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CSA Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14380,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "GeoControl Systems",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://geocontrol.zohorecruit.com/recruit/Portal.na?iframe=true&digest=awV8S94.jkAvnO2CLtcqnnGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GeoControl Systems"
+}

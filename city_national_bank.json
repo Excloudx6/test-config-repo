@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 111,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "City National Bank",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1144107/search/",
+            "status": 1,
+            "url_params": [
+                "jobboard=talentify"
+            ]
+        }
+    ],
+    "name": "City National Bank"
+}

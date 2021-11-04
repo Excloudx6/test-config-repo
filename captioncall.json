@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22517,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CaptionCall",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SOR1001SORE/JobBoard/834eb703-2dfc-4374-aeb7-cd906c2eed3b",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24729,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Sorenson Communications",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SOR1001SORE/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CaptionCall"
+}

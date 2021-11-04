@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10405,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SwitchThinkSolutions",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/DES1004DFCU/JobBoard/117d2a3d-f3b9-413c-9fb0-4bb23de1c403",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SwitchThinkSolutions"
+}

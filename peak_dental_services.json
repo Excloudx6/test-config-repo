@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10777,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Peak Dental Services",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/487a2401-ee5b-4b83-9e1c-b38a68be2c63",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Peak Dental Services"
+}

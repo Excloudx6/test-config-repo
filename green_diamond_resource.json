@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16741,
+            "integration_provider_id": 118,
+            "is_python": true,
+            "name": "Green Diamond Resource",
+            "spider_name": "secure_saas_career_page",
+            "start_url": "https://secure3.entertimeonline.com/ta/rest/ui/recruitment/companies/%7C6110531/job-requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Green Diamond Resource"
+}

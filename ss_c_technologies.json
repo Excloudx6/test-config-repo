@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19301,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "SS&C Technologies",
+            "spider_name": "workday",
+            "start_url": "https://wd1.myworkdaysite.com/recruiting/ssctech/SSCTechnologies",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SS&C Technologies"
+}

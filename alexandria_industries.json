@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15263,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Alexandria Industries",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ALE1003ALEX/JobBoard/87b7792a-de50-9124-a6cb-4e5534730c93",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alexandria Industries"
+}

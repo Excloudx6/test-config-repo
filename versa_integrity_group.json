@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10616,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Versa Integrity Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/VER1016VIGI/JobBoard/0f12b50d-56fe-46ba-9927-08a663a4b2f6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Versa Integrity Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10319,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Alpine Electronics of America",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ALP1010AEOAI/JobBoard/19b82ab4-a57b-4b94-bd3e-7704a9598a65",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alpine Electronics of America"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4537,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "The NPD Group",
+            "spider_name": "workday",
+            "start_url": "https://npd.wd5.myworkdayjobs.com/NPD_Group",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The NPD Group"
+}

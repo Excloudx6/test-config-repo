@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6179,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "United Network for Organ Sharing",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://unoslearn.csod.com/ux/ats/careersite/1/home?c=unoslearn",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Network for Organ Sharing"
+}

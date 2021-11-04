@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17147,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Greenfield Industries",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/e3451535-ca6c-4125-a912-4fb73eb0e50a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Greenfield Industries"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20140,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Footprint Retail Services",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/f9cab4f7-fbfe-466e-8927-1451b0411e21/Footprint-Retail-Services",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Footprint Retail Services"
+}

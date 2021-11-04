@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5856,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "Monarch Investment and Management Group",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/monarchinvestment",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Monarch Investment and Management Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26840,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Cutting Edge Countertops",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=f3b23be6-a82f-4cb3-a6ea-13b2cdc2e29c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cutting Edge Countertops"
+}

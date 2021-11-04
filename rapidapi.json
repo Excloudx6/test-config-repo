@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24831,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "RapidAPI",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/rapidapi/03.001",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "RapidAPI"
+}

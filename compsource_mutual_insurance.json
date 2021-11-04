@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11000,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "CompSource Mutual Insurance",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=3AACC3D2E2C611A687D334865775C17A",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CompSource Mutual Insurance"
+}

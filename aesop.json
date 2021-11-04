@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4049,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Aesop",
+            "spider_name": "workday",
+            "start_url": "https://aesop.wd3.myworkdayjobs.com/aesopcareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Aesop"
+}

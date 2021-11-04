@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14151,
+            "integration_provider_id": 113,
+            "is_python": true,
+            "name": "King Show Games",
+            "spider_name": "our_career_pages",
+            "start_url": "http://jobs.ourcareerpages.com/WebServices/ccp_jobs.aspx?GroupBy=&InAccountID=5919&CCPCode=King%20Show%20Games",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "King Show Games"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27310,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "Track 7 Brewing",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://track7brewing.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Track 7 Brewing"
+}

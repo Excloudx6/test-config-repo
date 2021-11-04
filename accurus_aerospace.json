@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10885,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Accurus Aerospace",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=CCFDFA6BB8E1FA8C98C3B3935CAF9418",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Accurus Aerospace"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15427,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Neighborcare Health",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NEI1003/JobBoard/05b8e5e2-a441-f1ac-02fd-234422e71609",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Neighborcare Health"
+}

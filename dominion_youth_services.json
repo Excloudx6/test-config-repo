@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11462,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Dominion Youth Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=23F801ACD69D092773FFC758BE5BAA93",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dominion Youth Services"
+}

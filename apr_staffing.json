@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19174,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "APR Staffing",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=v3jdnwpljksfik0yeqgzd4ezya9om707e19ben16gusvi4qr7p76cdo304bnos0i",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "APR Staffing"
+}

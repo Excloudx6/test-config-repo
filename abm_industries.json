@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23452,
+            "integration_provider_id": 95,
+            "is_python": true,
+            "name": "ABM Industries",
+            "spider_name": "hr_smart",
+            "start_url": "https://abm.mua.hrdepartment.com/hr/ats/JobSearch/viewAll",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31063,
+            "integration_provider_id": 214,
+            "is_python": true,
+            "name": "ABM Industries Inc.",
+            "spider_name": "job_align",
+            "start_url": "https://jobs.jobaline.com/sm-c-ABM-Industries-jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ABM Industries"
+}

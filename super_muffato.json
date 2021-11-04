@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29723,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Super Muffato",
+            "spider_name": "gupy",
+            "start_url": "https://grupomuffatovagas.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Super Muffato"
+}

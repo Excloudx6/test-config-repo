@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23981,
+            "integration_provider_id": 168,
+            "is_python": true,
+            "name": "Great Minds",
+            "spider_name": "recruitee",
+            "start_url": "https://greatminds.recruitee.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Great Minds"
+}

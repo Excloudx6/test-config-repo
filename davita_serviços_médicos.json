@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29463,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "DaVita Servi\u00e7os M\u00e9dicos",
+            "spider_name": "gupy",
+            "start_url": "https://davitaservicosmedicos.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DaVita Servi\u00e7os M\u00e9dicos"
+}

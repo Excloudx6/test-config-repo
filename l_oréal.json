@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21162,
+            "integration_provider_id": 151,
+            "is_python": true,
+            "name": "L'Or\u00e9al",
+            "spider_name": "avature",
+            "start_url": "https://sandboxloa.avature.net/jobs/SearchJobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "L'Or\u00e9al"
+}

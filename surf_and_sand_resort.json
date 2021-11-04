@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10460,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Surf and Sand Resort",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/JCR1000JRLLC/JobBoard/1a8a786a-8fe2-4732-be47-16638d5f16f3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Surf and Sand Resort"
+}

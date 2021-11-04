@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15308,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Bader Rutter",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BAD1000/JobBoard/4fef50e2-6d1a-4406-4d02-1056cf5aedf1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bader Rutter"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19860,
+            "integration_provider_id": 143,
+            "is_python": true,
+            "name": "Orbit Media Studios",
+            "spider_name": "jazz_hr",
+            "start_url": "https://orbitmedia.applytojob.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Orbit Media Studios"
+}

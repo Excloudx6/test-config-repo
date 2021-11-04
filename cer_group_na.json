@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19158,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "CER Group NA",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=dajdnwmnuvu9zrwq8ubka3z9y9tzky06d223jo7l2qbkh8z2808rgl0882qo79st",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CER Group NA"
+}

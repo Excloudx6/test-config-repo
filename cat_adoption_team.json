@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10816,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Cat Adoption Team",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/673dffbc-1aef-4933-b469-5ad12a89d7fe",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cat Adoption Team"
+}

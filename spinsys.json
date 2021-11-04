@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10860,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "SpinSys",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/7b2b1364-5b81-43d9-bf84-7d50e9338942",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SpinSys"
+}

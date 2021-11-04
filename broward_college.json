@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4124,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Broward College",
+            "spider_name": "workday",
+            "start_url": "https://browardcollege.wd5.myworkdayjobs.com/PT",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24856,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Broward College - FT",
+            "spider_name": "workday",
+            "start_url": "https://browardcollege.wd5.myworkdayjobs.com/FT",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Broward College"
+}

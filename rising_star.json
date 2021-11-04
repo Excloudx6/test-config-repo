@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22110,
+            "integration_provider_id": 153,
+            "is_python": true,
+            "name": "Rising Star",
+            "spider_name": "job_link_apply",
+            "start_url": "https://www.joblinkapply.com/Joblink/6400/Search/Search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rising Star"
+}

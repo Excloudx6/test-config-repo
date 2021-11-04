@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10782,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "CLASP",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/eeec35bc-2836-42ab-91a8-a6c9955cf4c0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CLASP"
+}

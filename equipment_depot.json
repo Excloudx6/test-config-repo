@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11044,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Equipment Depot",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B38E004F17E260CC9A2761B7F6E6221F",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Equipment Depot"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11070,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Global Credit Union",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A470D58E585939A383DD3A00AFA446C0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Global Credit Union"
+}

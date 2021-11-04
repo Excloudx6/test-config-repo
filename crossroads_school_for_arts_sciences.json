@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11339,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Crossroads School for Arts & Sciences",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=43C6D9DB8027495CCEAC3A34F06BF82E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Crossroads School for Arts & Sciences"
+}

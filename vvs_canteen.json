@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11322,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "VVS Canteen",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=8611D60F2C0CA8172746FDB8EBF9CC36",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "VVS Canteen"
+}

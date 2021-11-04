@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12910,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Sun Pharmaceutical Industries Limited",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://cho.tbe.taleo.net/cho01/ats/careers/v2/searchResults?org=SUN_PHARMA&cws=41",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sun Pharmaceutical Industries Limited"
+}

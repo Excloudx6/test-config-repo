@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29486,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Elite Rede de Ensino",
+            "spider_name": "gupy",
+            "start_url": "https://elite.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Elite Rede de Ensino"
+}

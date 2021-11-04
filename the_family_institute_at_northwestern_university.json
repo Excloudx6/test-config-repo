@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10831,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "The Family Institute at Northwestern University",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/f5fe499a-1f5b-4934-9ef4-f24fb5755d2e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Family Institute at Northwestern University"
+}

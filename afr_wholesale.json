@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11358,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "AFR Wholesale",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=4F6E940ACBC129EB4FA44E1B67414404",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "AFR Wholesale"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18016,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Lombard Odier",
+            "spider_name": "workday",
+            "start_url": "https://lombardodier.wd3.myworkdayjobs.com/en-US/Lombard_Odier_Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lombard Odier"
+}

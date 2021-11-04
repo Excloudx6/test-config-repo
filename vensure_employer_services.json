@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19168,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Vensure Employer Services",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=pyjdnwpthq8ogkja7dzd6zaeyfskam07ccoz6bm7yrzxk6zmgaur58u8d0jm23vs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Vensure Employer Services"
+}

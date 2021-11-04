@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15295,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Kognito",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ASC1003/JobBoard/fb3e1d35-d882-45db-b58c-10d68e21d142",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kognito"
+}

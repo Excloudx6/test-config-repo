@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10371,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Nationwide Homes",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CAV1001PALM/JobBoard/96fd6ca5-ea4a-4e1d-9b14-74a0ae07382c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nationwide Homes"
+}

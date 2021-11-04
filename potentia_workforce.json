@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23842,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Potentia Workforce",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://potentiaworkforce.zohorecruit.com/recruit/Portal.na",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Potentia Workforce"
+}

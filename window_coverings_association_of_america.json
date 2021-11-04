@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6186,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Window Coverings Association of America",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://wcaa.csod.com/ux/ats/careersite/1/home?c=wcaa",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Window Coverings Association of America"
+}

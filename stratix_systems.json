@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10863,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Stratix Systems",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/887bc00e-270e-4763-a03b-f4312b69c7ff",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Stratix Systems"
+}

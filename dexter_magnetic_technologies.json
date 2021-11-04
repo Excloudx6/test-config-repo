@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15660,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Dexter Magnetic Technologies",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ROB1008RFH/JobBoard/eccc647e-e1b1-4f2f-808c-4c0497db7221",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dexter Magnetic Technologies"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 249,
+            "integration_provider_id": 63,
+            "is_python": true,
+            "name": "Alorica",
+            "spider_name": "alorica_career_page",
+            "start_url": "https://eft.alorica.com/human.aspx?OrgID=8112",
+            "status": 1,
+            "url_params": [
+                "src=JB-12310"
+            ]
+        }
+    ],
+    "name": "Alorica"
+}

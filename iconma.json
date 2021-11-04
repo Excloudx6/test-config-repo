@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19186,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "ICONMA",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=9bjdnw2mlhip8doaz2t0q9w4wphk960418ms6mtfp5oxvgnr76bfafpnr8c62y27",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ICONMA"
+}

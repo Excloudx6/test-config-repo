@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6551,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Digital Ally",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/da128e01-9066-4f02-b4fc-748054179ac6/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Digital Ally"
+}

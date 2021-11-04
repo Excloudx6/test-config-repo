@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22156,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "ABB Optical Group",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7882674faaeb6e014faf31dcd9011e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ABB Optical Group"
+}

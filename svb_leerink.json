@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4693,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "SVB Leerink",
+            "spider_name": "workday",
+            "start_url": "https://leerink.wd5.myworkdayjobs.com/svbleerink",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SVB Leerink"
+}

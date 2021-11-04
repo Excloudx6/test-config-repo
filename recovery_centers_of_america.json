@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10194,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Recovery Centers of America",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1142507/search/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Recovery Centers of America"
+}

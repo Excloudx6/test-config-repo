@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4134,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Brandeis University",
+            "spider_name": "workday",
+            "start_url": "https://brandeis.wd5.myworkdayjobs.com/Jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brandeis University"
+}

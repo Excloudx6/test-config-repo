@@ -1,0 +1,137 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 301,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Panda Express",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=Panda+Corporate+Jobs+Site&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 303,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Ippudo",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=IPPUDO&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 304,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Uncle Tetsu",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=UncleTetsu&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 306,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Panda Inn",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=PANDAINN&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 307,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Panda Express",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=PandaRestaurantHourly&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 308,
+            "integration_provider_id": 58,
+            "is_python": true,
+            "name": "Panda Express",
+            "spider_name": "select_minds_sitemap_career_page",
+            "start_url": "http://pandarg.taleo.net/careersection/sitemap.jss?portalCode=PandaRestaurant&lang=en",
+            "status": 1,
+            "url_params": [
+                "src=JB-11380"
+            ]
+        }
+    ],
+    "name": "Panda Restaurant Group"
+}

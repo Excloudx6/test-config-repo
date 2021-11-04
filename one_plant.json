@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26314,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "One Plant",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/oneplant/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "One Plant"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11261,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "SJV Data Solutions",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=7613FF71AB9737C0E53BDF190831A9D9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SJV Data Solutions"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22164,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Dominican University",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a78826752f2e2840152f6563b9f01df",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dominican University"
+}

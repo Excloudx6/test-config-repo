@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11697,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "TTCU Federal Credit Union",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=AC2C6F7DCE8B14F38BB3D3CAF20B4C52",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TTCU Federal Credit Union"
+}

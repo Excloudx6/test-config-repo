@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10479,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Logan Aluminum",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/LOG1001LOGAN/JobBoard/0900520e-a75b-44f3-a9dc-c7d13e3e6da0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Logan Aluminum"
+}

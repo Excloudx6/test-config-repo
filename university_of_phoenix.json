@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21156,
+            "integration_provider_id": 151,
+            "is_python": true,
+            "name": "University of Phoenix",
+            "spider_name": "avature",
+            "start_url": "https://uop.avature.net/careers/SearchJobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Phoenix"
+}

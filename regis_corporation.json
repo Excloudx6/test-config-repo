@@ -1,0 +1,187 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 294,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Regis Corporation",
+            "spider_name": "icims_career_page",
+            "start_url": "https://smartstyleusa-regiscorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25978,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Regis Corporation - Distribution",
+            "spider_name": "icims_career_page",
+            "start_url": "https://usdistribution-regiscorp.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25979,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Regis Corporation - Corporate",
+            "spider_name": "icims_career_page",
+            "start_url": "https://corporate-regiscorp.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28236,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Supercuts",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/Supercuts",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28237,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Roosters Men's Grooming Center",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/Roosters",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28238,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Signature Style Salons",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/Signature",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28239,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "First Choice Haircutters",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/FirstChoice",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28240,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "COST CUTTERS",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/CostCutters",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28241,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "SmartStyle Hair Salons",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/SmartStyle",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Regis Corporation"
+}

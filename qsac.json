@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15612,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "QSAC",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/qsa1000qsac/JobBoard/d1dee834-9977-44db-8afd-d97fd6e60e44",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "QSAC"
+}

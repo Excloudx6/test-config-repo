@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10320,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Altium",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ALT1009ATIM/JobBoard/4562bf50-2844-458c-a4ec-1c1562a24bd1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Altium"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10516,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "mTrade",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MOR1018MTHC/JobBoard/64b76fd0-0760-4e72-9886-8f96c492d7db",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "mTrade"
+}

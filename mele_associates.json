@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15402,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "MELE Associates",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MEL1006MELEA/JobBoard/6fd9d1a7-b494-409b-9086-a7f494f90edb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MELE Associates,"
+}

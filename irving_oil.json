@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14832,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Irving Oil",
+            "spider_name": "workday",
+            "start_url": "https://irvingoil.wd3.myworkdayjobs.com/IOL_Careers_All-Positions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Irving Oil"
+}

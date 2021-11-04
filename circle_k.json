@@ -1,0 +1,71 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 562,
+            "integration_provider_id": 93,
+            "is_python": true,
+            "name": "Circle K",
+            "spider_name": "circlek_workday",
+            "start_url": "https://wd3-services1.myworkday.com/ccx/service/customreport2/circlek/ISU-Talentify-JobPostings/RPT-Talentify-JobPostings",
+            "status": 1,
+            "url_params": [
+                "source=Talentify_Circle_K"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 563,
+            "integration_provider_id": 93,
+            "is_python": true,
+            "name": "Holiday Stationstores",
+            "spider_name": "circlek_workday",
+            "start_url": "https://wd3-services1.myworkday.com/ccx/service/customreport2/circlek/ISU-Talentify-JobPostings/RPT-Talentify-JobPostingsNorthernTier",
+            "status": 1,
+            "url_params": [
+                "source=Talentify_Holiday"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 588,
+            "integration_provider_id": 93,
+            "is_python": true,
+            "name": "Couche Tard",
+            "spider_name": "circlek_workday",
+            "start_url": "https://wd3-services1.myworkday.com/ccx/service/customreport2/circlek/ISU-Talentify-JobPostings/RPT-Talentify-JobPostingsCoucheTard",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify_Couchetard"
+            ]
+        }
+    ],
+    "name": "Circle K"
+}

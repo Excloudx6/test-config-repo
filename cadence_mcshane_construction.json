@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4948,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Cadence McShane Construction",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c02c24e1-f4f6-47f7-8251-5d232677ec80",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cadence McShane Construction"
+}

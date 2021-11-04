@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3459,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Metasys Technologies Inc.",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/metasystechnologiesinc1",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19191,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Metasys Technologies",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=bpjdnwgu38j84sabghlw7x9mmxinki0297vano3tk7rjth7i2es8ayn8uhi63zh7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Metasys Technologies"
+}

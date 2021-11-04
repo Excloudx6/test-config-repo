@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6114,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Organic Valley",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://organicvalley.csod.com/ux/ats/careersite/3/home?c=organicvalley",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Organic Valley"
+}

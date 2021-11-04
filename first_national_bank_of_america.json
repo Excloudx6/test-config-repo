@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15023,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "First National Bank of America",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-fnba.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "First National Bank of America"
+}

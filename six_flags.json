@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22027,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Six Flags",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SIX1001SIX/JobBoard/e1520276-19b9-4175-83f4-20d5cf37eb41",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Six Flags"
+}

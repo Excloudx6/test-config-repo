@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10092,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Bank for International Settlements",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://lde.tbe.taleo.net/lde01/ats/careers/v2/searchResults?org=BIS&cws=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bank for International Settlements"
+}

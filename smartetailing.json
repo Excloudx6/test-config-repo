@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15611,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SmartEtailing",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/QUA1003QBP/JobBoard/0a11c700-8c72-42cc-bea0-d774f5014673",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SmartEtailing"
+}

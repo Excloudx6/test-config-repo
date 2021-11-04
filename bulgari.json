@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24715,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "Bulgari",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://bulgari.recruitmentplatform.com/FO/PCAFK026203F3VBQB798N7V11/index.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bulgari"
+}

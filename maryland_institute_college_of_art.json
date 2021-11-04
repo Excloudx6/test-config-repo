@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4497,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Maryland Institute College of Art",
+            "spider_name": "workday",
+            "start_url": "https://mica.wd5.myworkdayjobs.com/Staff",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Maryland Institute College of Art"
+}

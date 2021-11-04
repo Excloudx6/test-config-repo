@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12374,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "Greenpeace",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/greenpeace/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30096,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Greenpeace",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career10.successfactors.com/career?career_ns=job_listing_summary&company=greenpeace",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Greenpeace"
+}

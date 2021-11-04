@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12553,
+            "integration_provider_id": 123,
+            "is_python": true,
+            "name": "BluePearl Veterinary Partners",
+            "spider_name": "recsolu_career_page",
+            "start_url": "https://bluepearl.recsolu.com/job_boards/1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BluePearl Veterinary Partners"
+}

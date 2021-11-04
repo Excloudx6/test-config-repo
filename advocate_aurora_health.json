@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 598,
+            "integration_provider_id": 99,
+            "is_python": true,
+            "name": "Advocate Aurora Health",
+            "spider_name": "advocate_aurora_clinician",
+            "start_url": "https://www.advocateauroracliniciancareers.org/jobs?",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Advocate Aurora Health"
+}

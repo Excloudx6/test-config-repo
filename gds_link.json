@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10758,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "GDS Link",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/0b354007-0cad-41e2-9bc3-c22485a9eda6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GDS Link"
+}

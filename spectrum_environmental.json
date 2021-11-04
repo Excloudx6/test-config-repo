@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16426,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Spectrum Environmental",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://spectrum-environmental-services-inc.careerplug.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spectrum Environmental"
+}

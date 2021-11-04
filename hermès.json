@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24721,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "Herm\u00e8s",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://hermes.recruitmentplatform.com/APPLY/apply.html?jobId=QGHFK026203F3VBQBV77V7940-179743",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Herm\u00e8s"
+}

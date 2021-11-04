@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10834,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Haven Housing",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/742779ad-d003-4e2b-99b4-7bd15153afe9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Haven Housing"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 591,
+            "integration_provider_id": 97,
+            "is_python": true,
+            "name": "Bath & Body Works",
+            "spider_name": "bath_and_body_works",
+            "start_url": "https://jobsapi-internal.m-cloud.io/",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Bath & Body Works"
+}

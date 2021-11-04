@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4857,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "American Foods Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-americanfoodsgroup.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Foods Group"
+}

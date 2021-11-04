@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15517,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Onamac Industries",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SEL1001SELME/JobBoard/5570b7c7-03b2-4cd4-a2b1-0a7f8598c28c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Onamac Industries"
+}

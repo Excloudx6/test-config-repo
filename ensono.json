@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23358,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Ensono",
+            "spider_name": "workday",
+            "start_url": "https://itoinc.wd1.myworkdayjobs.com/EnsonoUSA",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ensono"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19367,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Fairfield Glade Community Club",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=fairfieldglade",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fairfield Glade Community Club"
+}

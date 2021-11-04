@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28381,
+            "integration_provider_id": 193,
+            "is_python": true,
+            "name": "Central Indiana Educational Service Center",
+            "spider_name": "applitrack",
+            "start_url": "https://www.applitrack.com/ciescconsortium/onlineapp/default.aspx?all=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Central Indiana Educational Service Center"
+}

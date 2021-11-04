@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14337,
+            "integration_provider_id": 124,
+            "is_python": true,
+            "name": "Goodwill Industries of Tulsa",
+            "spider_name": "the_applicant_manager",
+            "start_url": "https://www.theapplicantmanager.com/careers?co=GT",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Goodwill Industries of Tulsa"
+}

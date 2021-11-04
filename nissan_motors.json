@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4545,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Nissan Motors",
+            "spider_name": "workday",
+            "start_url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nissan Motors"
+}

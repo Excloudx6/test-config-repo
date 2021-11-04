@@ -1,0 +1,47 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27977,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "SRS Distribution, Inc.",
+            "spider_name": "workday",
+            "start_url": "https://srsdistribution.wd1.myworkdayjobs.com/SRS",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28227,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Heritage Landscape Supply Group",
+            "spider_name": "workday",
+            "start_url": "https://srsdistribution.wd1.myworkdayjobs.com/Heritage",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SRS Distribution, Inc."
+}

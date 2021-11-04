@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28279,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "UnitedHealth Group",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://uhg.taleo.net/careersection/10780/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29972,
+            "integration_provider_id": 204,
+            "is_python": true,
+            "name": "UnitedHealth Group ",
+            "spider_name": "united_health_group",
+            "start_url": "https://careers.unitedhealthgroup.com/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UnitedHealth Group"
+}

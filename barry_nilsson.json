@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6001,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Barry.Nilsson.",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://bnlaw.csod.com/ux/ats/careersite/5/home?c=bnlaw",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Barry.Nilsson."
+}

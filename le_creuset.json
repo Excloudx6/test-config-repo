@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6275,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Le Creuset",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/LEC1002LECA/JobBoard/8688fc89-d741-4709-a411-769bdb597e54",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Le Creuset"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10830,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Essex Industries",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/a2451ab4-accb-40dc-bf7f-4c87efbe24ed",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Essex Industries"
+}

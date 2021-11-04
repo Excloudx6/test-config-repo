@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15610,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "ProMach",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PRO1027PROMA/JobBoard/4f2e6cdb-74ae-4dd0-a40e-ad85f30f189c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ProMach"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23308,
+            "integration_provider_id": 161,
+            "is_python": true,
+            "name": "Apple",
+            "spider_name": "apple",
+            "start_url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Apple"
+}

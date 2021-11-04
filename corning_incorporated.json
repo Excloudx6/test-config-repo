@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 589,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Corning Incorporated",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?company=CNGPROD&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=5wLHhHNr%2fPPSHUf24FgbAtqhQxnWXxt0z%2fG4%2bKX7sx0%3d",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Corning Incorporated"
+}

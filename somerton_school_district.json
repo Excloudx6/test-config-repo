@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21819,
+            "integration_provider_id": 150,
+            "is_python": true,
+            "name": "Somerton School District",
+            "spider_name": "tedk12_career_page",
+            "start_url": "https://somerton.tedk12.com/hire/index.aspx?JobListAJAX=Paging&ListID=JobList",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Somerton School District"
+}

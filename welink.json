@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18935,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "WeLink",
+            "spider_name": "breezy_hr",
+            "start_url": "https://welink.breezy.hr",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WeLink"
+}

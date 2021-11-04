@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20893,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Goodwill of the Olympics and Rainier Region",
+            "spider_name": "hrm_direct",
+            "start_url": "https://tacomagoodwill.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30002,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Goodwill Industries International",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-goodwill.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Goodwill"
+}

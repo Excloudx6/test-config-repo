@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15363,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "ContinueCARE",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/COM1029/JobBoard/fdd4955d-1f92-42b1-bd6a-c06261ed9256",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ContinueCARE"
+}

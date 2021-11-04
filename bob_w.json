@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25588,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "Bob W.",
+            "spider_name": "teamtailor",
+            "start_url": "https://careers.bobw.co/jobs.rss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bob W."
+}

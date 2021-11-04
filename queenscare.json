@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11218,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "QueensCare",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=689F78E0DF53357454E73459BB7A020E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "QueensCare"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9959,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Nagarro",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://nagarro.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=8115010148",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nagarro"
+}

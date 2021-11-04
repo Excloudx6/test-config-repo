@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21094,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "HRL Laboratories",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HRL1001HRLLB/JobBoard/8137e11c-7bd2-40bd-944e-52183e76b433",
+            "status": 1,
+            "url_params": [
+                "talentify=talentify"
+            ]
+        }
+    ],
+    "name": "HRL Laboratories"
+}

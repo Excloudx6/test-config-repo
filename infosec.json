@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14050,
+            "integration_provider_id": 113,
+            "is_python": true,
+            "name": "Infosec",
+            "spider_name": "our_career_pages",
+            "start_url": "http://jobs.ourcareerpages.com/WebServices/ccp_jobs.aspx?GroupBy=&InAccountID=6381&CCPCode=INFOSEC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Infosec"
+}

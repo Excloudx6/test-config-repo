@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29495,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Expresso S\u00e3o Miguel",
+            "spider_name": "gupy",
+            "start_url": "https://sejaesm.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Expresso S\u00e3o Miguel"
+}

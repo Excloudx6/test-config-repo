@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24716,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "INTERPOL",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://interpol.recruitmentplatform.com/Q22FK026203F3VBQBV7V4V4EW/EN//index.php",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "INTERPOL"
+}

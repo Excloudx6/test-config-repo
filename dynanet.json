@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10826,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Dynanet",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c2f21434-f60a-4917-9735-c03323384f87",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dynanet"
+}

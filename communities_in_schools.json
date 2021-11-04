@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14508,
+            "integration_provider_id": 122,
+            "is_python": true,
+            "name": "Communities In Schools",
+            "spider_name": "trinet_hire_career_page",
+            "start_url": "https://app.trinethire.com/companies/7357-communities-in-schools/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Communities In Schools"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22167,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "MTech Mechanical",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a788267548eb16c01549c5a9bd902e6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MTech Mechanical"
+}

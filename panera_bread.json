@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25973,
+            "integration_provider_id": 158,
+            "is_python": true,
+            "name": "Panera Bread ",
+            "spider_name": "careerarc",
+            "start_url": "https://www.careerarc.com/job-map/panera-bread/campaign/19450",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Panera Bread"
+}

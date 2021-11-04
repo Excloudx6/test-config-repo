@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28819,
+            "integration_provider_id": 193,
+            "is_python": true,
+            "name": "Monarch Landing",
+            "spider_name": "applitrack",
+            "start_url": "https://www.applitrack.com/monarchlanding/onlineapp/default.aspx?all=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Monarch Landing"
+}

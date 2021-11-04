@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19164,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Rightech",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=frjdnwqfozzxepksstcxg50zyoonzu05a8n7xx0glrqwa5vujtji73wai2n6mk6e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rightech"
+}

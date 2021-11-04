@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5200,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Healthcare Information and Management Systems Society, Inc. (HIMSS)",
+            "spider_name": "icims_career_page",
+            "start_url": "https://external-himss.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HIMSS"
+}

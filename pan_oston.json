@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11606,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Pan Oston",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E1A87C4ED181B345F01B2426FA14F115",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pan Oston"
+}

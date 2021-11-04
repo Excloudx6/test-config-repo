@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9214,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "M+R",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/mrss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "M+R"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18430,
+            "integration_provider_id": 136,
+            "is_python": true,
+            "name": "Amazon Jobs",
+            "spider_name": "amazon_jobs",
+            "start_url": "https://www.amazon.jobs/en/search?base_query=&loc_query=",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Amazon Jobs"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10825,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "DMC,",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/557d2459-78ea-4645-8f86-a87858ac4f88",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DMC,"
+}

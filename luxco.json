@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11564,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Luxco",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A46CA36D6B1D799408685D93DFF4FB9C",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Luxco"
+}

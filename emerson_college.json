@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4271,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Emerson College",
+            "spider_name": "workday",
+            "start_url": "https://emerson.wd5.myworkdayjobs.com/en-US/Emerson_College_Staff",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Emerson College"
+}

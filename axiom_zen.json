@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18508,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "Axiom Zen",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/axiomzen",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Axiom Zen"
+}

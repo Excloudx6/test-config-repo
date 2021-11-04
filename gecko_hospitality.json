@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 434,
+            "integration_provider_id": 43,
+            "is_python": true,
+            "name": "Gecko Hospitality ",
+            "spider_name": "haleymarketing_career_page",
+            "start_url": "https://careers.haleymarketing.com/xml/xml.smpl?id=101097&pass=geckohosp",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Gecko Hospitality "
+}

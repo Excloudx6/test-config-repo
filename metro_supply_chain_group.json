@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10283,
+            "integration_provider_id": 44,
+            "is_python": true,
+            "name": "Metro Supply Chain Group",
+            "spider_name": "dayforce_career_page",
+            "start_url": "https://can60.dayforcehcm.com/CandidatePortal/en-US/porta",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Metro Supply Chain Group"
+}

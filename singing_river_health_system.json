@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6137,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Singing River Health System",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://singingriverhealthsystem.csod.com/ux/ats/careersite/1/home?c=singingriverhealthsystem",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Singing River Health System"
+}

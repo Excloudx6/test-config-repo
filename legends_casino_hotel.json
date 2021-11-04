@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24786,
+            "integration_provider_id": 176,
+            "is_python": true,
+            "name": "Legends Casino Hotel",
+            "spider_name": "symphony_talent",
+            "start_url": "https://www.hrapply.com/yakamalegends/AppJobList.jsp",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Legends Casino Hotel"
+}

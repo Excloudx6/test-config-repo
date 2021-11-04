@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13712,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "ART19",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://art19.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ART19"
+}

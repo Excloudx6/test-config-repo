@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11280,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "SUN Behavioral Health",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DFD4387DDF5592AEBCA60A7E6794B3C6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SUN Behavioral Health"
+}

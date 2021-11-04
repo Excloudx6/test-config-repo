@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19190,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Paladin Consulting",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=9xjdnwimzf3x52r33w0q5hwdgewoez0087ft76rtwb349ckvp7vk4xwzjwdq6p0e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Paladin Consulting"
+}

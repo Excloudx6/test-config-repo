@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19204,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Contract Professionals",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=cwjdnwj8jv4z30bofc565ub1b35i7o03d5p3kh8a4angxnx15tcmwouj90sxlj7q",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Contract Professionals"
+}

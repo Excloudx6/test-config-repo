@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15367,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Chicago Trading",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CTC1000CTGL/JobBoard/76efd975-e07c-4bd1-89ac-0a2dd8a8b04d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Chicago Trading"
+}

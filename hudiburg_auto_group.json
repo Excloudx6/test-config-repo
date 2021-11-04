@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25494,
+            "integration_provider_id": 181,
+            "is_python": true,
+            "name": "Hudiburg Auto Group",
+            "spider_name": "talentnest",
+            "start_url": "https://hudiburg.talentnest.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hudiburg Auto Group"
+}

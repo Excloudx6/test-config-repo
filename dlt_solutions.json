@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5058,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "DLT Solutions",
+            "spider_name": "workday",
+            "start_url": "https://techdata.wd1.myworkdayjobs.com/DLTExternal",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DLT Solutions"
+}

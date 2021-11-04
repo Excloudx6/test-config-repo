@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19205,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Micro Data Systems",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=fdjdnwtg41wyho7g35p70zojzgf4vd0250u4e5qjwaur9yrzbp3ghnz7z6zfce4a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Micro Data Systems"
+}

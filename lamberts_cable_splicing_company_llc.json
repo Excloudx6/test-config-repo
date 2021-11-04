@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6265,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Lamberts Cable Splicing Company, LLC",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/DYC1000/JobBoard/cca223d7-30c2-410a-bd40-2ef2c6d9d7ee",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lamberts Cable Splicing Company, LLC"
+}

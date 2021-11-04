@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15309,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "mcdonaldplastic",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AYM1000/JobBoard/9d28e3c4-ffe5-47ba-be24-79b8d025e40b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "mcdonaldplastic"
+}

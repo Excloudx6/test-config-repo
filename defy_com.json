@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15622,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "DEFY'COM",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CIR1004CTH/JobBoard/94668973-d5c6-47d4-b1d4-509b04cd506d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DEFY'COM"
+}

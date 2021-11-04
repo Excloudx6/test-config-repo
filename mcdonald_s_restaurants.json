@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3465,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "McDonald's Restaurants Canada",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/mcdonaldscanada",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "McDonald's Restaurants"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22673,
+            "integration_provider_id": 159,
+            "is_python": true,
+            "name": "City of Montgomery",
+            "spider_name": "jobaps_cloud",
+            "start_url": "https://jobapscloud.com/MGM/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "City of Montgomery"
+}

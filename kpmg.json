@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14431,
+            "integration_provider_id": 114,
+            "is_python": true,
+            "name": "KPMG",
+            "spider_name": "page_up_people",
+            "start_url": "http://careers.pageuppeople.com/942/cw/en-us/jobs.json",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23338,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "KPMG UK",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://krb-sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=30008&siteid=5014",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28257,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "KPMG BR",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/Kpmg",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "KPMG"
+}

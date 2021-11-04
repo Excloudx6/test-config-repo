@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15384,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Majestic Steel USA",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MAJ1001MJS/JobBoard/9b201b68-7a1e-48f3-8f33-1e6b7cd52053",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Majestic Steel USA"
+}

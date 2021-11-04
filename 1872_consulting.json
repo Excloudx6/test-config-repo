@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19167,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "1872 Consulting",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=lojdnwsmdxghl4pzdq42rqz9177xge05fdwku0pmuy3q1hzvvriaa1zx71wnidpy",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "1872 Consulting"
+}

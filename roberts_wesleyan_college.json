@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10855,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Roberts Wesleyan College",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/a9262c4d-8d23-4962-83ba-12f00933965e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Roberts Wesleyan College"
+}

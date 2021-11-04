@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29688,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Sankhya Gest\u00e3o de Neg\u00f3cios",
+            "spider_name": "gupy",
+            "start_url": "https://sankhya.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sankhya Gest\u00e3o de Neg\u00f3cios"
+}

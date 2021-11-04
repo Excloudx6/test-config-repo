@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19207,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Atlantic Partners",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=5zjdnwgz9rgt98nybpazqo8bw8rfbl00caqs4j4fd2bztzkfucovot2hjp1hm9he",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Atlantic Partners"
+}

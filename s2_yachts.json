@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21990,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "S2 Yachts",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F7C46B1C445BC9AB9541E7881140DC41",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "S2 Yachts"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14419,
+            "integration_provider_id": 114,
+            "is_python": true,
+            "name": "Boise State University",
+            "spider_name": "page_up_people",
+            "start_url": "http://careers.pageuppeople.com/978/cw/en-us/jobs.json",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Boise State University"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12907,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Spectrio",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/a12f338a-09a6-4b1d-89eb-5690dc1895ed",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spectrio"
+}

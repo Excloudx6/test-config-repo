@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11492,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Fort Financial Credit Union",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=8C6CA94D10A50D0BD53A559B67925734",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fort Financial Credit Union"
+}

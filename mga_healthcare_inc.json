@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3462,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "MGA Healthcare Inc.",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/MGAHomecare",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MGA Healthcare Inc."
+}

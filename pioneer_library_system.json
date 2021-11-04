@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11208,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Pioneer Library System",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=59B26C71ACB86CD67748E5BD71F55EE5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pioneer Library System"
+}

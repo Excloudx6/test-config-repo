@@ -1,0 +1,69 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 595,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "MasterCorp",
+            "spider_name": "icims_career_page",
+            "start_url": "https://jobseng-mastercorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 596,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "MasterCorp Commercial Services",
+            "spider_name": "icims_career_page",
+            "start_url": "https://mcs-mastercorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 597,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "MasterCorp",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-mastercorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Master"
+}

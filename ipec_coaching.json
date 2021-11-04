@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22534,
+            "integration_provider_id": 154,
+            "is_python": true,
+            "name": "iPEC Coaching",
+            "spider_name": "recruiterbox",
+            "start_url": "https://ipeccoaching.recruiterbox.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "iPEC Coaching"
+}

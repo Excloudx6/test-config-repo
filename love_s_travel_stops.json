@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 487,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Love's Travel Stops",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career8.successfactors.com/career?company=Loves&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=2eBWli%2f2bs%2f0vBeplo6e98wadRspj1NUN1dGgU5s7Jw%3d",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Love's Travel Stops"
+}

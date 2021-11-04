@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4133,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bentley University",
+            "spider_name": "workday",
+            "start_url": "https://bentley.wd1.myworkdayjobs.com/faculty",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bentley University"
+}

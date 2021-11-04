@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16814,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Rite of Passage",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/RIT1002ROPI/JobBoard/040523ed-1df5-4621-a3f6-14ed3728dfa4",
+            "status": 1,
+            "url_params": [
+                "sourceid=9fe5584a-1baf-4f5e-902d-be03178cc0ac"
+            ]
+        }
+    ],
+    "name": "Rite of Passage"
+}

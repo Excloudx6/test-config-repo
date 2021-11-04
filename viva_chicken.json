@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25950,
+            "integration_provider_id": 183,
+            "is_python": true,
+            "name": "Viva Chicken",
+            "spider_name": "harri",
+            "start_url": "https://harri.com/VivaChicken",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Viva Chicken"
+}

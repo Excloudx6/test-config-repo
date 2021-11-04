@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22622,
+            "integration_provider_id": 148,
+            "is_python": true,
+            "name": "Museum of Contemporary Art Chicago",
+            "spider_name": "hireology",
+            "start_url": "https://careers.hireology.com/museumofcontemporaryart",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Museum of Contemporary Art Chicago"
+}

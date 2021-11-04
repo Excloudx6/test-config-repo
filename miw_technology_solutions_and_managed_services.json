@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13849,
+            "integration_provider_id": 168,
+            "is_python": true,
+            "name": "MIW \u2013 Technology Solutions and Managed Services",
+            "spider_name": "recruitee",
+            "start_url": "https://mobileintegrationworkgroup.recruitee.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MIW \u2013 Technology Solutions and Managed Services"
+}

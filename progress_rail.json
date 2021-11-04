@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 460,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "Progress Rail",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://xjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=26144&siteid=5496",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Progress Rail"
+}

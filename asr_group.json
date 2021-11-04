@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 152,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "ASR Group",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?company=634633P&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&_s.crb=7Qpi%2fzaQ3uSypH3QIqchB0ifyZM%3d",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "ASR Group"
+}

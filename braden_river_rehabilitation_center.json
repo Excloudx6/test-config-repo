@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15527,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "BRADEN RIVER REHABILITATION CENTER",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SOU1042SOUHM/JobBoard/ec8a4413-edc7-4b22-a54e-1f35ea1829ec",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BRADEN RIVER REHABILITATION CENTER"
+}

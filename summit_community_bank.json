@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29146,
+            "integration_provider_id": 195,
+            "is_python": true,
+            "name": "Summit Community Bank",
+            "spider_name": "irecruit",
+            "start_url": "https://www.irecruit-us.com/index.php?OrgID=I20171201",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Summit Community Bank"
+}

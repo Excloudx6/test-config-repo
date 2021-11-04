@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14375,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "eLearning",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://elearning.zohorecruit.com/recruit/Portal.na?iframe=true&digest=1GzGqq3K@8wRSYuH4RljaHGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "eLearning"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15390,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Insp\u012br",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MAP1003/JobBoard/f3479d97-0857-4a30-aab4-2c143e5675fb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Insp\u012br"
+}

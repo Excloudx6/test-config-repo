@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10786,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Streetsense",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c5d499e7-f2e5-4cfa-b716-0b04802f8386",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Streetsense"
+}

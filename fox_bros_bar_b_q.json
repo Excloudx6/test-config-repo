@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11490,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Fox Bros Bar-B-Q",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=FD1ED8B590079238ADDC11F59F99EDB9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fox Bros Bar-B-Q"
+}

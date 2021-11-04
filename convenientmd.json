@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25994,
+            "integration_provider_id": 184,
+            "is_python": true,
+            "name": "ConvenientMD",
+            "spider_name": "hirecentric",
+            "start_url": "https://convenientmd.hirecentric.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ConvenientMD"
+}

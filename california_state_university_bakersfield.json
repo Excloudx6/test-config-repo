@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29240,
+            "integration_provider_id": 199,
+            "is_python": true,
+            "name": "California State University, Bakersfield",
+            "spider_name": "peopleadmin",
+            "start_url": "https://csub.peopleadmin.com/postings/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "California State University, Bakersfield"
+}

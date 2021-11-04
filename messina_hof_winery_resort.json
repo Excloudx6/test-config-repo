@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11581,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Messina Hof Winery & Resort",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=ECFF659D455DF2B51E0F70F4E1D683B6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Messina Hof Winery & Resort"
+}

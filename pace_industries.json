@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 235,
+            "integration_provider_id": 44,
+            "is_python": true,
+            "name": "Pace Industries",
+            "spider_name": "dayforce_career_page",
+            "start_url": "https://usr57.dayforcehcm.com/CandidatePortal/en-US/pace",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Pace Industries "
+}

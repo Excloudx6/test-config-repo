@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 490,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Starbucks",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://starbucks.taleo.net/careersection/1000222retail/moresearch.ajax?portal=34100010236",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Starbucks"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10641,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "WPX Energy",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WPX1000WPX/JobBoard/b44e08b0-0f25-4208-9dff-6caa08f095d2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WPX Energy"
+}

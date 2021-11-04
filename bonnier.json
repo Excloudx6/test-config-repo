@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10087,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Bonnier",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phh.tbe.taleo.net/phh03/ats/careers/searchResults.jsp?org=WORLDPUB&cws=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bonnier"
+}

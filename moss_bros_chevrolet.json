@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21218,
+            "integration_provider_id": 148,
+            "is_python": true,
+            "name": "Moss Bros. Chevrolet",
+            "spider_name": "hireology",
+            "start_url": "https://sites.hireology.com/mossbrosautogroup/jobs.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Moss Bros. Chevrolet"
+}

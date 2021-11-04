@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11117,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Kobussen Buses",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=CA2E16C5C2A94F781E9EC179411F8AB1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kobussen Buses"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4452,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "L.L.Bean",
+            "spider_name": "workday",
+            "start_url": "https://llbean.wd1.myworkdayjobs.com/LLBean_Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "L.L.Bean"
+}

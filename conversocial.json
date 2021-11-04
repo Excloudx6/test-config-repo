@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24803,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "Conversocial",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/conversocial/25.00A",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Conversocial"
+}

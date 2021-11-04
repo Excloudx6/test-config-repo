@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23272,
+            "integration_provider_id": 160,
+            "is_python": true,
+            "name": "GuideOne Insurance",
+            "spider_name": "hire_bridge",
+            "start_url": "https://recruit.hirebridge.com/v3/jobs/list.aspx?cid=6440",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GuideOne Insurance"
+}

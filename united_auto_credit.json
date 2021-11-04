@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11311,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "United Auto Credit",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E4A48C98417A405CE0C5CFDE79F12B80",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Auto Credit"
+}

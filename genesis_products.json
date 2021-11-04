@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11069,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Genesis Products",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=CC327F10CD201F34F7E5F801DAC4D395",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Genesis Products"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10809,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Armada Nutrition",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/60a66d78-88ea-4165-a16d-e534eb5aaeee",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Armada Nutrition"
+}

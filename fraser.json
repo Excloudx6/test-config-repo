@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6247,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Fraser",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/fra1008/jobboard/a2c01f70-5455-0bf5-510b-7d25ebd4336c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fraser"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11313,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "United Federal Credit Union",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=9B32A6D3EE8B8C5710B1A8B0861C2AD6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Federal Credit Union"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11461,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Durham-Hensley Health and Rehabilitation",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E0A673324D69FBB80BFA47687A1EDB68",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Durham-Hensley Health and Rehabilitation"
+}

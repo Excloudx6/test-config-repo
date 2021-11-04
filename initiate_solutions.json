@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10785,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Initiate Government Solutions",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/b7a21904-ba4e-4629-93eb-ecd5ba827cad",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "initiate-solutions"
+}

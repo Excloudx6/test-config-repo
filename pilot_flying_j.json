@@ -1,0 +1,51 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 315,
+            "integration_provider_id": 61,
+            "is_python": true,
+            "name": "Pilot Flying J",
+            "spider_name": "avatar_fleet_career_page",
+            "start_url": "https://pilotflyingj.avatarfleet.com/integrations/talentify/openings",
+            "status": 1,
+            "url_params": [
+                "context.session.key.JobBoard=Talentify",
+                "JobBoardID=T",
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7184,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Pilot Flying J",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/PilotCompany",
+            "status": 1,
+            "url_params": [
+                "trid=5e0d4961-6a4f-4975-a171-43af93da7cfc"
+            ]
+        }
+    ],
+    "name": "Pilot Flying J"
+}

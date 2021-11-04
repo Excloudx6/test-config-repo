@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29861,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Infinity Consulting Solutions",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=npjdnwczwk3dmk9tqbf95qodcjhp2r004atxzpts5pjutg5s9eudygrmfkdi5m6p",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Infinity Consulting Solutions"
+}

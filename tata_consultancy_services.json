@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29885,
+            "integration_provider_id": 200,
+            "is_python": true,
+            "name": "Tata Consultancy Services",
+            "spider_name": "ibegin",
+            "start_url": "https://ibegin.tcs.com/iBegin/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tata Consultancy Services"
+}

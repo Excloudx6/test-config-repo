@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10759,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Providence Center",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/f0f2b00e-d6b5-4b9d-af86-53a7a2d7eeed",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Providence Center"
+}

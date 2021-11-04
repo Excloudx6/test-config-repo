@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25627,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "Daniel Wellington",
+            "spider_name": "teamtailor",
+            "start_url": "https://careers.danielwellington.com/jobs.rss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Daniel Wellington"
+}

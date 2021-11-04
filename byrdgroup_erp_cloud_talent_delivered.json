@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19200,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "ByrdGroup ERP/Cloud Talent: Delivered",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=sejdnw26722qzrwp37k18yrdmt0hpy0383ger10ci0y78p5ct3uswv8okk15rlb6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ByrdGroup ERP/Cloud Talent: Delivered"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15345,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Center for Human Development",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CEN1001CHD/JobBoard/02e68109-f493-4358-89fa-9532304af1d7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Center for Human Development"
+}

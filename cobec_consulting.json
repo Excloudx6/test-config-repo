@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22525,
+            "integration_provider_id": 154,
+            "is_python": true,
+            "name": "Cobec Consulting",
+            "spider_name": "recruiterbox",
+            "start_url": "https://cobec.recruiterbox.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cobec Consulting"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11113,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Eat Just",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=1451649A4D41F8A3AE8E16B08CA0E6F1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Eat Just"
+}

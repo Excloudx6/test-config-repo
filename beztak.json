@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15459,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Beztak",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OAK1006OAKL/JobBoard/35eb6740-8b86-46e1-ac1b-15354805c286",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Beztak"
+}

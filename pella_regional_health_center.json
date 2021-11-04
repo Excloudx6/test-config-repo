@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25434,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Pella Regional Health Center",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/cs/pella/#/results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pella Regional Health Center"
+}

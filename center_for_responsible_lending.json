@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15518,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Center for Responsible Lending",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SEL1003SELF/JobBoard/21fced5c-6a3e-477c-a29a-e7adb73eadb2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Center for Responsible Lending"
+}

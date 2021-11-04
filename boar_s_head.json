@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29889,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Boar's Head",
+            "spider_name": "workday",
+            "start_url": "https://boarshead.wd1.myworkdayjobs.com/en-US/BHC",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Boar's Head"
+}

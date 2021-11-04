@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13295,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "Ducker",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://ducker.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25342,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "Frontier View",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://frontierview.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DuckerFrontier"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15656,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Big Bend Regional Hospital",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/b3394170-e409-475c-a2dd-95d53697602f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Big Bend Regional Hospital"
+}

@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31008,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Ascena Retail - Distribution",
+            "spider_name": "workday",
+            "start_url": "https://ascenaretail.wd5.myworkdayjobs.com/us_distribution_center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31009,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Ascena Retail - Sales",
+            "spider_name": "workday",
+            "start_url": "https://ascenaretail.wd5.myworkdayjobs.com/us_retail_jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31010,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Ascena Retail - Corporate",
+            "spider_name": "workday",
+            "start_url": "https://ascenaretail.wd5.myworkdayjobs.com/us_corporate_jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ascena Retail"
+}

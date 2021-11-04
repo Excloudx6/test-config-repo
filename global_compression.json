@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15674,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Global Compression",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WAR1007/JobBoard/6b73024e-ebcb-457f-8f97-760ab511b08d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Global Compression"
+}

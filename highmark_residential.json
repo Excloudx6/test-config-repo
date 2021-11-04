@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10511,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Highmark Residential",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/mil1024milm/JobBoard/834400ec-b020-46cb-aa43-07f26689d997",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Highmark Residential"
+}

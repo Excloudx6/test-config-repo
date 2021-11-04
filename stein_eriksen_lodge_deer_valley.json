@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15530,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Stein Eriksen Lodge Deer Valley",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/STE1022/JobBoard/47eeeb79-9ef7-4359-a833-c0b7e662c466",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Stein Eriksen Lodge Deer Valley"
+}

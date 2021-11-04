@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10637,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "WesleyLife",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/wes1039wesl/JobBoard/ed770a23-64e6-4792-9e85-963980064f4c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WesleyLife"
+}

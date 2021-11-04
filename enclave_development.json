@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11751,
+            "integration_provider_id": 115,
+            "is_python": true,
+            "name": "Enclave Development",
+            "spider_name": "applicant_pro",
+            "start_url": "https://enclavecompanies.applicantpro.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Enclave Development"
+}

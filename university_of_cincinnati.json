@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15572,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "University of Cincinnati",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/UNI1095UOCF/JobBoard/9f0f87ec-0c41-49db-99d7-7b484f481f63",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30128,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "University of Cincinnati",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career8.successfactors.com/career?career_ns=job_listing_summary&company=UCPROD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Cincinnati"
+}

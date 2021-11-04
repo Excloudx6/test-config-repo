@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10833,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Grey Dog Media",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/2850a1ef-ac15-4415-9d45-9270198f554d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Grey Dog Media"
+}

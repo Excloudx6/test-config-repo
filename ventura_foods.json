@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12526,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Ventura Foods",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?career_ns=job_listing_summary&company=C0003446606P",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ventura Foods"
+}

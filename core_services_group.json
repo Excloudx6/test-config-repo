@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11004,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "CORE Services Group",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=59BBCED903C5C0C1B28A5D376CE8BB43",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CORE Services Group"
+}

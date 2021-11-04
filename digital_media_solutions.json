@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10815,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Digital Media Solutions",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/d1cf7a1d-3d07-4af8-a198-f82445afbf3a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Digital Media Solutions"
+}

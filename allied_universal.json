@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 148,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allied Universal",
+            "spider_name": "icims_career_page",
+            "start_url": "https://securitycareers-aus.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 298,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allied Universal",
+            "spider_name": "icims_career_page",
+            "start_url": "https://corporatecareers-aus.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29197,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allied Universal Canada",
+            "spider_name": "icims_career_page",
+            "start_url": "https://securitycareerscanada-aus.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29198,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allied Universal Canada FR",
+            "spider_name": "icims_career_page",
+            "start_url": "https://securitycareersfrcanada-aus.icims.com/jobs/search?ss=1&hashed=-435745502",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29981,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allied Universal Janitorial/Landscaping",
+            "spider_name": "icims_career_page",
+            "start_url": "https://aujscareers-aus.icims.com/jobs/search?hashed=-435745502",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Allied Universal"
+}

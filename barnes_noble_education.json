@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10348,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Barnes & Noble Education",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/BAR1015BNC/JobBoard/2190940b-03cb-490b-b727-7ac2d66cf332",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Barnes & Noble Education"
+}

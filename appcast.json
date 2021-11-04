@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26743,
+            "integration_provider_id": 186,
+            "is_python": true,
+            "name": "Appcast",
+            "spider_name": "candidate_manager",
+            "start_url": "https://www.candidatemanager.net/cm/p/pJobs.aspx?mid=YGTGTAZ&sid=YBWB",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Appcast"
+}

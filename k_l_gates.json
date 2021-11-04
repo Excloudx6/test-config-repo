@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12554,
+            "integration_provider_id": 123,
+            "is_python": true,
+            "name": "K&L Gates",
+            "spider_name": "recsolu_career_page",
+            "start_url": "https://klgates.recsolu.com/job_boards/1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "K&L Gates"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10589,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Talos Energy",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TAL1004TALOS/JobBoard/40fab276-dbed-4ecb-8fcf-d02b718ae6c0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Talos Energy"
+}

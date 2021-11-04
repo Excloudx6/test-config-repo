@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 159,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Fresenius Medical Care North America",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://fmcna.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "Fresenius Medical Care North America"
+}

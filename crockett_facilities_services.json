@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26889,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "Crockett Facilities Services",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://crockettfacilities.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Crockett Facilities Services"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6258,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Kansas Athletics",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/KAN1002KAI/JobBoard/58287c1b-0e20-47bd-9088-a7b706d8f0d9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kansas Athletics"
+}

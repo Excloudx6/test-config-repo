@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9048,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Helm Services",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/b31d56e0-bb38-4abb-87f4-b63744be18a9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Helm Services"
+}

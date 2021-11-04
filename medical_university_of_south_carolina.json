@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15397,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Medical University of South Carolina",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MED1021MUA/JobBoard/e4cac59a-0e92-42f1-a533-6a2793ffe487",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Medical University of South Carolina"
+}

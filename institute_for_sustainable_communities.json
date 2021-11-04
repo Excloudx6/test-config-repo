@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10779,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Institute for Sustainable Communities",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/87169fd6-ea26-43c0-8233-e3793910ff96",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Institute for Sustainable Communities"
+}

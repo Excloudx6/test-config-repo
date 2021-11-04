@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11288,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Terwilliger Plaza",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=8BD1D11E9F61437E085F389124E48BD4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Terwilliger Plaza"
+}

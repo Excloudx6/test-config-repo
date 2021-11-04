@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10561,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Northeast OB/GYN Associates",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ore1000tocm/JobBoard/453e0dad-f942-424d-b332-7764015eca16",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Northeast OB/GYN Associates"
+}

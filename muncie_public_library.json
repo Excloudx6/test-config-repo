@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6817,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Muncie Public Library",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/301b6d2b-451d-4799-b455-3fa10b8dfadc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Muncie Public Library"
+}

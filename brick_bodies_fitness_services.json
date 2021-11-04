@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10943,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Brick Bodies Fitness Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=3083CEE346B2CC019F8E2E193EF5FD9A",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brick Bodies Fitness Services"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6028,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Apex Tool Group",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://apextoolgroup.csod.com/ux/ats/careersite/13/home?c=apextoolgroup",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Apex Tool Group"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 536,
+            "integration_provider_id": 85,
+            "is_python": true,
+            "name": "Papa John's Pizza",
+            "spider_name": "papa_johns",
+            "start_url": "https://jobs.papajohns.com/search/searchjobs",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Papa John's Pizza"
+}

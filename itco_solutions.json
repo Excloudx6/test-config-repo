@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19184,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "ITCO Solutions",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=53jdnwrwkz4keonoc5w7q9fnpe28kw04329yf86qpouqwymyzv84ko24yp6lmhus",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ITCO Solutions"
+}

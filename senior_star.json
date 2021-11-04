@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 432,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Senior Star",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SEN1003SSMCO/JobBoard/eacab3f7-341b-4e2e-a60b-3127af4202dd",
+            "status": 1,
+            "url_params": [
+                "sourceId=98e1340d-6f24-4629-82b5-1f26a330fe3c"
+            ]
+        }
+    ],
+    "name": "Senior Star"
+}

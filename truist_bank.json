@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6337,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Truist Bank",
+            "spider_name": "workday",
+            "start_url": "https://bbt.wd1.myworkdayjobs.com/en-US/Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Truist Bank"
+}

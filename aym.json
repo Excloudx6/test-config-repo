@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24433,
+            "integration_provider_id": 171,
+            "is_python": true,
+            "name": "AYM",
+            "spider_name": "hiring_thing",
+            "start_url": "https://academy-for-young-minds-aym.hiringthing.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "AYM"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24820,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "Jeeng",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/jeeng/F5.003",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Jeeng"
+}

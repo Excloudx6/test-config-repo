@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15261,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Cabot Creamery Co-operative",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AGR1000AGRIM/JobBoard/8740d15c-20f0-40d3-9ee0-cc12ce3a005e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cabot Creamery Co-operative"
+}

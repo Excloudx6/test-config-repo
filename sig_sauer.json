@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6142,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Sig Sauer",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://sigsauer.csod.com/ux/ats/careersite/78/home?c=sigsauer",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sig Sauer"
+}

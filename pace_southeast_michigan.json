@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15473,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "PACE Southeast Michigan",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PAC1017PSM/JobBoard/5d0cf6f9-5f51-4f81-ba5b-92ce689add09",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PACE Southeast Michigan"
+}

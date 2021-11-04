@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4866,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Amerita",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-ameritaiv.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22831,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "BrightSpring Health Services",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-brightspring.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BrightSpring Health Services"
+}

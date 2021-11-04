@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22641,
+            "integration_provider_id": 148,
+            "is_python": true,
+            "name": "Caffe Vita",
+            "spider_name": "hireology",
+            "start_url": "https://careers.hireology.com/caffevita",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Caffe Vita"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4135,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bristol-Myers Squibb",
+            "spider_name": "workday",
+            "start_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/BMS",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bristol-Myers Squibb"
+}

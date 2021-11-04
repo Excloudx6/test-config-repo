@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7116,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "United Way of Salt Lake",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/78f61060-e99d-4513-a151-8d28a7c39a9a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Way of Salt Lake"
+}

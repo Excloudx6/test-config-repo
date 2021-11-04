@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11583,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Mission Ridge Ski Resort",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=1B7C20D26C1CDE6183484BBC93CE8365",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mission Ridge Ski Resort"
+}

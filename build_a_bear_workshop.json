@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10355,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Build-A-Bear Workshop",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/BUI1005BABW/JobBoard/f11e1895-e53a-4cf4-b33a-8a87b5538b61",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Build-A-Bear Workshop"
+}

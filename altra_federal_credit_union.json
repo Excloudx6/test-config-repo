@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15618,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Altra Federal Credit Union",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ALT1005ALTRA/JobBoard/df3f5597-5f4a-41d9-9aca-b09901f4e373",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Altra Federal Credit Union"
+}

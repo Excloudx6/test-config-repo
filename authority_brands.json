@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22193,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Authority Brands",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66a70ac34016a8d8530a115a6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Authority Brands"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11502,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Gibault Children's Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=6841E60AEDDB8EA20D741D5384771B71",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gibault Children's Services"
+}

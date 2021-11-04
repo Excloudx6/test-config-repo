@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29332,
+            "integration_provider_id": 199,
+            "is_python": true,
+            "name": "Sul Ross State University",
+            "spider_name": "peopleadmin",
+            "start_url": "https://sulross.peopleadmin.com/postings/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sul Ross State University"
+}

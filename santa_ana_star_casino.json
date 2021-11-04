@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24794,
+            "integration_provider_id": 176,
+            "is_python": true,
+            "name": "Santa Ana Star Casino",
+            "spider_name": "symphony_talent",
+            "start_url": "https://www.hrapply.com/santaanastar/AppJobList.jsp",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Santa Ana Star Casino"
+}

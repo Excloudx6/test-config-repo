@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15576,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Virginia Garcia Memorial Health Center and Foundation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/VIR1008/JobBoard/0564c52b-9847-42be-8810-0c5d22657550",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Virginia Garcia Memorial Health Center and Foundation"
+}

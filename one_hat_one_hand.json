@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27122,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "One Hat One Hand",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://onehatonehand.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "One Hat One Hand"
+}

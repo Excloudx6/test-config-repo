@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11572,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Lolli and Pops",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=ABDD584908DF8744DE1B32815488EB37",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lolli and Pops"
+}

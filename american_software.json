@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15273,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Software",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AME1051AMESI/JobBoard/9f6eda87-5ed3-4828-bce3-08ccd9ee6d57",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Software"
+}

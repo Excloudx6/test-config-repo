@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17037,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "QPS",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=9ee3716b-b93b-41d4-b702-c8728d7396d2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "QPS"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10823,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Detroit Employment Solutions",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/ef5c8a9c-10b3-4dee-b30d-d28068083503",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Detroit Employment Solutions"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6055,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "International Rescue Committee",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://rescue.csod.com/ux/ats/careersite/2/home?c=rescue",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "International Rescue Committee"
+}

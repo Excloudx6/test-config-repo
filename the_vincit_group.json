@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4752,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "The Vincit Group",
+            "spider_name": "workday",
+            "start_url": "https://vincitgroup.wd5.myworkdayjobs.com/Vincit_External_1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Vincit Group"
+}

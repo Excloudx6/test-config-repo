@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3278,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Deloitte Africa",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/deloitte6",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17990,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Deloitte France",
+            "spider_name": "workday",
+            "start_url": "https://fina.wd3.myworkdayjobs.com/en-US/DeloitteRecrute",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24911,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Deloitte Canada",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career8.successfactors.com/career?career_ns=job_listing_summary&company=CADeloitte",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29914,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Deloitte US (Global Firm)",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://dtt.taleo.net/careersection/10400/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30015,
+            "integration_provider_id": 205,
+            "is_python": true,
+            "name": "Deloitte",
+            "spider_name": "deloitte",
+            "start_url": "https://apply.deloitte.com/careers/SearchJobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Deloitte"
+}

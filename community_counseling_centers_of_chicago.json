@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6515,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Community Counseling Centers of Chicago",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/6f5e3bf6-94b9-4b68-8682-7644047d4c1f/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Community Counseling Centers of Chicago"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16313,
+            "integration_provider_id": 131,
+            "is_python": true,
+            "name": "Wescott Financial Advisory Group",
+            "spider_name": "workable_career_page",
+            "start_url": "https://apply.workable.com/wescott-financial-advisory-group-llc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wescott Financial Advisory Group"
+}

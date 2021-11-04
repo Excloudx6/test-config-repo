@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22735,
+            "integration_provider_id": 60,
+            "is_python": true,
+            "name": "Sherwood Design Engineers",
+            "spider_name": "cats_career_page",
+            "start_url": "https://sherwoodengineers.catsone.com/careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sherwood Design Engineers"
+}

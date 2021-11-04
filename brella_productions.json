@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20534,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Brella Productions",
+            "spider_name": "hrm_direct",
+            "start_url": "https://brella.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brella Productions"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20807,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Nicholas and",
+            "spider_name": "hrm_direct",
+            "start_url": "https://nicholasandco.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nicholas and"
+}

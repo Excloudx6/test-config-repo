@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10844,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "NJI Media",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/62050104-08b4-4d80-b4df-1020d53ace0c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NJI Media"
+}

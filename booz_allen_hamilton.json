@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4142,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Booz Allen Hamilton",
+            "spider_name": "workday",
+            "start_url": "https://bah.wd1.myworkdayjobs.com/BAH_Jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Booz Allen Hamilton"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14353,
+            "integration_provider_id": 124,
+            "is_python": true,
+            "name": "Corporate Payroll Services",
+            "spider_name": "the_applicant_manager",
+            "start_url": "https://www.theapplicantmanager.com/careers?co=CE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Corporate Payroll Services"
+}

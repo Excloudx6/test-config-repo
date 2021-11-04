@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14550,
+            "integration_provider_id": 122,
+            "is_python": true,
+            "name": "StageBio",
+            "spider_name": "trinet_hire_career_page",
+            "start_url": "https://app.trinethire.com/companies/22533-stagebio/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "StageBio"
+}

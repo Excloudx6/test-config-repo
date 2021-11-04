@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18050,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "BlueBay Asset Management",
+            "spider_name": "workday",
+            "start_url": "https://bluebay.wd3.myworkdayjobs.com/BlueBayExternal",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BlueBay Asset Management"
+}

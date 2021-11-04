@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15409,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "MDI",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MIN1008/JobBoard/ff06182d-f20a-27d5-27df-3c2fd67fead3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MDI"
+}

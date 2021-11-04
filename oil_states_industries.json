@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10542,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Oil States Industries",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/OIL1000OIL/JobBoard/c14a57a2-0d7a-46e3-a3be-97e2b8a48ac7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Oil States Industries"
+}

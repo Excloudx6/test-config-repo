@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15564,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Metalwares",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/UNI1070UPI/JobBoard/facd6c44-6ad4-f7c8-43ba-779db5047606",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Metalwares"
+}

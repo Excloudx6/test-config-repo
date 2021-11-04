@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12418,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Syngene International Limited",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career10.successfactors.com/career?career_ns=job_listing_summary&company=syngeneP1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Syngene International Limited"
+}

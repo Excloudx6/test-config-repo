@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10807,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "All God's Children International",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/f04bb6fd-9b61-41aa-a534-e1929379e8af",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "All God's Children International"
+}

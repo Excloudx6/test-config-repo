@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11488,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "The First National Bank & Trust Company of Newtown",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C894CC4802902652B3F66F6E10E92577",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The First National Bank & Trust Company of Newtown"
+}

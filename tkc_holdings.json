@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7487,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Corporate TKC",
+            "spider_name": "icims_career_page",
+            "start_url": "https://corporatecareers-tkcholdings.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7488,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Trinity Services Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-trinity.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7489,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Keefe Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-keefe.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7490,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Courtesy Products",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-courtesy.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7491,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "TKC Spanish",
+            "spider_name": "icims_career_page",
+            "start_url": "https://spanishcareers-tkcholdings.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TKC Holdings"
+}

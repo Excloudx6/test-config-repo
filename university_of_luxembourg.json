@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24722,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "University of Luxembourg",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://uniluxembourg.recruitmentplatform.com/apply.html?jobId=QMUFK026203F3VBQB7V7VV4S8-93379&langCode=en_GB",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Luxembourg"
+}

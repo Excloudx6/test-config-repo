@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6212,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "City of Shawnee",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CIT1022SHAWN/JobBoard/d470fd54-e039-4ef9-994c-16f493756c2c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "City of Shawnee"
+}

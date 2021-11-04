@@ -1,0 +1,125 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30006,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Potawatomi Federal Solutions",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=37",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30010,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "1Prospect Technologies",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=40",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30011,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Advancia",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=47",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30012,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Advancia Aeronautics",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=48",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30013,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Advancia Technologies",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=50",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30014,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Potawatomi Training",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf01/ats/careers/v2/searchResults?org=PFS&cws=53",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Potawatomi Federal Solutions"
+}

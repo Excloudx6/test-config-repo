@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11350,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "A/Z",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B7BC2B9E7D1C1EA988EC4B78C2FC8E03",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "A/Z"
+}

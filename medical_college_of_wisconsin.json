@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12075,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "Medical College of Wisconsin",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_medcollegewi/external_faculty/external/search.do",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29862,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "Medical College of Wisconsin - Staff",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_medcollegewi/external_staff/search.do",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29863,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "Medical College of Wisconsin - Internal",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_medcollegewi/int1068597416/search.do",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Medical College of Wisconsin"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6211,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Borets",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BOR1000BORET/JobBoard/3e5dc174-a1f9-41f3-80db-92742b0b75c4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Borets Employment"
+}

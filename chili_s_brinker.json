@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 157,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Chili's (Brinker)",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://brinker.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=22100016060",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "Chili's (Brinker)"
+}

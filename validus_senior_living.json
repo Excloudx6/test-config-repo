@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30050,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Validus Senior Living",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D8FF6584D7E6AD5C2423D250B076296E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Validus Senior Living "
+}

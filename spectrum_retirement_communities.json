@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 461,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Spectrum Retirement Communities",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SPE1014/JobBoard/3af310d6-9db5-f674-5a23-01d604ad1cf3",
+            "status": 1,
+            "url_params": [
+                "sourceId=aaf51987-f89d-4b61-98da-aa2c0fc5e3cd"
+            ]
+        }
+    ],
+    "name": "Spectrum Retirement Communities"
+}

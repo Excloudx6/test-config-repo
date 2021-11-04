@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10477,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "LifeShare Blood Center",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/LIF1014LSBC/JobBoard/84d21e3f-a24c-47b7-aa81-f9c4784040c3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "LifeShare Blood Center"
+}

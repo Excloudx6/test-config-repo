@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13400,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "National Health Care Associates",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1378751/search/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Health Care Associates"
+}

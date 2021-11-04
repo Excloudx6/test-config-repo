@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7082,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Three Links",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=31139F2273D28EA8DD72C602A7A2AB96",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Three Links"
+}

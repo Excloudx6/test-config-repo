@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23027,
+            "integration_provider_id": 95,
+            "is_python": true,
+            "name": "Global Commerce and Services",
+            "spider_name": "hr_smart",
+            "start_url": "https://globalcommserv.hua.hrsmart.com/hr/ats/JobSearch/viewAll",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Global Commerce and Services"
+}

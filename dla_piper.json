@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23254,
+            "integration_provider_id": 57,
+            "is_python": true,
+            "name": "DLA Piper",
+            "spider_name": "select_minds_career_page",
+            "start_url": "https://dlapiperus.referrals.selectminds.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DLA Piper"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10628,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "New England Coffee",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WMB1000WMBRC/JobBoard/36a62dca-51d4-43c5-9852-1bb1efa78696",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "New England Coffee"
+}

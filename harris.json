@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10554,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Harris",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ONE1016OHINC/JobBoard/71350453-e4a5-4859-b196-5d0c56c9190e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Harris"
+}

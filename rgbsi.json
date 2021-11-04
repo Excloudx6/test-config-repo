@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19208,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "RGBSI",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=u4jdnwo9bfrrb4880orajasydzcctc0430ep5ji4kdp5v8qtsbx70nx09mmm07dy",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "RGBSI"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29649,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Pensi Col\u00e9gio e Curso",
+            "spider_name": "gupy",
+            "start_url": "https://pensi.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pensi Col\u00e9gio e Curso"
+}

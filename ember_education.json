@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22474,
+            "integration_provider_id": 149,
+            "is_python": true,
+            "name": "Ember Education",
+            "spider_name": "isolvedhire",
+            "start_url": "https://embered.isolvedhire.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ember Education"
+}

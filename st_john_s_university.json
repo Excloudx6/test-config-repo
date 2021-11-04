@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24390,
+            "integration_provider_id": 121,
+            "is_python": true,
+            "name": "St. John's University",
+            "spider_name": "silk_road_career_page",
+            "start_url": "https://jobs.silkroad.com/StJohnsEdu/Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "St. John's University"
+}

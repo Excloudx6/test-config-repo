@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19201,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Howard Systems",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=ibjdnwv3yel2j85u9vdr624t1qa7yu02b6xkv093ekob1022n0oscyinpu1qu5vz",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Howard Systems"
+}

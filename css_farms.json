@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10398,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CSS Farms",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CSS1002CSSF/JobBoard/9819912c-9414-4b89-8ab4-cacfa8567de5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CSS Farms"
+}

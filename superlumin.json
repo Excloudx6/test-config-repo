@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11676,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "SuperLumin",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F7F6D70010B689B738A645663BBF81FC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SuperLumin"
+}

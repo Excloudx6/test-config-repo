@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19302,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bellwether Enterprise",
+            "spider_name": "workday",
+            "start_url": "https://wd5.myworkdaysite.com/recruiting/enterprisecommunity/BellwetherCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bellwether Enterprise"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29941,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Convergint",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CON1074CVTG/JobBoard/1831b61a-1945-44fa-afd8-624795c9b30d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Convergint"
+}

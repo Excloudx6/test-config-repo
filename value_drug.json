@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15578,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Value Drug",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/VAL1013VALD/JobBoard/c88db028-9670-4b99-a8f6-12cb2365c2be",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Value Drug"
+}

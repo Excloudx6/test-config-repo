@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11089,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Health Bridge",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=ED09602DB38BA9E6A0AE566DC5B548E6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Health Bridge"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10599,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "TAFS",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TRA1027TRANT/JobBoard/b8528a84-1ba3-460a-b120-9234923005fd",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TAFS"
+}

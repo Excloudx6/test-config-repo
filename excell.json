@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19165,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "eXcell",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=ntjdnwkkkmmi9p7tl3df3s3zq09pv304717kc5psivobnak3f7aoiogrj9pzq0pw",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "eXcell"
+}

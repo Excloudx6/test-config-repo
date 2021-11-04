@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 513,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "Lockheed Martin",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?PageType=JobDetails&partnerid=25037&siteid=5010&jobid=613472&AL=1&_ga=2.27313657.492620277.1591635776-1473582502.1591635776#keyWordSearch=",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Lockheed Martin"
+}

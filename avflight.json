@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22189,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Avflight",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c669b7efc80169c4ab2cfb0dcb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Avflight"
+}

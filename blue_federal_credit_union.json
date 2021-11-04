@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20160,
+            "integration_provider_id": 146,
+            "is_python": true,
+            "name": "Blue Federal Credit Union",
+            "spider_name": "app_one",
+            "start_url": "https://www2.appone.com/Search/Search.aspx?ServerVar=bluefederalcreditunion.appone.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Blue Federal Credit Union"
+}

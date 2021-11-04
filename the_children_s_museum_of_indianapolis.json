@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15355,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Children's Museum of Indianapolis",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CHI1023/JobBoard/6f16dad2-aeb7-b3ae-7e8c-63d0684114fc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Children's Museum of Indianapolis"
+}

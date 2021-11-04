@@ -1,0 +1,28 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29167,
+            "integration_provider_id": 167,
+            "is_python": true,
+            "name": "TalentBoost",
+            "spider_name": "crelate",
+            "start_url": "https://jobs.crelate.com/portal/talentboost/rss",
+            "status": 1,
+            "url_params": [
+                "r=93",
+                "Source=Talentify"
+            ]
+        }
+    ],
+    "name": "TalentBoost"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 479,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "BioReference Laboratories",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1214551/search/",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "BioReference Laboratories"
+}

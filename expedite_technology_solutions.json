@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19196,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Expedite Technology Solutions",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=m0jdnwhxchkqupe3v05u7ukewhoofs03cdtb9fkmmvcvqf58l5mr64elovcmibzy",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Expedite Technology Solutions"
+}

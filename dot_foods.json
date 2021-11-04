@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5068,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Dot Foods",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careershub-dotfoods.icims.com/jobs/search?pr=0",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29951,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "Dot Foods",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/dotfoods?uri_b=ia_dotfoods",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dot Foods"
+}

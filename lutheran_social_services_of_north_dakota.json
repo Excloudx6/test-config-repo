@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15382,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Lutheran Social Services of North Dakota",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/LUT1006/JobBoard/4ef8367d-c8b4-5e14-95f5-10f982a739dc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lutheran Social Services of North Dakota"
+}

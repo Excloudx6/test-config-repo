@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4147,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Brown-Forman",
+            "spider_name": "workday",
+            "start_url": "https://bf.wd5.myworkdayjobs.com/en-US/USA_Canada",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brown-Forman"
+}

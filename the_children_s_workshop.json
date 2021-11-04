@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10818,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "The Children's Workshop",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/05c8b2c7-58cb-4bc4-b128-172cbbbea0e5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Children's Workshop"
+}

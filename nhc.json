@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10539,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "NHC",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/NAT1059NHTH/JobBoard/02b4dc60-27be-428b-aa7b-4f7b89a29f7a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NHC"
+}

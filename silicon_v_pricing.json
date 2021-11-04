@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19153,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Silicon V. Pricing",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=74jdnw6zrt77hda93ruabrlpyk122y06ccv7fb92xm3i934zrjkctguwrpirdoct",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Silicon V. Pricing"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24233,
+            "integration_provider_id": 172,
+            "is_python": true,
+            "name": "Commit Partnership",
+            "spider_name": "rippling",
+            "start_url": "https://commit-partnership.rippling-ats.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Commit Partnership"
+}

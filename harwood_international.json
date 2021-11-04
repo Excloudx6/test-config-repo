@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10426,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Harwood International",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HAR1031HARW/JobBoard/c9aeaa76-492e-433b-9455-1daa0f53557f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Harwood International"
+}

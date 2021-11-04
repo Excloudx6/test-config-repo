@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12829,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Costco Wholesale",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phf.tbe.taleo.net/phf02/ats/careers/v2/searchResults?org=COSTCO&cws=41",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17586,
+            "integration_provider_id": 134,
+            "is_python": true,
+            "name": "Costco Wholesale ",
+            "spider_name": "cadient_talent",
+            "start_url": "https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CostcoNonReqExt",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Costco Wholesale"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19248,
+            "integration_provider_id": 140,
+            "is_python": true,
+            "name": "Saint Luke's Kansas City",
+            "spider_name": "clinch_talent_xml",
+            "start_url": "https://api.clinchtalent.com/v1/feeds/generic.xml?company_id=bcd4db77b648c1ab6ed78cd49694bea9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Saint Luke's Kansas City"
+}

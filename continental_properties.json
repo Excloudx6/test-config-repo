@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10391,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Continental Properties",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CON1051CONPC/JobBoard/4c5261a3-56a0-4867-9d86-1673f2d804c2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Continental Properties"
+}

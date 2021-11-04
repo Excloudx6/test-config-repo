@@ -1,0 +1,47 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 103,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Tiffany & Co. - US",
+            "spider_name": "icims_career_page",
+            "start_url": "https://jobs-tiffany.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5586,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "Tiffany & Co.",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://eljs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tiffany & Co."
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29998,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Wyoming Medical Center",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/WYO1000WMED/JobBoard/fdc870de-a0bb-d8cc-80a1-87c807552dfe",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wyoming Medical Center"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15563,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Trinity Wall Street",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/TRI1024TCWS/JobBoard/c44d6f56-663c-48a3-beb2-2e454b73c362",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Trinity Wall Street"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11051,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "JAXairport",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=5977EF4D2D33C66FBD16C62145A7B9F0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "JAXairport"
+}

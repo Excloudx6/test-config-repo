@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 336,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Vivo",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/vivo/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Vivo"
+}

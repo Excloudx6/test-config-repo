@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4837,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Aerotek",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-aerotek.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30058,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Aerotek",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://jobs.aerotek.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Aerotek"
+}

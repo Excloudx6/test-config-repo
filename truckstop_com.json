@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10603,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Truckstop.com",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TRU1013TSTOP/JobBoard/118aa7f6-9bb8-4406-825e-d94d4b467079",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Truckstop.com"
+}

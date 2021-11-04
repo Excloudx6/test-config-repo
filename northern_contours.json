@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10549,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Northern Contours",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/NOR1058NCTI/JobBoard/1599929b-f19f-4cea-8f59-0e7153d552bb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Northern Contours"
+}

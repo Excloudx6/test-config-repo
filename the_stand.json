@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12761,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "The Stand",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/c16edf30-8089-435b-8041-8b58c2c3b9fa/The-Stand-LLC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Stand"
+}

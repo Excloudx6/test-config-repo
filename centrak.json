@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24852,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CenTrak",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HAL1008HALMA/JobBoard/beb99d52-8ffe-4b56-a6d6-dc1999327429",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CenTrak"
+}

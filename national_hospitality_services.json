@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15638,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Hospitality Services",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/NAT1055NHSP/JobBoard/4f20903e-d550-4c26-969d-dd65eb05e453",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Hospitality Services"
+}

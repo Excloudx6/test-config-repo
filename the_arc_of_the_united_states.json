@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22662,
+            "integration_provider_id": 154,
+            "is_python": true,
+            "name": "The Arc of the United States",
+            "spider_name": "recruiterbox",
+            "start_url": "https://thearc.recruiterbox.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Arc of the United States"
+}

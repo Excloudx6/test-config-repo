@@ -1,0 +1,47 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 346,
+            "integration_provider_id": 65,
+            "is_python": true,
+            "name": "Nouryon",
+            "spider_name": "vagas_career_page",
+            "start_url": "https://trabalheconosco.vagas.com.br/nouryon/oportunidades",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29171,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Nouryon ",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career5.successfactors.eu/career?career_ns=job_listing_summary&company=nouryonP",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nouryon"
+}

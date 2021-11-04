@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10626,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "WestEd",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WES1032WSTE/JobBoard/e5cebb97-720c-4bb5-8a63-deffd14ff13a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WestEd"
+}

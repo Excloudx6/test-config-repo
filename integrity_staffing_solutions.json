@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31028,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Integrity Staffing Solutions",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.integritystaffing.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Integrity Staffing Solutions"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11629,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "PRYER Aerospace",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D6639684110578060C68FFE5C57D7CFE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PRYER Aerospace"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15324,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Brooklyn Boulders",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BRO1019BBLLC/JobBoard/1e6fd8fb-3d9e-4c4a-b627-4b9ba8ffb211",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brooklyn Boulders"
+}

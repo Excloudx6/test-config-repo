@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24914,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bridgestone BR",
+            "spider_name": "icims_career_page",
+            "start_url": "https://brasil-bridgestone.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24915,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bridgestone CO",
+            "spider_name": "icims_career_page",
+            "start_url": "https://colombia-bridgestone.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24916,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bridgestone CR",
+            "spider_name": "icims_career_page",
+            "start_url": "https://costarica-bridgestone.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24917,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bridgestone AR",
+            "spider_name": "icims_career_page",
+            "start_url": "https://argentina-bridgestone.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24918,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bridgestone US",
+            "spider_name": "workday",
+            "start_url": "https://bridgestone.wd5.myworkdayjobs.com/External",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bridgestone"
+}

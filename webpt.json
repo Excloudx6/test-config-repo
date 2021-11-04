@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10624,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "WebPT",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WEB1004WEBIN/JobBoard/1786dc47-531b-4fc7-a333-399de6a6684c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WebPT"
+}

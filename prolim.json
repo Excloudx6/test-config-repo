@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29188,
+            "integration_provider_id": 196,
+            "is_python": true,
+            "name": "Prolim",
+            "spider_name": "ceipal",
+            "start_url": "https://careerportal.ceipal.com/jobs/career/2de5d16682c3c35007e4e92982f1a2ba",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Prolim"
+}

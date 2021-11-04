@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6288,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Phipps Neighborhoods",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PHI1005/JobBoard/d214740c-ca40-4152-b685-d0cc250f7326",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Phipps Neighborhoods"
+}

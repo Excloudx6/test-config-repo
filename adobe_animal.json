@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11357,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Adobe Animal",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=3E48AAD39D441FEAFD9E772F339404E8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Adobe Animal"
+}

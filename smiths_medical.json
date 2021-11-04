@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24383,
+            "integration_provider_id": 158,
+            "is_python": true,
+            "name": "Smiths Medical",
+            "spider_name": "careerarc",
+            "start_url": "https://www.careerarc.com/job-map/smiths-medical/campaign/39006",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Smiths Medical"
+}

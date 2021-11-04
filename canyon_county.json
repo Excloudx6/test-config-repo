@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14202,
+            "integration_provider_id": 120,
+            "is_python": true,
+            "name": "Canyon County",
+            "spider_name": "job_score_career_page",
+            "start_url": "https://careers.jobscore.com/careers/canyoncounty",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Canyon County"
+}

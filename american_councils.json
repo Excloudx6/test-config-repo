@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10899,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "American Councils",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=58AA089E0E2C786B7FE4217373F3BCBD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Councils"
+}

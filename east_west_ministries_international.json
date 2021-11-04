@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20603,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "East-West Ministries International",
+            "spider_name": "hrm_direct",
+            "start_url": "https://eastwest.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "East-West Ministries International"
+}

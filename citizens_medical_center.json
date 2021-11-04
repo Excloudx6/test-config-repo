@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17568,
+            "integration_provider_id": 134,
+            "is_python": true,
+            "name": "Citizens Medical Center",
+            "spider_name": "cadient_talent",
+            "start_url": "https://cta.cadienttalent.com/index.jsp?locale=en_US&APPLICATIONNAME=CitizensMedicalCenterReqExt",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Citizens Medical Center"
+}

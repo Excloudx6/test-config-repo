@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10605,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "True Manufacturing",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TRU1008/JobBoard/85c585cb-93a2-8815-f3f1-7d106361fb20",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "True Manufacturing"
+}

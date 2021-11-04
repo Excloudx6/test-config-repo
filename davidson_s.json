@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11018,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Davidson's",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A43A4586674214F0C087F36848FDA3AD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Davidson's"
+}

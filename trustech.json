@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23864,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Trustech",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://trustechinc.zohorecruit.com/recruit/Portal.na?iframe=true&digest=t7BDlfI3U6ianuh8h1PPZnGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Trustech"
+}

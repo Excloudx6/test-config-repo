@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9900,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Chicago Park District",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://aa128.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Chicago Park District"
+}

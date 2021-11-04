@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14396,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "OSF Global Services",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://osf-global.zohorecruit.com/recruit/Portal.na?iframe=true&digest=z.sj0k0MgyEMr1fSI4zOFTaEFL.TsWAn46G4rlUr3Jw-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "OSF Global Services"
+}

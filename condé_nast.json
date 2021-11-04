@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4205,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Cond\u00e9 Nast",
+            "spider_name": "workday",
+            "start_url": "https://condenast.wd5.myworkdayjobs.com/CondeCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cond\u00e9 Nast"
+}

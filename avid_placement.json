@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26750,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "Avid Placement",
+            "spider_name": "teamtailor",
+            "start_url": "https://avidplacement.teamtailor.com/jobs.rss",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29166,
+            "integration_provider_id": 194,
+            "is_python": true,
+            "name": "Avid Placement",
+            "spider_name": "i_smart_recruit",
+            "start_url": "https://app.ismartrecruit.com/openJobWebsite?tenantId=E7pYWNzLmNvbV9EVndFMnVYNjFQQ9e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Avid Placement"
+}

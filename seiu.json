@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5489,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SEIU",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SER1005SEIU/JobBoard/e131b2ae-a5ce-4fb1-a93c-84c36a485721",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SEIU"
+}

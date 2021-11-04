@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4179,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Center for Autism and Related Disorders",
+            "spider_name": "workday",
+            "start_url": "https://card.wd5.myworkdayjobs.com/Search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Center for Autism and Related Disorders"
+}

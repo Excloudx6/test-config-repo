@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27426,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "Empyrean Benefit Solutions",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/empyrean-benefit-solutions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Empyrean Benefit Solutions"
+}

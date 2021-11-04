@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12621,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Children's Home Society of South Dakota",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/acea99a5-647f-4b31-a76c-198748494f2f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Children's Home Society of South Dakota"
+}

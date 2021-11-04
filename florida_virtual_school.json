@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4311,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Florida Virtual School",
+            "spider_name": "workday",
+            "start_url": "https://flvs.wd1.myworkdayjobs.com/FLVS_Jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Florida Virtual School"
+}

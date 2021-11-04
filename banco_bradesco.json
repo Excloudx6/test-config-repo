@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29212,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Banco Bradesco",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://bradesco.csod.com/ux/ats/careersite/1/home?c=bradesco",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29213,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Bradesco Seguros",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://bradesco.csod.com/ux/ats/careersite/3/home?c=bradesco",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Banco Bradesco"
+}

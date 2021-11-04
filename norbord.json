@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15438,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Norbord",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NOR1010NOR/JobBoard/67ee1b40-8ecd-4a20-9455-fe7791b1f4d0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Norbord"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15624,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "El Cap",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ELC1000ELCAP/JobBoard/9a3e9928-5881-4b0b-9e1c-14ddf4aaa60c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "El Cap"
+}

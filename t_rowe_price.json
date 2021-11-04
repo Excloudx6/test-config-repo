@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 114,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "T. Rowe Price",
+            "spider_name": "workday",
+            "start_url": "https://troweprice.wd5.myworkdayjobs.com/TRowePrice",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "T. Rowe Price"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29848,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "DATAMARK, Inc.",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomdfw.net/v4/ats/web.php/jobs?clientkey=B6FCB4D8A34228789F0CF864F7546E67",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DATAMARK,"
+}

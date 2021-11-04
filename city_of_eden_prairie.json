@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15358,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "City of Eden Prairie",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/cit1020/JobBoard/9566e938-488b-c58f-1eaa-1e49ce7a4e67",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "City of Eden Prairie"
+}

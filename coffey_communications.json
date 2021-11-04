@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10821,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Coffey Communications",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c96601c5-e26c-4d85-8315-fc2cd3c35167",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Coffey Communications"
+}

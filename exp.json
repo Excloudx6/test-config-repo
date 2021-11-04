@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29217,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "EXP",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://elcn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        }
+    ],
+    "name": "EXP"
+}

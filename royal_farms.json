@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19346,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Royal Farms",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=royalfarms",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Royal Farms"
+}

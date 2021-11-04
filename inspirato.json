@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27439,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Inspirato",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a42a12b36e3f69d0136eb9e96c47613",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Inspirato"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12812,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Boeing Intelligence & Analytics",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://chu.tbe.taleo.net/chu01/ats/careers/v2/searchResults?org=BIA&cws=38",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Boeing Intelligence & Analytics"
+}

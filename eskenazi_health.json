@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 471,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Eskenazi Health",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/portalcareer?correlation_Id=22131371600&company=thehealtha&lang=en_US&clientId=jobs2web&socialApply=false&career_ns=job_application&site=&career_job_req_id=4305&jobPipeline=RCM+Redirect&isInternalUser=false&_s.crb=97dgQuiHevTpNmF9nojW2v9fQNg%253d",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Eskenazi Health"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15566,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "United Way of Greater Houston",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/UNI1071UNGH/JobBoard/14951b9f-fcb7-63b5-3f0c-5670cfa132c9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Way of Greater Houston"
+}

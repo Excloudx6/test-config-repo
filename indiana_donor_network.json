@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11101,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Indiana Donor Network",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F3ECD9A42B3EAF24C3C1B09ACD9E861C",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Indiana Donor Network"
+}

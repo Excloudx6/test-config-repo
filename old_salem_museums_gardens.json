@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11598,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Old Salem Museums & Gardens",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=6DBE82BFED2A68BA38E07284A4347E12",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Old Salem Museums & Gardens"
+}

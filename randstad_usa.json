@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31002,
+            "integration_provider_id": 211,
+            "is_python": true,
+            "name": "Randstad USA",
+            "spider_name": "randstad",
+            "start_url": "https://www.randstadusa.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Randstad USA"
+}

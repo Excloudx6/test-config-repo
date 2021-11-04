@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4236,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Deckers Brands",
+            "spider_name": "workday",
+            "start_url": "https://deckers.wd5.myworkdayjobs.com/Deckers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Deckers Brands"
+}

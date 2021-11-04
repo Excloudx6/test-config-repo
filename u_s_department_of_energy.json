@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18728,
+            "integration_provider_id": 137,
+            "is_python": true,
+            "name": "U.S. Department of Energy",
+            "spider_name": "usa_jobs_gov",
+            "start_url": "https://www.usajobs.gov/Search/Results?d=DN&hp=public&p=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "U.S. Department of Energy"
+}

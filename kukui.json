@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19759,
+            "integration_provider_id": 143,
+            "is_python": true,
+            "name": "Kukui",
+            "spider_name": "jazz_hr",
+            "start_url": "https://kukui.applytojob.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kukui"
+}

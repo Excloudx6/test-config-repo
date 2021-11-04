@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6065,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Loacker",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://loacker.csod.com/ux/ats/careersite/5/home?c=loacker",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Loacker"
+}

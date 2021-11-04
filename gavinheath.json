@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19163,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "GavinHeath",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=k1jdnw97y2ba69mixpqijkgh9633e3075ay54ctusnobplysx8gv35gw2tu44062",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GavinHeath"
+}

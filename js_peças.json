@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27809,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "JS Pe\u00e7as",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/jspecas",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "JS Pe\u00e7as"
+}

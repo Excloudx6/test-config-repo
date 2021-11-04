@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3239,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "cognizant technologies",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/cognizanttechnologies2",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27642,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Cognizant",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://tas-cognizant.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=124160115270",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "cognizant technologies"
+}

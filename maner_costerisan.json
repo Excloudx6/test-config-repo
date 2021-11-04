@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23830,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Maner Costerisan",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://manercpa.zohorecruit.com/recruit/Portal.na?iframe=true&digest=5BFGnS7E.XJwtR0jkThSiExi0BeF4l3YncGU4T736r8-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Maner Costerisan"
+}

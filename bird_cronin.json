@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11402,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Bird & Cronin",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C1CCC94D77E696109C5F5B2989C37377",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bird & Cronin"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10330,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Amy's Kitchen",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/AMY1001/JobBoard/dff40f9b-9ed2-259a-9380-64c5a70b9171",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Amy's Kitchen"
+}

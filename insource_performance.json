@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17173,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Insource Performance",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/712741/search/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Insource Performance"
+}

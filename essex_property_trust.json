@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15017,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Essex Property Trust",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-essex.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Essex Property Trust"
+}

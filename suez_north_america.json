@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6133,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "SUEZ North America",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://hris-suez.csod.com/ux/ats/careersite/8/home?c=hris-suez",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SUEZ North America"
+}

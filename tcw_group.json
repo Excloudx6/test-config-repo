@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5548,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "TCW Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-tcw.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TCW Group"
+}

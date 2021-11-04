@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4783,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Woodard & Curran",
+            "spider_name": "workday",
+            "start_url": "https://osv-wc.wd5.myworkdayjobs.com/WoodardCurran",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Woodard & Curran"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14771,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Alteryx",
+            "spider_name": "workday",
+            "start_url": "https://alteryx.wd5.myworkdayjobs.com/AlteryxCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alteryx"
+}

@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 587,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "American Medical Response",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-amr.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 593,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Lifeguard Ambulance",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-lifeguard.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 594,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Kurtz EMS",
+            "spider_name": "icims_career_page",
+            "start_url": "https://kurtzems-amr.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7478,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Access 2 Care",
+            "spider_name": "icims_career_page",
+            "start_url": "https://access2carecareers-amr.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Medical Response"
+}

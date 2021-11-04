@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6125,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Sommet Education",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://sommet-education.csod.com/ux/ats/careersite/3/home?c=sommet-education",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sommet Education"
+}

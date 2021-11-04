@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14619,
+            "integration_provider_id": 121,
+            "is_python": true,
+            "name": "Flexion",
+            "spider_name": "silk_road_career_page",
+            "start_url": "https://flexion-openhire.silkroad.com/epostings/index.cfm?fuseaction=app.jobsearch",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Flexion"
+}

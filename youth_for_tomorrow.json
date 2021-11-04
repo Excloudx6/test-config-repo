@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11737,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Youth For Tomorrow",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=21A3B2BD6E9855D4C4C0ED23FA8FD695",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Youth For Tomorrow"
+}

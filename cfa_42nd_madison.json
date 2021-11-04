@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25914,
+            "integration_provider_id": 183,
+            "is_python": true,
+            "name": "CFA 42nd & Madison",
+            "spider_name": "harri",
+            "start_url": "https://harri.com/cfa42ndandmadison",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CFA 42nd & Madison"
+}

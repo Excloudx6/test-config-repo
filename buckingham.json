@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6198,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Buckingham",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BUC1002/JobBoard/4a575a2c-ab34-57d2-66fc-4bb17a354c33",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Buckingham"
+}

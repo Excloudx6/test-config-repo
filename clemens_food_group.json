@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5005,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Clemens Food Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-clemensfoodgroup.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Clemens Food Group"
+}

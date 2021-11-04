@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22877,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Key Energy Services",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=yujdnw03ammwwe14b951trertbj699082eq442kf3z7orbriupnx59napglgw3q2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Key Energy Services"
+}

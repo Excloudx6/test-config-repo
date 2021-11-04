@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10519,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Monster Energy",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MON1009MECY/JobBoard/0fafc71f-58c9-483c-8d6e-f05afa05c2cf",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Monster Energy"
+}

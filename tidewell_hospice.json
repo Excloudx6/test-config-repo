@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15547,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Tidewell Hospice",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/TID1000/JobBoard/0b984d15-c92d-260c-710b-4e4982d8e972",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tidewell Hospice"
+}

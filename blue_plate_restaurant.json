@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26610,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Blue Plate Restaurant",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/bprg",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29993,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Edina Grill",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/edina-grill",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29994,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "The Freehouse",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/freehouse",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29995,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "The Lowry",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/lowry",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Blue Plate Restaurant"
+}

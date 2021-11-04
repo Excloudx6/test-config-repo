@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29201,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "buybuy Baby",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/buy_buy_baby_jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29202,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "buybuy Baby Corporate",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/buy_buy_baby_careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "buybuy Baby"
+}

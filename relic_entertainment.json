@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18637,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "Relic Entertainment",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/relic",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Relic Entertainment"
+}

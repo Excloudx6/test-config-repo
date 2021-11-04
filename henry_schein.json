@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21937,
+            "integration_provider_id": 152,
+            "is_python": true,
+            "name": "Henry Schein",
+            "spider_name": "henryschein",
+            "start_url": "https://dentalopportunities.com/job-listings-search-results/?gmw_form=1&action=gmw_post",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Henry Schein"
+}

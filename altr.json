@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10808,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "ALTR",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/d01be088-0955-4ad4-971e-8a6cb534c908",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ALTR"
+}

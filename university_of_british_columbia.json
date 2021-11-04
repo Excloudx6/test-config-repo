@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14883,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "University of British Columbia",
+            "spider_name": "workday",
+            "start_url": "https://ubc.wd10.myworkdayjobs.com/en-US/ubcfacultyjobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of British Columbia"
+}

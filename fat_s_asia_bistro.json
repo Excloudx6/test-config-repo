@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11040,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Fat's Asia Bistro",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E9F95EBA660D0F71CA35CEF18A210034",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fat's Asia Bistro"
+}

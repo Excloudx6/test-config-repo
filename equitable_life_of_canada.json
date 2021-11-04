@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11907,
+            "integration_provider_id": 44,
+            "is_python": true,
+            "name": "Equitable Life of Canada",
+            "spider_name": "dayforce_career_page",
+            "start_url": "https://can59.dayforcehcm.com/CandidatePortal/en-US/equitable",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Equitable Life of Canada"
+}

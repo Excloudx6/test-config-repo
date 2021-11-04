@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10586,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Remote Medical International",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/REM1007REMI/JobBoard/d097e0b8-304e-44f7-af22-47e4d3b2c222",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Remote Medical International"
+}

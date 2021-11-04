@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11398,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Builders Insurance Group",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=7E4C2C1C4467516BDFAC9A24F98AC2EF",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Builders Insurance Group"
+}

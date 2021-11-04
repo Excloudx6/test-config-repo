@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29793,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Stryten - Hourly Jobs",
+            "spider_name": "icims_career_page",
+            "start_url": "https://external-4-stryten.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29794,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Stryten - Plant Hourly Jobs",
+            "spider_name": "icims_career_page",
+            "start_url": "https://external-3-stryten.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29795,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Stryten - Salaried Jobs",
+            "spider_name": "icims_career_page",
+            "start_url": "https://external-stryten.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Stryten"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15646,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Snelson Companies",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/PLH1001/JobBoard/7ba14d23-44ca-4389-bf32-2f78e1a6c16d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Snelson Companies"
+}

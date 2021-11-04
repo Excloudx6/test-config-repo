@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20449,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "J&R Schugel",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/jrschugel?uri_b=ia_jrschugel",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "J&amp;R Schugel"
+}

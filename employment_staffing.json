@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19194,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Graham Staffing",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=l3jdnwevvwx8cha7bemwz8bzb004ay0445ibn3bffcf820bx0e6saeifyv8cb763",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Employment Staffing"
+}

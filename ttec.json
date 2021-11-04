@@ -1,0 +1,49 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 161,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "TTEC",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://teletech.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=160131726",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 509,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "TTEC",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://ttec.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=660131726",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "TTEC"
+}

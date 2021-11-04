@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23089,
+            "integration_provider_id": 74,
+            "is_python": true,
+            "name": "A.S.G. Staffing",
+            "spider_name": "avionte_career_page",
+            "start_url": "https://as1.avionte.com/asg-staffing-wisconsin",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "A.S.G. Staffing"
+}

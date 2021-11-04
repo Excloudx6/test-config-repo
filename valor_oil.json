@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24212,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Valor Oil",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c0e6e80b-c929-4c96-8a94-eb535a18e598/Valor-LLC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Valor Oil"
+}

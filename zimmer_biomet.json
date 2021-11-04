@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24720,
+            "integration_provider_id": 174,
+            "is_python": true,
+            "name": "Zimmer Biomet",
+            "spider_name": "recruitment_platform",
+            "start_url": "https://global3.recruitmentplatform.com/appproc/index.cfm?event=createSessionAfterSessionClear&nProfileIdFoundInAGP=&jobboard=0&bSessionClear=true&ID=QCVFK026203F3VBQBV7V47VNG&nPTID=372753",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Zimmer Biomet"
+}

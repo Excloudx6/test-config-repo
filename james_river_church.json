@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10838,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "James River Church",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/dd19a247-3f3e-43cc-afe6-d1d201f40b3c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "James River Church"
+}

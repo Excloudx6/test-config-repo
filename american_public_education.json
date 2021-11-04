@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15280,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Public Education",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ame1070/JobBoard/b66d4325-6be5-4691-ab44-c96532dee1ff",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Public Education"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23009,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "Stolt-Nielsen Limited",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://eclo.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Stolt-Nielsen Limited"
+}

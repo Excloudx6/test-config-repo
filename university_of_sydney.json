@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18045,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "University of Sydney",
+            "spider_name": "workday",
+            "start_url": "https://usyd.wd3.myworkdayjobs.com/en-US/USYD_EXTERNAL_CAREER_SITE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Sydney"
+}

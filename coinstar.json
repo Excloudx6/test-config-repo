@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10384,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Coinstar",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COI1000CNSTR/JobBoard/ed9d1262-a7e7-4d4e-b73b-54b35553310f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Coinstar"
+}

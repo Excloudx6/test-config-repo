@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16362,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Dousman Transport",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://dousman-transport.careerplug.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dousman Transport"
+}

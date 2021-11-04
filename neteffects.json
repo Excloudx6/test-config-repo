@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19157,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "neteffects",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=ctjdnw8w4096zxm7t7e3mwmlhm5coi0050l06d9xf4embdmvkn2nkez1xeeukr0g",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "neteffects"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27409,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "DigiCert",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/digicert/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "DigiCert"
+}

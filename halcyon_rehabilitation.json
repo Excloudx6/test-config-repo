@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10335,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Halcyon Rehabilitation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/APR1001APRC/JobBoard/4e009e71-5e70-493a-a74a-d0df570f98f1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Halcyon Rehabilitation"
+}

@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22118,
+            "integration_provider_id": 153,
+            "is_python": true,
+            "name": "PJS of Texas",
+            "spider_name": "job_link_apply",
+            "start_url": "https://www.joblinkapply.com/Joblink/6629/Search/Search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23407,
+            "integration_provider_id": 153,
+            "is_python": true,
+            "name": "PJS of Corpus Christi",
+            "spider_name": "job_link_apply",
+            "start_url": "https://www.joblinkapply.com/Joblink/6846/Search/Search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23408,
+            "integration_provider_id": 153,
+            "is_python": true,
+            "name": "PJS of El Paso",
+            "spider_name": "job_link_apply",
+            "start_url": "https://www.joblinkapply.com/Joblink/6628/Search/Search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23409,
+            "integration_provider_id": 153,
+            "is_python": true,
+            "name": "PJS of San Antonio",
+            "spider_name": "job_link_apply",
+            "start_url": "https://www.joblinkapply.com/Joblink/6630/Search/Search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PJS of Texas"
+}

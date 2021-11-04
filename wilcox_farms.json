@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15602,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Wilcox Farms",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/WIL1013WILC/JobBoard/0eed24f9-b17f-4e5f-ace8-3ff02cf4205a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wilcox Farms"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15534,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Explore St. Louis",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/STL1001STLC/JobBoard/a420e1a5-49da-4a4a-bd17-330f039c4fa9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Explore St. Louis"
+}

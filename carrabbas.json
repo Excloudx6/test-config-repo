@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15468,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Carrabbas",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OSI1001/JobBoard/86d3b6bc-0899-4f2c-9f82-7166502af363",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Carrabbas"
+}

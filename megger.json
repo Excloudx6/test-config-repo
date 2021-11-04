@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11316,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Megger",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=03B9F60101F193E6E3FDFD34BF8D87EE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Megger"
+}

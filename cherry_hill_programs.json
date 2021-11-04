@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21126,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Cherry Hill Programs",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/cherry-hill-programs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29989,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Cherry Hill Programs - Corporate",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=5aae19be-aff1-466b-a0a1-47b7de89b7e1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cherry Hill Programs"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10392,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Archdiocese of Seattle",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COR1015CCAS/JobBoard/b4e119b6-81c4-39e8-0b4a-7937e6acdd41",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Archdiocese of Seattle"
+}

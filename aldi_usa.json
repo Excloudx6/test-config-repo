@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21074,
+            "integration_provider_id": 135,
+            "is_python": true,
+            "name": "ALDI",
+            "spider_name": "talent_brew",
+            "start_url": "https://careers.aldi.us/search-jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ALDI USA"
+}

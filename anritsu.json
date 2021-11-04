@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15287,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Anritsu",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ANR1000/JobBoard/dde9d29f-8779-9c0f-5a64-1a23aaa827cb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Anritsu"
+}

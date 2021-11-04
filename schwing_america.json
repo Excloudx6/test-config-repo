@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15505,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Schwing America",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SCH1009/JobBoard/d4f153d8-293f-8a92-36e6-52dc7283e12b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Schwing America"
+}

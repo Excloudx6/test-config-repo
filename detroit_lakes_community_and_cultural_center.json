@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11459,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Detroit Lakes Community and Cultural Center",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B618930D7B9D743DF22626D645E96178",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Detroit Lakes Community and Cultural Center"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19149,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Ursus",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=4jjdnwxvbkikh69b6b4xq3flizbias06d3mm2z4mmil986gwgjy4hn52h34e21tv",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ursus"
+}

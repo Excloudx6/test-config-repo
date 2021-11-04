@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15621,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Columbia Credit Union",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COL1026COLCC/JobBoard/ef7a3e35-9f3f-442a-9b66-dff925bc6c4e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Columbia Credit Union"
+}

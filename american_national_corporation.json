@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6202,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American National Corporation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AME1060ANAT/JobBoard/2cf77acc-3642-4d0a-9883-93858597a86a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American National Corporation"
+}

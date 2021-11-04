@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6221,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Bsquare",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BSQ1000BSQ/JobBoard/4225e53d-83e0-4a8c-9ae7-d92b027df9c6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bsquare"
+}

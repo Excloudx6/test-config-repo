@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11710,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Virginia Women's Center",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DAE894769EDB02A6D6D99EB86017EDB4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Virginia Women's Center"
+}

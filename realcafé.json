@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29674,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Realcaf\u00e9",
+            "spider_name": "gupy",
+            "start_url": "https://realcafe.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Realcaf\u00e9"
+}

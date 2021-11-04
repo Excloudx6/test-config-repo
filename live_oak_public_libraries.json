@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11128,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Live Oak Public Libraries",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D4EF329357A7889FE3C33C8C5CE08F14",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Live Oak Public Libraries"
+}

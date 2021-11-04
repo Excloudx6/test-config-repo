@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11611,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Pillar Communities",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=35E560029EE2C3C2C1C81E3F2797A4F6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pillar Communities"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19309,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Everest Re Group,",
+            "spider_name": "workday",
+            "start_url": "https://wd5.myworkdaysite.com/recruiting/everestre/careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Everest Re Group,"
+}

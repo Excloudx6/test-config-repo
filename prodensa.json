@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29162,
+            "integration_provider_id": 194,
+            "is_python": true,
+            "name": "PRODENSA",
+            "spider_name": "i_smart_recruit",
+            "start_url": "https://app.ismartrecruit.com/openJobWebsite?tenantId=E7pcHJvZGVuc2EuY29tX1hxNHlRWjZwRTQQ9e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PRODENSA"
+}

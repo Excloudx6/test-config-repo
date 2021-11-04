@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11099,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Illuminate Education",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B64A49ED0EE0D3A56D56B7089064A61C",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Illuminate Education"
+}

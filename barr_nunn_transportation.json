@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20085,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "Barr-Nunn Transportation",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/barrnunntrans?uri_b=ia_barrnunntrans",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Barr-Nunn Transportation"
+}

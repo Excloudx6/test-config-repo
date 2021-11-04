@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10632,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "WesTech",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WES1036WESEN/JobBoard/e9e4b204-967b-4c07-b2d6-4c66319b5fc0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WesTech"
+}

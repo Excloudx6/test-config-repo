@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11505,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Lyon Real Estate",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D79E3C4670D67E9C095D48F72740ACFF",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lyon Real Estate"
+}

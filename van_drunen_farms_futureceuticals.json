@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6246,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Van Drunen Farms & FutureCeuticals",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/VAN1009VDF/JobBoard/f17b456d-edf4-e9be-a21d-45c2004ee79a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Van Drunen Farms & FutureCeuticals"
+}

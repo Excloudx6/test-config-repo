@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10905,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Andrews Federal Credit Union",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=94B6F066E7140D762CF5BCD63EC3DA30",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Andrews Federal Credit Union"
+}

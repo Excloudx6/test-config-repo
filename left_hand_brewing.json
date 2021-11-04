@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10841,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Left Hand Brewing",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/6f56f927-361b-4719-bace-13114c1c9d7c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Left Hand Brewing"
+}

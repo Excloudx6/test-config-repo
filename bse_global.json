@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6208,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "BSE Global",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BRO1013/JobBoard/ec7cc061-c6b1-4ebe-af92-255abdbabe56",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BSE Global"
+}

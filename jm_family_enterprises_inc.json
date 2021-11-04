@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29895,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "JM Family Enterprises, Inc",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-jmfamily.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "JM Family Enterprises, Inc"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26036,
+            "integration_provider_id": 185,
+            "is_python": true,
+            "name": "Gallatin Center for Rehabilitation & Healing",
+            "spider_name": "apploi",
+            "start_url": "https://jobs.apploi.com/profile/gallatin-center",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gallatin Center for Rehabilitation & Healing"
+}

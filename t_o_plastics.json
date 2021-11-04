@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15644,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "T.O. Plastics",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/OTT1000OTTR/JobBoard/ae096255-0e6d-4d98-ba2e-deec12925159",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "T.O. Plastics"
+}

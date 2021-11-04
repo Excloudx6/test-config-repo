@@ -1,0 +1,185 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4210,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_us",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29872,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - BR",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/External_LATAM_Brazil",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29873,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - ES",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_spain",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29874,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - CA",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_global",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29875,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - CO",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_colombia",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29876,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - FR",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_france",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29877,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - DE",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_Germany_CVG_de",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29878,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - MX",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_honduras",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29879,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Concentrix - UK",
+            "spider_name": "workday",
+            "start_url": "https://cnx.wd1.myworkdayjobs.com/external_UK",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Concentrix"
+}

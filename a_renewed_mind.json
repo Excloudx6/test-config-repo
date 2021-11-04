@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15454,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "A Renewed Mind",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OHI1003/JobBoard/ecd49c84-0c2c-4eb2-9897-ab5154935136",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "A Renewed Mind"
+}

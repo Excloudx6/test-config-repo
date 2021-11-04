@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 560,
+            "integration_provider_id": 89,
+            "is_python": true,
+            "name": "HealthTrust Workforce Solutions",
+            "spider_name": "joveo",
+            "start_url": "https://joveo-e30ca98e.s3-accelerate.amazonaws.com/432083f4/f6e66d61-4a63-459f-a99e-9eb435c991ce.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HealthTrust"
+}

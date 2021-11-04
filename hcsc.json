@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23925,
+            "integration_provider_id": 170,
+            "is_python": true,
+            "name": "HCSC",
+            "spider_name": "people_fluent",
+            "start_url": "https://hcscrccorp.peoplefluent.com/res_joblist.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HCSC"
+}

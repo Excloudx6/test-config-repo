@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11127,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Lokal Homes",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=5C9C0F9D596DA23D9539F16EB769090F",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lokal Homes"
+}

@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29853,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Hughston Clinic",
+            "spider_name": "hrm_direct",
+            "start_url": "https://hughston.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29854,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Jack Hughston Memorial Hospital",
+            "spider_name": "hrm_direct",
+            "start_url": "https://hughstonmemorial.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29855,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "Hughston Clinic Orthopaedics",
+            "spider_name": "hrm_direct",
+            "start_url": "https://hughstonorthopaedics.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29856,
+            "integration_provider_id": 73,
+            "is_python": true,
+            "name": "Hughston - Physician",
+            "spider_name": "applicantstack_career_page",
+            "start_url": "https://hughstonphy.applicantstack.com/x/openings",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hughston"
+}

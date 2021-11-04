@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10386,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Commonwealth Credit Union",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COM1075CMW/JobBoard/387daff1-f407-4e31-8f40-04b6a0a50ca7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Commonwealth Credit Union"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11830,
+            "integration_provider_id": 118,
+            "is_python": true,
+            "name": "WVU Foundation",
+            "spider_name": "secure_saas_career_page",
+            "start_url": "https://secure4.saashr.com/ta/rest/ui/recruitment/companies/%7C6160768/job-requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "WVU Foundation"
+}

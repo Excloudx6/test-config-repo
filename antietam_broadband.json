@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15511,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Antietam Broadband",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SCH1012SHRZ/JobBoard/80161506-1102-4a23-a96b-6a1fd99448aa",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Antietam Broadband"
+}

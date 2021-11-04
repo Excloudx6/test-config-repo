@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11331,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Wedgewood Pharmacy",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F509F2ED772B08539C66AD83C581E95B",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wedgewood Pharmacy"
+}

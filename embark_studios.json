@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25653,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "Embark Studios",
+            "spider_name": "teamtailor",
+            "start_url": "https://embark-studios.com/jobs.rss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Embark Studios"
+}

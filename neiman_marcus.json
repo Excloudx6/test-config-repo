@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 186,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Neiman Marcus",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://neimanmarcus.taleo.net/careersection/nmg_external/jobsearch.ajax?portal=10500120314",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "Neiman Marcus"
+}

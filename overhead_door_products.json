@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 523,
+            "integration_provider_id": 57,
+            "is_python": true,
+            "name": "Overhead Door Products",
+            "spider_name": "select_minds_career_page",
+            "start_url": "https://ohd.referrals.selectminds.com/jobs/search",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Overhead Door Products"
+}

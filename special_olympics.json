@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15529,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Special Olympics",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SPE1016SPOL/JobBoard/48c569fb-e342-71d0-cf2c-f3622cec1d24",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Special Olympics"
+}

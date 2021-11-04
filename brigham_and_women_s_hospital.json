@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22035,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Brigham and Women's Hospital",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://partners.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=22100100638",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brigham and Women's Hospital"
+}

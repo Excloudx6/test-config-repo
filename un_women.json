@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9974,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "UN Women",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://unwomen.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=8200023511",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UN Women"
+}

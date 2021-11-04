@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10480,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Living Planet Aquarium",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/LOV1003LOVE/JobBoard/7e157ff7-c269-41d4-8df6-d1b79c519d18",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Living Planet Aquarium"
+}

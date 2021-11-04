@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16794,
+            "integration_provider_id": 118,
+            "is_python": true,
+            "name": "Arizona Nutritional Supplements",
+            "spider_name": "secure_saas_career_page",
+            "start_url": "https://secure6.entertimeonline.com/ta/rest/ui/recruitment/companies/%7C6092232/job-requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Arizona Nutritional Supplements"
+}

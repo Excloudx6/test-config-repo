@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22174,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "PSI Molded Plastics",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7882675847984a015864ca9f5c0ac3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PSI Molded Plastics"
+}

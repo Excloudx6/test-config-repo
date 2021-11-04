@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4107,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bed Bath & Beyond",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/bed_bath_beyond_jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29199,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bed Bath & Beyond Corporation",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/bed_bath_beyond_careers",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29200,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bed Bath & Beyond Supply Chain",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/bed_bath_beyond_distribution_jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29203,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Harmon Face Values",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/harmon_face_values_jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29207,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Harmon Face Values Corporate",
+            "spider_name": "workday",
+            "start_url": "https://bbby.wd5.myworkdayjobs.com/harmon_face_values_careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bed Bath & Beyond"
+}

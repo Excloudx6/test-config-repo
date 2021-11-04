@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4303,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Eversource Energy",
+            "spider_name": "workday",
+            "start_url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Eversource Energy"
+}

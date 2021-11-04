@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12831,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Craft Brew Alliance",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://chp.tbe.taleo.net/chp04/ats/careers/v2/searchResults?org=CRAFTBREW&cws=43",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Craft Brew Alliance"
+}

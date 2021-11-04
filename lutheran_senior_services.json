@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 431,
+            "integration_provider_id": 76,
+            "is_python": true,
+            "name": "Lutheran Senior Services",
+            "spider_name": "yello_career_page",
+            "start_url": "https://nam01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fproject-ouroboros-p-pub.s3.amazonaws.com%2Flssliving%2Ffeeds%2Frequisitions.xml&data=02%7C01%7CSusan.Douglas%40lssliving.org%7C75e8344563df4b06b47308d7b3c868c3%7C283bf03554a642e585b9d7e0f8cb5237%7C1%7C0%7C637175546825033814&sdata=ineiVFx1%2Bo5X%2FvGgi1FVm%2F8CYw%2B%2Fk62h4R9fOUsLKdU%3D&reserved=0",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Lutheran Senior Services"
+}

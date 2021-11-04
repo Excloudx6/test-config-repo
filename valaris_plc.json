@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19074,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "Valaris plc",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://efqq.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Valaris plc"
+}

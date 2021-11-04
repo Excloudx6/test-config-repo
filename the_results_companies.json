@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 511,
+            "integration_provider_id": 86,
+            "is_python": true,
+            "name": "The Results Companies",
+            "spider_name": "results_companies",
+            "start_url": "https://www.theresultscompanies.com/jobs-search/list.html?searchCriteria[0][key]=Resultsperpage&searchCriteria[0][values][]=50",
+            "status": 1,
+            "url_params": [
+                "sType=Talentify"
+            ]
+        }
+    ],
+    "name": "The Results Companies"
+}

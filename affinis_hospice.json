@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21103,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Affinis Hospice",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://affinishospice.hcshiring.com/api/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Affinis Hospice"
+}

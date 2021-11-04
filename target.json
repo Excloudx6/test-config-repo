@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 496,
+            "integration_provider_id": 106,
+            "is_python": true,
+            "name": "Target",
+            "spider_name": "quad_career_page",
+            "start_url": "https://jobs.target.com/search-jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Target"
+}

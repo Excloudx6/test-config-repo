@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4809,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "AbleVets",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25754&siteid=5779",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "AbleVets"
+}

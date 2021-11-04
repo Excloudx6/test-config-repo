@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10870,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Virtua Partners",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/6b5144c6-9558-49a5-8da8-b0afcdedb2f0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Virtua Partners"
+}

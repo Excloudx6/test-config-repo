@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15466,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Oxford University Press",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OXF1001OXFUP/JobBoard/605c06e0-940b-4a7b-a1e7-650907d3cbd0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Oxford University Press"
+}

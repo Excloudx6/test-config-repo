@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11348,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "151foods",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=ED7079E48D7F24ED4C9F597DC3B5BC1B",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "151foods"
+}

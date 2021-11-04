@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30302,
+            "integration_provider_id": 210,
+            "is_python": true,
+            "name": "Lake Forest Park PD",
+            "spider_name": "government_jobs",
+            "start_url": "https://www.governmentjobs.com/careers/cityoflakeforestpark",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lake Forest Park PD"
+}

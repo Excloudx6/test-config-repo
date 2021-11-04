@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29438,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Col\u00e9gio Positivo",
+            "spider_name": "gupy",
+            "start_url": "https://colegiopositivo.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Col\u00e9gio Positivo"
+}

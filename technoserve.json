@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29974,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "TechnoServe",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/TEC1006TESER/JobBoard/18180d88-ced0-4361-bd09-d5eef66dab24",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29975,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "TechnoServe",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/TEC1006TESER/JobBoard/447b6f34-021a-4c99-b5ef-3c7aea830f76",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TechnoServe"
+}

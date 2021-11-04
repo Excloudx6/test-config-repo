@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6230,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "A. I. Solutions",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AIS1000AISI/JobBoard/b22b728d-47a6-4550-9005-01c83b9a527f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "A. I. Solutions"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30074,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Southcentral Foundation",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/SOU1048SOFO/JobBoard/ad76c3a2-99d8-4135-8b8f-9da6caf393b7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Southcentral Foundation"
+}

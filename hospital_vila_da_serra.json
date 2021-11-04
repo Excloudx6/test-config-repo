@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27785,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "Hospital Vila da Serra",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/hvs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hospital Vila da Serra"
+}

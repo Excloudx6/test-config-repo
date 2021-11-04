@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15348,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Carespring Health Care Management",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CAR1038/JobBoard/a2cb2439-e7a8-4744-1acc-2ee745a1bfeb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Carespring Health Care Management"
+}

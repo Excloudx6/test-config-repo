@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27441,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Ubiquity Retirement + Savings",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/UbiquityRetirementSavings",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ubiquity Retirement + Savings"
+}

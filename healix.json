@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9771,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Healix",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=BAD22900A40085997BC831E5B0318BDC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Healix"
+}

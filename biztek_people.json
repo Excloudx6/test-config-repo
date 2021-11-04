@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14406,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "BizTek People",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://recruit.zohopublic.com/recruit/Portal.na?iframe=true&digest=CTPbedjwH6MELoKEIi2LfYqqS4p5fG41AuDZhQpv2CY-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BizTek People"
+}

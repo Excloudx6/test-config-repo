@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22684,
+            "integration_provider_id": 157,
+            "is_python": true,
+            "name": "Tennessee Valley Authority",
+            "spider_name": "ttcportals",
+            "start_url": "https://tvacareers.ttcportals.com/search/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tennessee Valley Authority"
+}

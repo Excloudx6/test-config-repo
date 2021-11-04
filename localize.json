@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24832,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "Localize",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/localize/33.00F",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Localize"
+}

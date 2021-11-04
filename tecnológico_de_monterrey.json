@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12512,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Tecnol\u00f3gico de Monterrey",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career8.successfactors.com/career?career_ns=job_listing_summary&company=ITESM",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tecnol\u00f3gico de Monterrey"
+}

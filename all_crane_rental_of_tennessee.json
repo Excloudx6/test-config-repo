@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15266,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "All Crane Rental of Tennessee",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ALL1029AECR/JobBoard/c5f83fdd-506a-98af-7d40-8402b8c2a771",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "All Crane Rental of Tennessee"
+}

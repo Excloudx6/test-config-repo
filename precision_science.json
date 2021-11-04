@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10801,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Precision Science",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/3d2f0949-9c66-4386-b329-0e9b20782848",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Precision Science"
+}

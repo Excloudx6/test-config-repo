@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6397,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "BioCryst Pharmaceuticals",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BIO1009BIPH/JobBoard/62507471-7936-4fae-aad4-d0bf9ffa0787",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BioCryst Pharmaceuticals"
+}

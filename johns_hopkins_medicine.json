@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 478,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Johns Hopkins Medicine",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?company=SFHUP&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=fuuH38A1hCPgQDvXWmSfU%2fMADEM%3d",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Johns Hopkins Medicine"
+}

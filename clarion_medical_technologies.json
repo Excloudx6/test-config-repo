@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25473,
+            "integration_provider_id": 181,
+            "is_python": true,
+            "name": "Clarion Medical Technologies",
+            "spider_name": "talentnest",
+            "start_url": "https://clarionmedical.talentnest.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Clarion Medical Technologies"
+}

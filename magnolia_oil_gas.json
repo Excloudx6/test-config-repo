@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15635,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Magnolia Oil & Gas",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MAG1010MOG/JobBoard/ad21ad71-8fa4-4c01-a472-6ee9b3a12125",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Magnolia Oil & Gas"
+}

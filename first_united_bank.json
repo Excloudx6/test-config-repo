@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4296,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "First United Bank",
+            "spider_name": "workday",
+            "start_url": "https://osv-firstunited.wd5.myworkdayjobs.com/FUBCareersite",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "First United Bank"
+}

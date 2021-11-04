@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11498,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "First State Community Bank",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=358C67F25613189A1E030118E793194E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "First State Community Bank"
+}

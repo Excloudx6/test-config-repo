@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 458,
+            "integration_provider_id": 57,
+            "is_python": true,
+            "name": "Cypress Village",
+            "spider_name": "select_minds_career_page",
+            "start_url": "https://lcsnet.referrals.selectminds.com/cypressvillage/jobs/search",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Cypress Village Retirement"
+}

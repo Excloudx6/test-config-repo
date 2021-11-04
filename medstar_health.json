@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 605,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "MedStar Health",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/CS/medstar#/results?",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "MedStar Health"
+}

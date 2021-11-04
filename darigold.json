@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10400,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Darigold",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/DAR1001DARI/JobBoard/79e8d37a-ba2b-4b20-a8cb-97d585ea8433",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Darigold"
+}

@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5127,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Fresh Thyme",
+            "spider_name": "workday",
+            "start_url": "https://meijer.wd5.myworkdayjobs.com/Fresh_Thyme_Stores_External_Career_Site",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22805,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Fresh Thyme ",
+            "spider_name": "workday",
+            "start_url": "https://meijer.wd5.myworkdayjobs.com/Fresh_Thyme_Support_and_Distribution_External_Career_Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fresh Thyme"
+}

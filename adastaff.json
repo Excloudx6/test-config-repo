@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23106,
+            "integration_provider_id": 74,
+            "is_python": true,
+            "name": "ADASTAFF,",
+            "spider_name": "avionte_career_page",
+            "start_url": "https://pdq.avionte.com/pdqstaffing",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ADASTAFF,"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4261,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "El Camino Health",
+            "spider_name": "workday",
+            "start_url": "https://ech.wd5.myworkdayjobs.com/ech",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "El Camino Health"
+}

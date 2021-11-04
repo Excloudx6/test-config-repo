@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10757,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Gareda Home Care",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/8d96823c-79de-4a7c-80c8-fb3d8858ab2d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gareda Home Care"
+}

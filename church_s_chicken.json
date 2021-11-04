@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4187,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Church's Chicken",
+            "spider_name": "workday",
+            "start_url": "https://churchs.wd1.myworkdayjobs.com/Field",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30102,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Church's Chicken - Corporate",
+            "spider_name": "workday",
+            "start_url": "https://churchs.wd1.myworkdayjobs.com/Corporate",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Church's Chicken"
+}

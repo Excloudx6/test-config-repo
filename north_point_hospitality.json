@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11595,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "North Point Hospitality",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B31CE9A5C0D99EEFFA4172381E47FB4A",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "North Point Hospitality"
+}

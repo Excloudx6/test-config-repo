@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9413,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "Scott's Cheap Flights",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/scottscheapflights",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Scott's Cheap Flights"
+}

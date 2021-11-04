@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10359,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Clearwave Communications",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CAB1003/JobBoard/8c316497-f8ee-4160-8562-02ea593a5c5b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Clearwave Communications"
+}

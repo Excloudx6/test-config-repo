@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10849,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Poseida Therapeutics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/149f9c9b-5ec8-4b8a-ab57-a65f66a5614b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Poseida Therapeutics"
+}

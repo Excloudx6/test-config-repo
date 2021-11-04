@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18801,
+            "integration_provider_id": 138,
+            "is_python": true,
+            "name": "Flying Wild Hog",
+            "spider_name": "breezy_hr",
+            "start_url": "https://flyingwildhog.breezy.hr",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Flying Wild Hog"
+}

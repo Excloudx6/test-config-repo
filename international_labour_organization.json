@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12370,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "International Labour Organization",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career5.successfactors.eu/career?career_ns=job_listing_summary&company=ILO",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "International Labour Organization"
+}

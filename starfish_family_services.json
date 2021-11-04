@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11670,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Starfish Family Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=4A580A4AD8EA62204895312A9C8549BE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Starfish Family Services"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 454,
+            "integration_provider_id": 80,
+            "is_python": true,
+            "name": "G4S",
+            "spider_name": "no_ats_integration",
+            "start_url": "http://foo.bar.com",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "G4S Hiring Events"
+}

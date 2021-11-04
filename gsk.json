@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4365,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "GSK",
+            "spider_name": "workday",
+            "start_url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GSK"
+}

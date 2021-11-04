@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10859,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Silicon Therapeutics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/7af69933-4575-432a-8bcc-003e33e5ee50",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Silicon Therapeutics"
+}

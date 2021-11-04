@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5022,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "CommonSpirit Health",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-commonspirit.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10263,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "MercyOne",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/99401/search/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11767,
+            "integration_provider_id": 115,
+            "is_python": true,
+            "name": "MercyOne North Iowa Affiliates",
+            "spider_name": "applicant_pro",
+            "start_url": "https://mercynetworkni.applicantpro.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CommonSpirit Health"
+}

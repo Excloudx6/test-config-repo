@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11575,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "MidCentral Energy Partners",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F5F37172B0F0559A2822FB1E8EAC864D",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MidCentral Energy Partners"
+}

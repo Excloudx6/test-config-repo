@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11637,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Quicksilver Express Courier",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=110CF30CA402631107BAE58CD5961CFA",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Quicksilver Express Courier"
+}

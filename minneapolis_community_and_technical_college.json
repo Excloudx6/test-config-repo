@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29281,
+            "integration_provider_id": 199,
+            "is_python": true,
+            "name": "Minneapolis Community and Technical College",
+            "spider_name": "peopleadmin",
+            "start_url": "https://minneapolistech.peopleadmin.com/postings/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Minneapolis Community and Technical College"
+}

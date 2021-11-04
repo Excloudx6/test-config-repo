@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6083,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Haley & Aldrich",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://haleyaldrich.csod.com/ux/ats/careersite/1/home?c=haleyaldrich",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Haley & Aldrich"
+}

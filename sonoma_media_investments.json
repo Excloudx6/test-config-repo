@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11679,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Sonoma Media Investments",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D30A1EFE8E30C42F3BB9BD6822A73234",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sonoma Media Investments"
+}

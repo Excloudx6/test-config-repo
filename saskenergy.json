@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17940,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "SaskEnergy",
+            "spider_name": "workday",
+            "start_url": "https://saskenergy.wd10.myworkdayjobs.com/SaskEnergy",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SaskEnergy"
+}

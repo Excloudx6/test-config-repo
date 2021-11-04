@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14960,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "Adtalem Global Education",
+            "spider_name": "icims_web_api",
+            "start_url": "https://adtalem-brasil.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Adtalem Global Education"
+}

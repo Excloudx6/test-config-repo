@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15567,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Crum & Forster Pet Insurance Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/UNI1080USFI/JobBoard/d49542d6-5e5d-4453-a2dd-8ebe3f5777fc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Crum & Forster Pet Insurance Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22786,
+            "integration_provider_id": 60,
+            "is_python": true,
+            "name": "Warner Pacific University",
+            "spider_name": "cats_career_page",
+            "start_url": "https://warnerpacific.catsone.com/careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Warner Pacific University"
+}

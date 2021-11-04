@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22840,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "BMW Group",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career5.successfactors.eu/career?career_ns=job_listing_summary&company=bmwag",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29901,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "BMW of North America",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/BMWDealerTechnicianOpportunities",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29902,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "BMW of North America ",
+            "spider_name": "icims_career_page",
+            "start_url": "https://bodypaintstep-bmwstepprogram.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29903,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "BMW of North America  ",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://bmwgroup.taleo.net/careersection/ex/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BMW Group"
+}

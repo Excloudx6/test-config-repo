@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11528,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Insurance Institute for Business & Home Safety",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=3FBEAD61331F6F3B1ABE296FD352AA5E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Insurance Institute for Business & Home Safety"
+}

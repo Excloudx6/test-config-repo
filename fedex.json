@@ -1,0 +1,47 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 502,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "FedEx",
+            "spider_name": "workday",
+            "start_url": "https://fedex.wd1.myworkdayjobs.com/FTN_External_Career_Site",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29969,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "FedEx",
+            "spider_name": "icims_web_api",
+            "start_url": "https://careers.fedex.com/fedex/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "FedEx"
+}

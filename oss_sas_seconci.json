@@ -1,0 +1,105 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27892,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "OSS SAS Seconci",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/sas-seconci",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29937,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "OSS SAS Seconci - Vagas Administrativas",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/administrativo",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29938,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "OSS SAS Seconci - Vagas de Enfermagem",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/enfermagem",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29939,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "OSS SAS Seconci - Vagas M\u00e9dicas",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/medicos",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29940,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "OSS SAS Seconci - Vagas Multidisciplinar",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/multidisciplinar",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "OSS SAS Seconci"
+}

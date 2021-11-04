@@ -1,0 +1,1125 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19261,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Ardent Health Services 1",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed-corporate.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21012,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Ardent Health Services",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Ardent+Health+Services",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21013,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21014,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Health System",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Health+System",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21015,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Heart Hospital of New Mexico at Lovelace Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Heart+Hospital+of+New+Mexico+at+Lovelace+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21016,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Portneuf Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Portneuf+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21017,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Hospital South",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Hospital+South",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21018,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Seton Medical Center Harker Heights",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Seton+Medical+Center+Harker+Heights",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21019,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Westside Hospital",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Westside+Hospital",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21020,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Women's Hospital",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Women%27s+Hospital",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21021,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace UNM Rehabilitation Hospital",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+UNM+Rehabilitation+Hospital",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21022,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "SMA Westside",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=SMA+Westside",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21023,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Tyler",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Tyler",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21024,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Jacksonville",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Jacksonville",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21025,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Carthage",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Carthage",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21026,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Hospital Pryor",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Hospital+Pryor",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21027,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21028,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Physicians Surgical Hospitals - Panhandle",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Physicians+Surgical+Hospitals+-+Panhandle",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21029,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Physicians Surgical Hospitals - Quail Creek",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Physicians+Surgical+Hospitals+-+Quail+Creek",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21030,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "EMS - Tyler",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=EMS+-+Tyler",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21031,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "LHS Summit Building",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=LHS+Summit+Building",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21032,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Regional Hospital",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Regional+Hospital",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21033,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Wound Care Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Wound+Care+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21034,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hackensack Meridian Health Mountainside Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hackensack+Meridian+Health+Mountainside+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21035,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Hospital Cushing",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Hospital+Cushing",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21036,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Shared Services",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Shared+Services",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21037,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "The University of Kansas Health System St . Francis Campus",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=The+University+of+Kansas+Health+System+St+.+Francis+Campus",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21038,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hackensack Meridian Health Pascack Valley Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hackensack+Meridian+Health+Pascack+Valley+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21039,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Pittsburg",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Pittsburg",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21040,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Athens",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Athens",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21041,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Quitman",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Quitman",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21042,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Oklahoma Heart Institute",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Oklahoma+Heart+Institute",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21043,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Utica Park Clinic",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Utica+Park+Clinic",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21044,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Bailey Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Bailey+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21045,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Amarillo Diagnostic Clinic",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Amarillo+Diagnostic+Clinic",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21046,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Tulsa Spine & Specialty Hospital",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Tulsa+Spine+%26+Specialty+Hospital",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21047,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Oklahoma Division Office",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Oklahoma+Division+Office",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21048,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Rehabilitation",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Rehabilitation",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21049,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Health System",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Health+System",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21050,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Hospital Claremore",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Hospital+Claremore",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21051,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Henderson",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Henderson",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21052,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Ardent Patient Financial Services(CBO)",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Ardent+Patient+Financial+Services%28CBO%29",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21053,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Ardent Health Services Highland Ridge",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Ardent+Health+Services+Highland+Ridge",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21054,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "NMHI Elm",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=NMHI+Elm",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21055,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Danvers Building",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Danvers+Building",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21056,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "SAND SPRINGS",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=SAND+SPRINGS",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21057,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Hillcrest Hospital Henryetta",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Hillcrest+Hospital+Henryetta",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21058,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "UT Health Specialty",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=UT+Health+Specialty",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21059,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Family Medical Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Family+Medical+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21060,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Outpatient Therapy Services",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Outpatient+Therapy+Services",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21061,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Medical Group - Independence Square",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Medical+Group+-+Independence+Square",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21062,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Harrington Cancer Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Harrington+Cancer+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21063,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Harrington Breast Center",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Harrington+Breast+Center",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21064,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "NMHI RR",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=NMHI+RR",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21065,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "BSA Ambulance Service",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=BSA+Ambulance+Service",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21066,
+            "integration_provider_id": 141,
+            "is_python": true,
+            "name": "Lovelace Medical Group - Las Estancias",
+            "spider_name": "jibepost_xml",
+            "start_url": "https://feeds.jibepost.com/ardenthealth/indeed.xml?brand=Lovelace+Medical+Group+-+Las+Estancias",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ardent Health Services"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19156,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Alpha Consulting",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=acjdnwl8agpzzgayvm66j73qx4ty9z010agltf52bggyeves5aav0sya4rwik2a8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alpha Consulting"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22195,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "CBSL Transportation Services",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66d228c7b016d5e889697231d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CBSL Transportation Services"
+}

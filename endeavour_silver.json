@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6059,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Endeavour Silver",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://endeavoursilver-talent.csod.com/ux/ats/careersite/4/home?c=endeavoursilver-talent",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Endeavour Silver"
+}

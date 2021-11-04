@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24002,
+            "integration_provider_id": 171,
+            "is_python": true,
+            "name": "Professional Services Group",
+            "spider_name": "hiring_thing",
+            "start_url": "https://professional-services-group.hiringthing.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Professional Services Group"
+}

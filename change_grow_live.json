@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15686,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Change Grow Live",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-changegrowlive.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Change Grow Live"
+}

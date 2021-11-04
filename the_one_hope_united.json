@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6286,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "the One Hope United",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ONE1005/JobBoard/f4ac3653-ed5b-cd96-4f3b-b0e52b1b3b27",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "the One Hope United"
+}

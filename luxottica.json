@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30016,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Luxottica",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career5.successfactors.eu/career?career_ns=job_listing_summary&company=LUXGRP",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30018,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Luxottica",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://luxotticaau.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Luxottica"
+}

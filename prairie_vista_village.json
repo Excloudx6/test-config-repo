@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11212,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Prairie Vista Village",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=EC45C107514A6073CD4CF50E9B6A17BD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Prairie Vista Village"
+}

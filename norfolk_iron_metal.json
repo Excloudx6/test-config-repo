@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10556,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Norfolk Iron & Metal",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ONE1015OFRM/JobBoard/efdf7248-d804-40e3-85b3-bc323f775167",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Norfolk Iron & Metal"
+}

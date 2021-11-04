@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15581,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Verve, a Credit Union",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/VER1011/JobBoard/26d40904-8071-0309-b29e-4a465c033bc4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Verve, a Credit Union"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14649,
+            "integration_provider_id": 121,
+            "is_python": true,
+            "name": "LifeScape",
+            "spider_name": "silk_road_career_page",
+            "start_url": "https://lifescapesd.silkroad.com/epostings/index.cfm?fuseaction=app.jobsearch",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "LifeScape"
+}

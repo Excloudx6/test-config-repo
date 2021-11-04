@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4701,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Sun Life Financial",
+            "spider_name": "workday",
+            "start_url": "https://sunlife.wd3.myworkdayjobs.com/Experienced",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sun Life Financial"
+}

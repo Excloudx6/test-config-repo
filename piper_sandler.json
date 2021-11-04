@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12894,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Piper Sandler",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://chu.tbe.taleo.net/chu04/ats/careers/v2/searchResults?org=PIPER_SANDLER&cws=44",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Piper Sandler"
+}

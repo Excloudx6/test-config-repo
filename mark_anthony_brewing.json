@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10489,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Mark Anthony Brewing",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/mar5000mag/JobBoard/2cd59b9a-2cb9-476b-99e0-ba08610a51b9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mark Anthony Brewing"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19034,
+            "integration_provider_id": 0,
+            "is_python": true,
+            "name": "Talentify Referrals",
+            "spider_name": "none",
+            "start_url": "https://my-company.dicims.com/jobs/search",
+            "status": 1,
+            "url_params": null
+        }
+    ],
+    "name": "Talentify Referrals"
+}

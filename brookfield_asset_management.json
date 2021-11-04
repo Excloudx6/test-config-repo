@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15320,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Brookfield Asset Management",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BRO5000/JobBoard/ed800086-1d62-5572-f313-3794fce12c2f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brookfield Asset Management"
+}

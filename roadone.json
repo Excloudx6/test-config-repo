@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20111,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "RoadOne",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/roadone?uri_b=ia_roadone",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "RoadOne"
+}

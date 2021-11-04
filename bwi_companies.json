@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15326,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "BWI Companies",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BWI1000BWI/JobBoard/9d0104a2-b08f-4ed7-ab74-cc10824d5637",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BWI Companies"
+}

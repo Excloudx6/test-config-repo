@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10399,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Paragon Water Systems",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CUL1000CULL2/JobBoard/6e97a21e-2c97-4664-9598-b877dc2adf4f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Paragon Water Systems"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7301,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Barrio Brewing Co.",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/991b6142-fb0d-4f74-b285-36a828a2b823",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Barrio Brewing Co."
+}

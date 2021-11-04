@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12794,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "BNY Mellon",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://bnymellon.taleo.net/careersection/6/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30054,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "BNY Mellon USA",
+            "spider_name": "icims_web_api",
+            "start_url": "https://bnymellon.jibeapply.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BNY Mellon"
+}

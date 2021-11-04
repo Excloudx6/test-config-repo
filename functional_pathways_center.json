@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6240,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Functional Pathways Center",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/FUN1001FPOT/JobBoard/baa95e5e-64af-46bc-9722-47b0ecaf5bea",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Functional Pathways Center"
+}

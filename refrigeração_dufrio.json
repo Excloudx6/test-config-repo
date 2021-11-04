@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29475,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Refrigera\u00e7\u00e3o Dufrio",
+            "spider_name": "gupy",
+            "start_url": "https://dufrio.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Refrigera\u00e7\u00e3o Dufrio"
+}

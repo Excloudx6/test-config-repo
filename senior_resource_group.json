@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6146,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Senior Resource Group",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://srgseniorliving.csod.com/ux/ats/careersite/19/home?c=srgseniorliving",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Senior Resource Group"
+}

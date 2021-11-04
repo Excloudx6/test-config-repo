@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15460,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Oracle Elevator",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ORA1005ORAC/JobBoard/da0f1c39-690a-4521-b8b3-182d8a94aafd",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Oracle Elevator"
+}

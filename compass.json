@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6204,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Compass",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/4037fdf6-76b4-4a63-8366-9f1cedf2889d/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Compass"
+}

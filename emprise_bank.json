@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16690,
+            "integration_provider_id": 131,
+            "is_python": true,
+            "name": "Emprise Bank",
+            "spider_name": "workable_career_page",
+            "start_url": "https://apply.workable.com/emprise-bank",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Emprise Bank"
+}

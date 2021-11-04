@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10358,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Busey",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/BUS1004BSY/JobBoard/e3c4a960-dce8-4d73-b019-3a63e9f2d37a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Busey"
+}

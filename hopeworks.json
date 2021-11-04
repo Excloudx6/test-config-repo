@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10791,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "HopeWorks",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/c0f181b0-c5e5-4d2a-9c2f-f41024d0d050",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HopeWorks"
+}

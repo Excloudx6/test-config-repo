@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12790,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "The Est\u00e9e Lauder Companies",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://elcompanies.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=46200021024",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Est\u00e9e Lauder Companies"
+}

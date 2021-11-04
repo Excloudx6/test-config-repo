@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19176,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Ennoble First",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=zljdnwz1cdlb8t9nt9672p6b1iv2kz07b1fdbz7gnxb0gv7b0inlvhllnfiw55fo",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ennoble First"
+}

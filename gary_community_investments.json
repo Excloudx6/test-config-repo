@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10800,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Gary Community Investments",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/0ef6961e-8670-4c04-be6a-0f9c06ae1070",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gary Community Investments"
+}

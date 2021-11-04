@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11366,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Annie's",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D4C060CB38834D9F0EFBD6101013DE5E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Annie's"
+}

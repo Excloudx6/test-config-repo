@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15637,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Morningside Ministries",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MOR1020MRSD/JobBoard/0f6d8f65-9e33-41e9-8088-4004b0d3205b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Morningside Ministries"
+}

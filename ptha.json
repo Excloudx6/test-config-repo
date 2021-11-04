@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10829,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "PTHA",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/569a8155-61a9-4e8e-9533-df411680822c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PTHA"
+}

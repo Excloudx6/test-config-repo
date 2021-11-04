@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10883,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "American Conservatory Theater",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=5F7DE466D85198CBC962C35FF55D265C",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Conservatory Theater"
+}

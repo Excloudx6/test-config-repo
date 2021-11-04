@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15096,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "National DCP",
+            "spider_name": "icims_career_page",
+            "start_url": "https://drivers-natdcp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National DCP"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6096,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "Pacific Radiology",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://pacificradiology.csod.com/ux/ats/careersite/4/home?c=pacificradiology",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pacific Radiology"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10428,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Maria Joseph Care Ctr",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HEA1026HDCI/JobBoard/39054103-c7c6-4c10-879e-5016cb9f534f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Maria Joseph Care Ctr"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19209,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "TTI of USA",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=tdjdnw054tfwbedendoz7t2x4fhbfv0211e76engitc8ia89bm75iqcppmr6iuf2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TTI of USA"
+}

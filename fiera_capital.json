@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12058,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "Fiera Capital",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_fiera/external/search/search.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fiera Capital"
+}

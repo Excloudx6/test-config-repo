@@ -1,0 +1,87 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23309,
+            "integration_provider_id": 38,
+            "is_python": true,
+            "name": "Huddle House",
+            "spider_name": "talent_reef_xml",
+            "start_url": "https://apply.jobappnetwork.com/huddle-house",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31012,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Perkins",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://perkins-careers.careerplug.com/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31013,
+            "integration_provider_id": 72,
+            "is_python": true,
+            "name": "Ascent Hospitality Management",
+            "spider_name": "career_plug_career_page",
+            "start_url": "https://ahm.careerplug.com/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31014,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Huddle House - Distribution",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/hhdc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ascent Hospitality Management"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4660,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Siemens Gamesa",
+            "spider_name": "workday",
+            "start_url": "https://siemensgamesa.wd3.myworkdayjobs.com/da-DK/SGRE",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Siemens Gamesa"
+}

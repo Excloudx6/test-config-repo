@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15349,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Catholic Community Services Oregon - CCS",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CAT1005/JobBoard/5c6f7afa-7c11-f717-cb4b-20cc1e75183d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Catholic Community Services Oregon - CCS"
+}

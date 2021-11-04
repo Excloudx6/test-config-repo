@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 553,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Foundation Building Materials - Construction Materials",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/FOU1010FBM/JobBoard/b179cb96-d7de-4345-8493-80e3868c1bd0",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Foundation Building Materials - Construction Mater"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6217,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Caffey Distributing",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CAF1001CDCI/JobBoard/d86fc46a-9c64-4db4-87b1-160b9f31af5d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Caffey Distributing"
+}

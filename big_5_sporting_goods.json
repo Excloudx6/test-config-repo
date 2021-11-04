@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10198,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Big 5 Sporting Goods",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/RTI.home?d=ExternalCareerSite&c=1140641",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27381,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Big 5 Sporting Goods - Distribution",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/1152707/search/",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27382,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Big 5 Sporting Goods - Stores",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/RTI.home?d=Big5Stores&c=1140641",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Big 5 Sporting Goods"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11607,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Oak Manor Retirement Complex",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=BE7A9B4B792AA32E2FB7F7AE01AC0FC8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Oak Manor Retirement Complex"
+}

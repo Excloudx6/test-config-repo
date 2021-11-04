@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10822,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Contessa Health",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/52849d34-d71d-4761-af22-3f0537edb902",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Contessa Health"
+}

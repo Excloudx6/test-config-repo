@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6384,
+            "integration_provider_id": 187,
+            "is_python": true,
+            "name": "ActivSurgical",
+            "spider_name": "bright_move",
+            "start_url": "http://j.brt.mv/JobRSS.do?companyGK=41281&portalGK=31695",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ActivSurgical"
+}

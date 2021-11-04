@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10469,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Keesler Federal Credit Union",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/KEE1000KFCU/JobBoard/30091111-70d0-4a3f-9e5f-153e09cc9faa",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Keesler Federal Credit Union"
+}

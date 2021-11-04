@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6199,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CommuniCare Health Centers",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/COM1052/JobBoard/2e5d0965-0540-a0b3-7480-d7e4ddca0af6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CommuniCare Health Centers"
+}

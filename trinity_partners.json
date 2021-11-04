@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10770,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Trinity Partners",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/132dccd6-3e73-4429-9344-e49edd30573e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Trinity Partners"
+}

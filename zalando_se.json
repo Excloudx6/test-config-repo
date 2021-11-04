@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14744,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "Zalando SE",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/zalandotech/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Zalando SE"
+}

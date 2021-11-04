@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11273,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Steinman Communications",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E86E7B5A50F7166F4A47173978DA4F79",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Steinman Communications"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29250,
+            "integration_provider_id": 199,
+            "is_python": true,
+            "name": "East Carolina University",
+            "spider_name": "peopleadmin",
+            "start_url": "https://ecu.peopleadmin.com/postings/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "East Carolina University"
+}

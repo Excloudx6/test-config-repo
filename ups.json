@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18429,
+            "integration_provider_id": 135,
+            "is_python": true,
+            "name": "UPS",
+            "spider_name": "talent_brew",
+            "start_url": "https://www.jobs-ups.com/search-jobs/United%20States/1187/2/6252001/39x76/-98x5/15/2",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UPS"
+}

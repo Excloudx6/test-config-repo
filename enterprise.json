@@ -21,6 +21,26 @@
             "url_params": [
                 "utm_source=FLUX"
             ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30113,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings",
+            "spider_name": "icims_career_page",
+            "start_url": "https://nationalalamo-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
         }
     ],
     "name": "Enterprise"

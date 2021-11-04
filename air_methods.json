@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10311,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Air Methods",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/AIR1006AIRMC/JobBoard/91f1ba52-e6d7-ef1b-6711-a1b455f690c1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Air Methods"
+}

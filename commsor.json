@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27947,
+            "integration_provider_id": 192,
+            "is_python": true,
+            "name": "Commsor",
+            "spider_name": "ashby_hq",
+            "start_url": "https://jobs.ashbyhq.com/commsor",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Commsor"
+}

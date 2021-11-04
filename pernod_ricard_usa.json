@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4577,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Pernod Ricard USA",
+            "spider_name": "workday",
+            "start_url": "https://pernodricard.wd3.myworkdayjobs.com/pernod-ricard",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pernod Ricard USA"
+}

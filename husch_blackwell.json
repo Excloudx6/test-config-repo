@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10450,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Husch Blackwell",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/hus1001husch/JobBoard/b6637591-8c8d-49b8-b093-5524b203b157",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Husch Blackwell"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10053,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Worley",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://worleyparsons.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Worley"
+}

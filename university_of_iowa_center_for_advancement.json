@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10609,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "University of Iowa Center for Advancement",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/UNI1081UIF/JobBoard/9d69f772-545d-4ba4-8a32-204884b7afda",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Iowa Center for Advancement"
+}

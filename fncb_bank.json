@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26707,
+            "integration_provider_id": 189,
+            "is_python": true,
+            "name": "FNCB Bank",
+            "spider_name": "vibehcm",
+            "start_url": "https://fncb-careers.vibehcm.com/portal.jsp",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "FNCB Bank"
+}

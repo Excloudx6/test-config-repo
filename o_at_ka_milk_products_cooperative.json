@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15453,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "O-AT-KA Milk Products Cooperative",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OAT1000/JobBoard/7addd25c-994e-7619-bcb8-bdfbd0e539f1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "O-AT-KA Milk Products Cooperative"
+}

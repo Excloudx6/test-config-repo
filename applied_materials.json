@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4081,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Applied Materials",
+            "spider_name": "workday",
+            "start_url": "https://amat.wd1.myworkdayjobs.com/University",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25367,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Applied Materials ",
+            "spider_name": "workday",
+            "start_url": "https://amat.wd1.myworkdayjobs.com/External",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Applied Materials"
+}

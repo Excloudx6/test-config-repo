@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 546,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Exemplis",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?company=Exemplis&Career%20Site&navBarLevel=JOB%5fSEARCH&_s.crb=At8A2CABibeg7DmxVPlT8sJ29Syg7uGogn3m2B4WgvI%3d",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Exemplis"
+}

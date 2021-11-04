@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10001,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Atmos Energy",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://atmos.taleo.net/careersection/prof/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26739,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Atmos Energy - US",
+            "spider_name": "workday",
+            "start_url": "https://atmosenergy.wd5.myworkdayjobs.com/External_Career_Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Atmos Energy"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11173,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "NEOTech",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=5FFD48E5DB482A6F32557EB38F5A684E",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NEOTech"
+}

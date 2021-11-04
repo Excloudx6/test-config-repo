@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11451,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Diamonds Direct",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=CBCADDC61551F48D7E89C65CA1A8C668",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Diamonds Direct"
+}

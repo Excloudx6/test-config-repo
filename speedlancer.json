@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23854,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Speedlancer",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://recruit.zohopublic.com/recruit/Portal.na?iframe=true&digest=jzL68Yrp3@n9hLzKs0EOhnGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Speedlancer"
+}

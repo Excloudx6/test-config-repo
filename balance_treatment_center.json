@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12926,
+            "integration_provider_id": 130,
+            "is_python": true,
+            "name": "Balance Treatment Center",
+            "spider_name": "bamboo_hr",
+            "start_url": "https://balancetreatment.bamboohr.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Balance Treatment Center"
+}

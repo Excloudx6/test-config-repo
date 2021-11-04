@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15379,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Lovett School",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/LOV1004TLSI/JobBoard/7de189ab-30da-416f-8b71-70b34ffcde9b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Lovett School"
+}

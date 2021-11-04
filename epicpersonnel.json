@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23121,
+            "integration_provider_id": 74,
+            "is_python": true,
+            "name": "epicpersonnel",
+            "spider_name": "avionte_career_page",
+            "start_url": "https://epp.avionte.com/positions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "epicpersonnel"
+}

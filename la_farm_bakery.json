@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11116,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "La Farm Bakery",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=985A9F1B3BE151E2F6D2DDD7C8EC50AD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "La Farm Bakery"
+}

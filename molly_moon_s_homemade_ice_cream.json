@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22636,
+            "integration_provider_id": 148,
+            "is_python": true,
+            "name": "Molly Moon's Homemade Ice Cream",
+            "spider_name": "hireology",
+            "start_url": "https://careers.hireology.com/mollymoon",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Molly Moon's Homemade Ice Cream"
+}

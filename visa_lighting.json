@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6298,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Visa Lighting",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/OLD1005OGIN/JobBoard/ab89e154-d01d-482f-920e-be8693d2c335",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Visa Lighting"
+}

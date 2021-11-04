@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5267,
+            "integration_provider_id": 44,
+            "is_python": true,
+            "name": "Kumon North America",
+            "spider_name": "dayforce_career_page",
+            "start_url": "https://us59.dayforcehcm.com/CandidatePortal/en-US/kumon",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kumon North America"
+}

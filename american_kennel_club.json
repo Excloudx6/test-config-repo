@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15278,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Kennel Club",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/AME1082/JobBoard/95710366-2469-441a-87d9-47a9b48153e4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Kennel Club"
+}

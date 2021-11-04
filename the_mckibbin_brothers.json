@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6174,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "The McKibbin Brothers",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://wearemckibbon.csod.com/ux/ats/careersite/1/home?c=wearemckibbon",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The McKibbin Brothers"
+}

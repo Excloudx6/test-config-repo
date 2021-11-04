@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10827,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Eclipse Gaming",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/fc7520ac-f47f-4089-89af-f3b0cb71dea4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Eclipse Gaming"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23164,
+            "integration_provider_id": 57,
+            "is_python": true,
+            "name": "Sunoco Partners Marketing and Terminals",
+            "spider_name": "select_minds_career_page",
+            "start_url": "https://energytransfer.referrals.selectminds.com/SXL/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sunoco Partners Marketing and Terminals"
+}

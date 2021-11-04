@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24164,
+            "integration_provider_id": 168,
+            "is_python": true,
+            "name": "Spinnaker Consulting",
+            "spider_name": "recruitee",
+            "start_url": "https://spinnakerconsultinggroup.recruitee.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spinnaker Consulting"
+}

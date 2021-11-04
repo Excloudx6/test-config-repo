@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17094,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Norgren",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=cdeb692c-f63b-47b1-87a6-3cd3282756da",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Norgren"
+}

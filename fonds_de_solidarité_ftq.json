@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17906,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Fonds de solidarit\u00e9 FTQ",
+            "spider_name": "workday",
+            "start_url": "https://fondsftq.wd10.myworkdayjobs.com/en-US/sitecarriere_externe",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fonds de solidarit\u00e9 FTQ"
+}

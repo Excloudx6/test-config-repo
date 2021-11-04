@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20095,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "H. R. Ewell,",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/hrewell?uri_b=ia_hrewell",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "H. R. Ewell,"
+}

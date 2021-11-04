@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10310,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Access",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ACC1016AIMS/JobBoard/345fd231-10fb-4196-8695-633f3ab1f9fc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Access"
+}

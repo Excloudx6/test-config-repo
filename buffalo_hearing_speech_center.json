@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10913,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Buffalo Hearing & Speech Center",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=ABD95C5D708936E9323C858418EF6D86",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Buffalo Hearing & Speech Center"
+}

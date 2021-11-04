@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27616,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "My Food and Family",
+            "spider_name": "workday",
+            "start_url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_BC",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "My Food and Family"
+}

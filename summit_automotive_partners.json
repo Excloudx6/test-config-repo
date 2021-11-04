@@ -1,0 +1,67 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29797,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "Summit Automotive Partners",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/summitautomotive/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29799,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "Groove Auto",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/grooveautomotive/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29800,
+            "integration_provider_id": 110,
+            "is_python": true,
+            "name": "Berlin City Auto Group",
+            "spider_name": "green_house",
+            "start_url": "https://api.greenhouse.io/v1/boards/berlincity/jobs",
+            "status": 1,
+            "url_params": [
+                "Source=Talentify"
+            ]
+        }
+    ],
+    "name": "Summit Automotive Partners"
+}

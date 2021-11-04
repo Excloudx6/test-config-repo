@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26675,
+            "integration_provider_id": 187,
+            "is_python": true,
+            "name": "Majority Strategies",
+            "spider_name": "bright_move",
+            "start_url": "https://j.brt.mv/JobRSS.do?companyGK=35155&portalGK=24456",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Majority Strategies"
+}

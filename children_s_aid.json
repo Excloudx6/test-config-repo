@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23926,
+            "integration_provider_id": 170,
+            "is_python": true,
+            "name": "Children's Aid",
+            "spider_name": "people_fluent",
+            "start_url": "https://childrensaidrccorp.peoplefluent.com/res_joblist.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Children's Aid"
+}

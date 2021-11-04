@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15394,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Members 1st FCU",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/MEM1003MFCU/JobBoard/07ce95a9-7cc1-4159-a8e6-dcd9c4547c9f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Members 1st FCU"
+}

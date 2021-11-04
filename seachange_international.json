@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15514,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SeaChange International,",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SEA1011SEACI/JobBoard/084e246e-a1bf-4b22-a4de-5aae5449972e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SeaChange International,"
+}

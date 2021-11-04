@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 13829,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Figo Pet Insurance",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/0aad0e0a-2490-40ba-beb0-2fe403f7abdf",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Figo Pet Insurance"
+}

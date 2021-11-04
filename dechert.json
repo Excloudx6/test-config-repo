@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17981,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Dechert",
+            "spider_name": "workday",
+            "start_url": "https://dechert.wd1.myworkdayjobs.com/DechertCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Dechert"
+}

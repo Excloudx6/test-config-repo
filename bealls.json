@@ -1,0 +1,93 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 577,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Bealls Inc.",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://beallsinc.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=8100010899",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 582,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Bealls Outlet",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://beallsinc.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=12600010899",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 583,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Bealls Stores",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://beallsinc.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=12100010899",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 584,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Burkes Outlet/Home Centric",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://beallsinc.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=14300010899",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Bealls"
+}

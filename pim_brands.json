@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30111,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "PIM Brands",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=E7AE34ECD7CBFF9A5131E1793B72C101",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30112,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "PIM Brands - Park Ridge",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=AA72C55CDF15964FCD1136D758D083D5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pim Brands"
+}

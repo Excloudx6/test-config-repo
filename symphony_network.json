@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26053,
+            "integration_provider_id": 185,
+            "is_python": true,
+            "name": "Symphony Network",
+            "spider_name": "apploi",
+            "start_url": "https://jobs.apploi.com/profile/symphony-care-network",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26064,
+            "integration_provider_id": 185,
+            "is_python": true,
+            "name": "Symphony Northwoods",
+            "spider_name": "apploi",
+            "start_url": "https://jobs.apploi.com/profile/symphony-northwoods",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Symphony Network"
+}

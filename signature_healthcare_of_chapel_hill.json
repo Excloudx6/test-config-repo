@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23471,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Signature HealthCARE of Chapel Hill",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://shcofchapelhill.hcshiring.com/api/jobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23472,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Signature HealthCARE of Lafayette",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://shcoflafayette.hcshiring.com/api/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Signature HealthCARE of Chapel Hill"
+}

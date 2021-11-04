@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18044,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Webber Wentzel",
+            "spider_name": "workday",
+            "start_url": "https://webberwentzel.wd3.myworkdayjobs.com/WW_EarlyCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Webber Wentzel"
+}

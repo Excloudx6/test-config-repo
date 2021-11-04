@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7305,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Miller's",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/5083193a-bd9a-4235-94e0-69c271a43c1d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Miller's"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1213,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "American Cruise Lines",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d07725ca8701772c64100204ac",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Cruise Lines"
+}

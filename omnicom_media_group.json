@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22036,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Omnicom Media Group",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://omg.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=30100022856",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28262,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Omnicom Media Group - OMG",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-omnicommediagroup.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Omnicom Media Group"
+}

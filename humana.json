@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12540,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Humana",
+            "spider_name": "workday",
+            "start_url": "https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Humana"
+}

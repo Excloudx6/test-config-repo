@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4040,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Academy Sports + Outdoors",
+            "spider_name": "workday",
+            "start_url": "https://academy.wd1.myworkdayjobs.com/Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Academy Sports + Outdoors"
+}

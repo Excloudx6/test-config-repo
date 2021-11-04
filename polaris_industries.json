@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14245,
+            "integration_provider_id": 125,
+            "is_python": true,
+            "name": "Polaris Industries",
+            "spider_name": "gr8_people_career_page",
+            "start_url": "https://polaris.gr8people.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Polaris Industries"
+}

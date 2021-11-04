@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5123,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Foot Locker UK",
+            "spider_name": "icims_career_page",
+            "start_url": "https://uk-retail-footlocker.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29214,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Foot Locker US - Store Jobs",
+            "spider_name": "icims_career_page",
+            "start_url": "https://us-retail-footlocker.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29215,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Foot Locker US - Distribution Jobs",
+            "spider_name": "icims_career_page",
+            "start_url": "https://us-dc-footlocker.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29216,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Foot Locker NL",
+            "spider_name": "icims_career_page",
+            "start_url": "https://nldu-retail-footlocker.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Foot Locker"
+}

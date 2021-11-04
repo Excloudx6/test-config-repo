@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4235,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "City and County of Denver",
+            "spider_name": "workday",
+            "start_url": "https://denver.wd1.myworkdayjobs.com/CCD-denver-denvergov-CSC_Jobs-Civil_service_jobs-Police_Jobs-Fire_Jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "City and County of Denver"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17920,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Medcan",
+            "spider_name": "workday",
+            "start_url": "https://medcan.wd10.myworkdayjobs.com/medcan",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Medcan"
+}

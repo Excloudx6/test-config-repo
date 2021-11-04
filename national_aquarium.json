@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15418,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Aquarium",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NAT1020NAQUA/JobBoard/807a3c85-8038-7ec5-5c50-4abbbd08029e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Aquarium"
+}

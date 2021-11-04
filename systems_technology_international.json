@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3631,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Systems Technology International",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/systemstechnologyinternational",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Systems Technology International"
+}

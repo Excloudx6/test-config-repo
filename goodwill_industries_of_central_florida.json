@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11075,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Goodwill Industries of Central Florida",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=32E954E2CDA35AB3EDFED87C404E3A85",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Goodwill Industries of Central Florida"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15587,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Walker",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/WAL1009/JobBoard/38a9f6f9-6c20-f160-6cc3-a54e26e3de02",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Walker"
+}

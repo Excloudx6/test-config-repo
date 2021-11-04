@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22055,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Berkshire Hathaway Energy",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://midamerican.taleo.net/careersection/10000/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Berkshire Hathaway Energy"
+}

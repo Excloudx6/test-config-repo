@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30783,
+            "integration_provider_id": 210,
+            "is_python": true,
+            "name": "Enoch Pratt Free Library",
+            "spider_name": "government_jobs",
+            "start_url": "https://www.governmentjobs.com/careers/prattlibrary",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Enoch Pratt Free Library"
+}

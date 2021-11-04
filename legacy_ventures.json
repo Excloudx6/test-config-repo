@@ -1,0 +1,49 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19140,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Legacy Ventures",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DB85AF2EF7A324E15BC5FAEDB3B1BDC7",
+            "status": 1,
+            "url_params": [
+                "Referral Source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19141,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Embassy Suites Chattanooga",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DB85AF2EF7A324E15BC5FAEDB3B1BDC7",
+            "status": 1,
+            "url_params": [
+                "Referral Source=Talentify"
+            ]
+        }
+    ],
+    "name": "Legacy Ventures"
+}

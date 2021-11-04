@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20119,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "Western Dairy Transport",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/westerndairy?uri_b=ia_westerndairy",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Western Dairy Transport"
+}

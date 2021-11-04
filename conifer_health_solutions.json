@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 397,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Conifer Health Solutions",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://tenet.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=14160110087",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Conifer Health Solutions"
+}

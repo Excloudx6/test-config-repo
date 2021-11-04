@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23882,
+            "integration_provider_id": 167,
+            "is_python": true,
+            "name": "BYTE Systems",
+            "spider_name": "crelate",
+            "start_url": "https://jobs.crelate.com/portal/bytesys/rss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BYTE Systems"
+}

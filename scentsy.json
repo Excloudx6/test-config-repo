@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5493,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Scentsy",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/cefbdadf-fc6c-441c-a513-59c4f9a61741",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Scentsy"
+}

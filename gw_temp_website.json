@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11063,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "GATEWAYS HOSPITAL AND MENTAL HEALTH CENTER",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=0E4AC8A6FD7D2375CD64614217F0D1D9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "gw-temp-website"
+}

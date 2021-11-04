@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10590,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Tempel",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TEM1001/JobBoard/2f5dbb02-8e7b-0ce8-c2fe-c0a32b731e48",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tempel"
+}

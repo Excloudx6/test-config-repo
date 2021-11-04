@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10717,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Gap Inc.",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://gapinc.taleo.net/careersection/1/jobsearch.ajax",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gap Inc."
+}

@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9979,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "World Intellectual Property Organization",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://wipo.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=101430233",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27646,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "World Intellectual Property Organization ",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://wipo.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=8105120713",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27647,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "World Intellectual Property Organization  ",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://wipo.taleo.net/careersection/rest/jobboard/searchjobs?lang=en&portal=10105120713",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "World Intellectual Property Organization"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11686,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Tranco Logistics",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=396DBD164B6877B83C5F11D7BC232BA7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tranco Logistics"
+}

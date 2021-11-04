@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 17256,
+            "integration_provider_id": 108,
+            "is_python": true,
+            "name": "Pac-Van",
+            "spider_name": "adp_workforce_career_page",
+            "start_url": "https://workforcenow.adp.com/mascsr/default/careercenter/public/events/staffing/v1/job-requisitions?cid=6176b1b8-cae9-489c-ab8b-60534f2bbaa5&lang=en_US&locale=en_US&top=20",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25463,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "United Rentals",
+            "spider_name": "workday",
+            "start_url": "https://ur.wd1.myworkdayjobs.com/URcareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Rentals"
+}

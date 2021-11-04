@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3276,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Deegit Inc",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=uwjdnw2800tdtzsxsk4kwewl1e27rp05aem23gavzpfk1sgmypsrv4n8gg18vdtw",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Deegit Inc"
+}

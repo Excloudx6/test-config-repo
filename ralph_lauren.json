@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21159,
+            "integration_provider_id": 151,
+            "is_python": true,
+            "name": "Ralph Lauren",
+            "spider_name": "avature",
+            "start_url": "https://ralphlauren.avature.net/CareersCorporateFRCa/SearchJobsCorporate",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ralph Lauren"
+}

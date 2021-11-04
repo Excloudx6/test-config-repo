@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4123,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bank of America",
+            "spider_name": "workday",
+            "start_url": "https://ghr.wd1.myworkdayjobs.com/US-EMPLSV",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bank of America"
+}

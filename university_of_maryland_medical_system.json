@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9722,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "University of Maryland Medical System",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/cs/chesapeake/#/results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25349,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "University of Maryland Medical System - All",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_uofmarylandmedsys/external/en_US/search/search.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Maryland Medical System"
+}

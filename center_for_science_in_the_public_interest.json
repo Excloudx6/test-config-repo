@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10775,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Center for Science in the Public Interest",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/a813c5f2-8be6-4b19-a86f-24dbedcf96ef",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Center for Science in the Public Interest"
+}

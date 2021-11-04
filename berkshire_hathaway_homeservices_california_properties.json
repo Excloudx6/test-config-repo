@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10442,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Berkshire Hathaway HomeServices California Properties",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/HOM1014HSOA/JobBoard/d27d99d8-885e-4297-8938-e885270d3c57",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Berkshire Hathaway HomeServices California Properties"
+}

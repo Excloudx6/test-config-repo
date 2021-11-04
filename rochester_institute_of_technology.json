@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21962,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "Rochester Institute of Technology",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25483&siteid=5291",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27377,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "Rochester Institute of Technology - Staff",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25483&siteid=5289",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rochester Institute of Technology"
+}

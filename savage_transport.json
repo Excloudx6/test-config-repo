@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20114,
+            "integration_provider_id": 144,
+            "is_python": true,
+            "name": "Savage Transport",
+            "spider_name": "tenstreet_hr",
+            "start_url": "https://intelliapp.driverapponline.com/c/savagetransport?uri_b=ia_savagetransport",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Savage Transport"
+}

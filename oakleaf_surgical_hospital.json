@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15532,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "OakLeaf Surgical Hospital",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SUR1004SRGY/JobBoard/8dd2bed0-b6d1-4514-9358-c45d96a5cdca",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "OakLeaf Surgical Hospital"
+}

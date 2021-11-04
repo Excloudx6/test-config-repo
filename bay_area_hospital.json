@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14777,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Bay Area Hospital",
+            "spider_name": "workday",
+            "start_url": "https://bayareahospital.wd1.myworkdayjobs.com/en-US/Bay_Area_Hospital_External_Career_Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bay Area Hospital"
+}

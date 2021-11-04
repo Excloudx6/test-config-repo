@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22031,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Post Holdings",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/POS1003POST/JobBoard/39e03f13-bcc5-4457-aebc-20ff2b68b2f5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Post Holdings"
+}

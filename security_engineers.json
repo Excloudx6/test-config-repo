@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 237,
+            "integration_provider_id": 46,
+            "is_python": true,
+            "name": "Security Engineers",
+            "spider_name": "kwantek_career_page",
+            "start_url": "https://clients.kwantek.com/api/jobfeeds?key=645DSGEQVA",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Security Engineers"
+}

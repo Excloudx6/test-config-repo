@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19025,
+            "integration_provider_id": 115,
+            "is_python": true,
+            "name": "SecureOne",
+            "spider_name": "applicant_pro",
+            "start_url": "https://secureone.applicantpro.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SecureOne"
+}

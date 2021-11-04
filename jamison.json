@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11535,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Jamison",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A5C9B9561E6C1ABF3EA947D3D9C1BDBD",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Jamison"
+}

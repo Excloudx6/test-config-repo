@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10874,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Woodruff",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/dbe440b8-0bbd-4db4-9a31-39ae5e2ab942",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Woodruff"
+}

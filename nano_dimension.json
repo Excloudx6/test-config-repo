@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24834,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "Nano Dimension",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/nanodimension/62.003",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Nano Dimension"
+}

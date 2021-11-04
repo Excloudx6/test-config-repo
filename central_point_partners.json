@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19206,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Central Point Partners",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=zfjdnwpgdv4v9gab0sncimrr1je7qn03920vr6rlphstn4m8ub8ix1ijvhduypbu",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Central Point Partners"
+}

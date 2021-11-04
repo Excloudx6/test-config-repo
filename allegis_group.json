@@ -1,0 +1,265 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4843,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allegis Group",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-allegisgroup.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30986,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Aerotek",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://jobs.aerotek.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30987,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Aerotek Internal Opportunities",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-aerotek.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30988,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "TEKsystems",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.teksystems.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30989,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "TEKsystems Internal Opportunities",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-teksystems.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30990,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Aston Carter",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.astoncarter.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30991,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Aston Carter Internal Opportunities",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-astoncarter.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30993,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Allegis Global Solutions",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/AllegisGlobalSolutions",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30994,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Major, Lindsey & Africa",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.mlaglobal.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30995,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Major, Lindsey & Africa Internal Opportunities",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-mlaglobal.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30996,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Allegis Partners",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-allegispartners.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30998,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Actalent Canada",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://careers.actalentservices.com/us/en/search-results",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30999,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Actalent United States",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-actalentservices.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Allegis Group"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24404,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Total Safety",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TOT1006TSUS/JobBoard/f0feb4c1-9f8a-4b46-88ac-24c6686a504c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Total Safety"
+}

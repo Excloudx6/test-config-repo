@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4912,
+            "integration_provider_id": 119,
+            "is_python": true,
+            "name": "AllSaints",
+            "spider_name": "icims_web_api",
+            "start_url": "https://careers.allsaints.com/pb3/corporate/allsaints/advertsearch.php?p_Region=&p_Location=&p_Department=&do_search=Show+Vacancies",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "AllSaints"
+}

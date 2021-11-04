@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24393,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "EVO Payments",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://evopay.csod.com/ux/ats/careersite/1/home?c=evopay",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "EVO Payments"
+}

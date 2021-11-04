@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25952,
+            "integration_provider_id": 183,
+            "is_python": true,
+            "name": "Webber Restaurant Group",
+            "spider_name": "harri",
+            "start_url": "https://harri.com/Webber-Restaurant-Group-1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Webber Restaurant Group"
+}

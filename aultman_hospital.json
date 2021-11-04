@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 9702,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Aultman Hospital",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/cs/aultman/#/results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Aultman Hospital"
+}

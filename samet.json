@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30125,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Samet",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/SAM1009SAMCO/JobBoard/8da27577-2fa8-4e3c-95b2-10757477ecd6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Samet"
+}

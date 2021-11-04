@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10763,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "PARTA",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/ff7a3912-4c9a-497b-b99e-424bf0c287d9",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PARTA"
+}

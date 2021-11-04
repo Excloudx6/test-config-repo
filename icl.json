@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5216,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "ICL",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/INS1020ICLI/JobBoard/e9acfd27-fb5e-441c-8e5d-9f6746da7afc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ICL"
+}

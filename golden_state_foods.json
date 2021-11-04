@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5161,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Golden State Foods",
+            "spider_name": "icims_career_page",
+            "start_url": "https://noresume-goldenstatefoods.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Golden State Foods"
+}

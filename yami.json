@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23871,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Yami",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://yamibuy.zohorecruit.com/recruit/Portal.na?iframe=true&digest=io8o0GCZj62Ocqwo1aiPw3GAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Yami"
+}

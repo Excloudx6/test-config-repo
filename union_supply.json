@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11702,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Union Supply",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=BA82BC7C2F3D9E40BC76C9A6AAEAA979",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Union Supply"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24861,
+            "integration_provider_id": 178,
+            "is_python": true,
+            "name": "Working Fields",
+            "spider_name": "pc_recruiter",
+            "start_url": "https://host.pcrecruiter.net/pcrbin/reg5.aspx?pcr-id=gxu7p%2FXsIdVRtogFA0nWVY28%2F1jPaenU9TJF3%2Bx%2BvXqqFKWdpIB7e%2FqRtIx0%2BOx5KH60PANC2l31Sg%2FmR368DUoz%2BadL8vOE7Ej6DQJDmb%2BrArsaOfMI4Y%2BqbwCE&username=PUBLIC&p2=&action=SEARCH",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Working Fields"
+}

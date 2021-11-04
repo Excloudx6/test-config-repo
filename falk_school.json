@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6245,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Falk School",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CHI1024/JobBoard/e63b0308-b783-4100-8b0a-3e709f2e547b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Falk School"
+}

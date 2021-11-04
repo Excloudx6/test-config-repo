@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11125,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Lighthouse Louisiana",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=76DF2D3104C6157357FAD6F8523E4E19",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lighthouse Louisiana"
+}

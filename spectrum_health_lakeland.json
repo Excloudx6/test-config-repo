@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4680,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Spectrum Health Lakeland",
+            "spider_name": "workday",
+            "start_url": "https://spectrumhealth.wd5.myworkdayjobs.com/en-US/Lakeland",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spectrum Health Lakeland"
+}

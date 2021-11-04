@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10532,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Kalispel Tribe of Indians",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/NOR1008NQUST/JobBoard/baa3b947-cf41-a9c8-5e20-b6328471b1b0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kalispel Tribe of Indians"
+}

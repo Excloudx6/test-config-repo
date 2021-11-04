@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10395,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Austin Regional Clinic: ARC",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COV1006CVMS/JobBoard/6e0a66cd-7918-4720-827c-8ce73d404256",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Austin Regional Clinic: ARC"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 8562,
+            "integration_provider_id": 117,
+            "is_python": true,
+            "name": "January",
+            "spider_name": "lever",
+            "start_url": "https://jobs.lever.co/januaryinc",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "January.ai"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6205,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Echo Mountain",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CON1047CHOTI/JobBoard/73b81b8a-90da-470e-baf7-b625528b90ac",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Echo Mountain"
+}

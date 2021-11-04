@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 31024,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "I\u00c9SEG School of Management",
+            "spider_name": "teamtailor",
+            "start_url": "https://recruitment.ieseg.fr/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "I\u00c9SEG School of Management"
+}

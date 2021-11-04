@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12912,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "John F. Kennedy Memorial Center for the Performing Arts",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phg.tbe.taleo.net/phg01/ats/careers/v2/searchResults?org=THEKENNC&cws=38",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "John F. Kennedy Memorial Center for the Performing Arts"
+}

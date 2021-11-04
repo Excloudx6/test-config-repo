@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14385,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "M4 Knick",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://m4knick.zohorecruit.com/recruit/Portal.na?iframe=true&digest=5QAJuW4L..6TR3NAoBpRxXGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "M4 Knick"
+}

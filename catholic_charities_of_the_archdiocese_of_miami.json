@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15346,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Catholic Charities of the Archdiocese of Miami",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CAT1004CC/JobBoard/7fd233ae-ff2d-4b34-bcea-517d2ea83b91",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Catholic Charities of the Archdiocese of Miami"
+}

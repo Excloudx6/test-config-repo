@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19177,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Genesis10",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=01jdnwhlx3qt60d5qcvf9jgj3ub1jv006cuun231rsugrix01fdycr4q4ntx1zz8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Genesis10"
+}

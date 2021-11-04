@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11234,
+            "integration_provider_id": 127,
+            "is_python": true,
+            "name": "Sonic Drive-In",
+            "spider_name": "recruitics_career_page",
+            "start_url": "https://s3.amazonaws.com/action.feeds-public.prod.recruitics.com/feeds/genericfeed9/3336_talentify_9e47d364-15cd-45b8-9008-07ec23dd17f6.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sonic Drive-In"
+}

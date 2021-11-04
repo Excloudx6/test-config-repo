@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 179,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Leslie's Poolmart",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://lesliepool.taleo.net/careersection/leslies+external+career+website+010617/jobsearch.ajax?portal=10100014432",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "Leslie's Poolmart"
+}

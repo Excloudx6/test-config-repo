@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24700,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Sports Endeavors",
+            "spider_name": "paycor_recruiting",
+            "start_url": "http://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883d05fdd14ce016004e666d30a80",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sports Endeavors"
+}

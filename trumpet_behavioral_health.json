@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10602,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Trumpet Behavioral Health",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/TRU1011TBHL/JobBoard/1d4e7833-dbe9-47c7-9bcc-42546a40c0f8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Trumpet Behavioral Health"
+}

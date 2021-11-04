@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4869,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Ann & Robert H. Lurie Children's Hospital of Chicago",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-luriechildrens.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ann & Robert H. Lurie Children's Hospital of Chicago"
+}

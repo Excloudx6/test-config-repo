@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15570,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "United States Institute of Peace",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/UNI1083USIOP/JobBoard/14900d11-c546-42ff-ab52-7bbbfa78cb97",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United States Institute of Peace"
+}

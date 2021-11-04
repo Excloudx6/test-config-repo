@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19185,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Health Source Group",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=42jdnws784iu3yaerkpgn6g8kwahcj0323jjbb4blpbrw7pp2bzcth0becgkf8sa",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Health Source Group"
+}

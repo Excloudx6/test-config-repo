@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4032,
+            "integration_provider_id": 102,
+            "is_python": true,
+            "name": "University of Alaska",
+            "spider_name": "university_of_alaska",
+            "start_url": "https://careers.alaska.edu/en-us/listing/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Alaska"
+}

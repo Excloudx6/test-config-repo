@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4744,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "UMGC",
+            "spider_name": "workday",
+            "start_url": "https://umgc.wd1.myworkdayjobs.com/UMGC_Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UMGC"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20864,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "MedCare Pediatric Group",
+            "spider_name": "hrm_direct",
+            "start_url": "https://risecorporate.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MedCare Pediatric Group"
+}

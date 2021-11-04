@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11298,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "The Trustees of Reservations",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A116ACB81F47E0050535F1FC4DA6EE15",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Trustees of Reservations"
+}

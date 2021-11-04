@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15292,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "ARMADA Supply Chain Solutions",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ARM1006ARPA/JobBoard/52d9cac6-58d0-401d-a11a-1d09089cd8ee",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ARMADA Supply Chain Solutions"
+}

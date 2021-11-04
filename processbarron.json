@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10574,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "ProcessBarron",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/PRO1049PCB/JobBoard/19f0c116-1f3b-4d22-8181-9ee6c4764766",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ProcessBarron"
+}

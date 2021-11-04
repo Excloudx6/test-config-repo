@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 18036,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "UPM - The Biofore",
+            "spider_name": "workday",
+            "start_url": "https://upm.wd3.myworkdayjobs.com/Careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UPM - The Biofore"
+}

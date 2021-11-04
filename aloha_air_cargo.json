@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15442,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Aloha Air Cargo",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NOR1020NAIRC/JobBoard/62572f21-dac9-415f-886c-cb7ab88fb756",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Aloha Air Cargo"
+}

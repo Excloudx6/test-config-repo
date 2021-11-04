@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10939,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "BlackPoint IT Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=1DFB0ABBDD1D75E34B45B186A0F373F6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BlackPoint IT Services"
+}

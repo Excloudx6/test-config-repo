@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10502,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Mercury Insurance",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MER1016MIS/JobBoard/c88689b6-fa90-6ed9-314e-88550e5a5268",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mercury Insurance"
+}

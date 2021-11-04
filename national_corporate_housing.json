@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 422,
+            "integration_provider_id": 75,
+            "is_python": true,
+            "name": "National Corporate Housing",
+            "spider_name": "newton_career_page",
+            "start_url": "http://newton.newtonsoftware.com/career/CareerAtomFeed.action?clientId=8a42a12b3e4e47ca013e67936a9d01d3",
+            "status": 1,
+            "url_params": [
+                "gns=Talentify"
+            ]
+        }
+    ],
+    "name": "National Corporate Housing"
+}

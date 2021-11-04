@@ -1,0 +1,49 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 540,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Peachtree Hospitality Management ",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PEA1007PEHO/JobBoard/4abc4563-3abd-4222-9986-91206a956865",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20455,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Peachtree Hotel Group",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PEA1007PEHO/JobBoard/3fa301cc-3f29-4a93-be0d-269c11b36327",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Peachtree Hospitality Management "
+}

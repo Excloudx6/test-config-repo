@@ -11,17 +11,15 @@
             "default_params": null,
             "fields": null,
             "headers": null,
-            "integration_id": 46,
+            "integration_id": 31031,
             "integration_provider_id": 30,
             "is_python": true,
-            "name": "Kimberly-Clark",
+            "name": "Kimberly Clark",
             "spider_name": "workday",
-            "start_url": "https://kimberlyclark.wd1.myworkdayjobs.com/NA",
+            "start_url": "https://kimberlyclark.wd1.myworkdayjobs.com/GLOBAL",
             "status": 1,
-            "url_params": [
-                "source=Talentify"
-            ]
+            "url_params": []
         }
     ],
-    "name": "Kimberly-Clark"
+    "name": "Kimberly Clark"
 }

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11493,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "The Fort Worth Club",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=75FA18EF7CE8086A55F623D06BCBB0C0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Fort Worth Club"
+}

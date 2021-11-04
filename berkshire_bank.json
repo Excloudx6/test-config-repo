@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26716,
+            "integration_provider_id": 186,
+            "is_python": true,
+            "name": "Berkshire Bank",
+            "spider_name": "candidate_manager",
+            "start_url": "https://www.candidatemanager.net/cm/Micro/SearchResults.aspx?&mid=YDFD&SCH",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Berkshire Bank"
+}

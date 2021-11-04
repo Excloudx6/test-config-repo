@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10814,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Bridge Connector",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/41e24de8-5b67-40f5-bd4a-6ea3d101a3b4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bridge Connector"
+}

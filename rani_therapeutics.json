@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10851,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Rani Therapeutics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/ee9b3e59-f75b-4a0d-81fc-17447619c321",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rani Therapeutics"
+}

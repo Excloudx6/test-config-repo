@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10772,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "MASS MoCA",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/6b21b001-0640-4486-a9e6-87e7ab968aaf",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MASS MoCA"
+}

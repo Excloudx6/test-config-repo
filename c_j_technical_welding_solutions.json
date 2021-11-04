@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6219,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "C&J Technical Welding Solutions",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ELL1002/JobBoard/1fde12ea-c075-4d52-bf19-6ca9a1868e32",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "C&J Technical Welding Solutions"
+}

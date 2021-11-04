@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15354,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Child Care Resource Center",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CHI1012CCRC/JobBoard/c90844bc-37b1-45ca-bf75-1bbfaef35f4f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Child Care Resource Center"
+}

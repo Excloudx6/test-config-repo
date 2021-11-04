@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10869,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Union Rescue Mission",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/3daca0ab-1c90-43af-b9e3-f29d191dbbe7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Union Rescue Mission"
+}

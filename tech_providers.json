@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19202,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Tech Providers,",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=spjdnw244b554va1nheryt1ctwjazv032b21bz3ampmkxyzhjlral8rz9sfvnfd5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tech Providers,"
+}

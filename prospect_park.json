@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10796,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Prospect Park",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/afc8db99-844f-40e9-afa7-0f0a74026a6b",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Prospect Park"
+}

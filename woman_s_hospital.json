@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10636,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Woman's Hospital",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/WOM1000WHF/JobBoard/2f4bcf30-0e2d-4c6d-82e3-d7e885e672ea",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Woman's Hospital"
+}

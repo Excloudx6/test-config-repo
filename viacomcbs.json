@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5631,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "ViacomCBS",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career41.sapsf.com/career?career_ns=job_listing_summary&company=viacomcbsi",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22997,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Pluto TV",
+            "spider_name": "icims_career_page",
+            "start_url": "https://plutotv-viacomcbs.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ViacomCBS"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10854,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Rheos Medicines",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/fa9804f6-3987-4fe0-9ce4-c607f5328a2a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rheos Medicines"
+}

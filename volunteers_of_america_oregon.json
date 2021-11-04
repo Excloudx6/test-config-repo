@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15582,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Volunteers of America Oregon",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=CDE1038DB712D1819F4AC148FEA0C393",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Volunteers of America Oregon"
+}

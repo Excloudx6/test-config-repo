@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19107,
+            "integration_provider_id": 84,
+            "is_python": true,
+            "name": "Associated Bank",
+            "spider_name": "oracle_cloud",
+            "start_url": "https://eoa.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Associated Bank"
+}

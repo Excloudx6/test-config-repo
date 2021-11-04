@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29724,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "Tacchini Sistema de Sa\u00fade",
+            "spider_name": "gupy",
+            "start_url": "https://tacchini.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Tacchini Sistema de Sa\u00fade"
+}

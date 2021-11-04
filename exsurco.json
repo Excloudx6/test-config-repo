@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6243,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Exsurco",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BET1004BETIN/JobBoard/6ee5e7c7-5c9a-4836-a837-0e01b565bc6f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Exsurco"
+}

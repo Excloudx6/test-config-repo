@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6045,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "International Air Transport Association",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://iata.csod.com/ux/ats/careersite/1/home?c=iata",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "International Air Transport Association"
+}

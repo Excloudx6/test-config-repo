@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24009,
+            "integration_provider_id": 171,
+            "is_python": true,
+            "name": "Wisconsin Management",
+            "spider_name": "hiring_thing",
+            "start_url": "https://wisconsin-management-company.hiringthing.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wisconsin Management"
+}

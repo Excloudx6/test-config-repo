@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5325,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Metrocare Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=B1DAD349C62F51A84FA555A9EC8F4325",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Metrocare Services"
+}

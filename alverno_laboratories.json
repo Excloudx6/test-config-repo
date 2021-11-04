@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5724,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "Alverno Laboratories",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/alverno-laboratories",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alverno Laboratories"
+}

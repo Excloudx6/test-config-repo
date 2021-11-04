@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10424,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Factory Motor Parts",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/FAC1002FMPC/JobBoard/f2f3c5ce-8df5-4ddb-840e-b34110925be3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Factory Motor Parts"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15658,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Gateway Regional Medical Ctr",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/e14b6c70-ade7-4f00-a910-addaec99d585",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Gateway Regional Medical Ctr"
+}

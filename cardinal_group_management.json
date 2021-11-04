@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10369,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Cardinal Group Management",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CAR1054CGMA/JobBoard/7b30c061-54e9-4f26-8d27-4dcfde5cb4ec",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cardinal Group Management"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15670,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Therapy Brands",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/THE1007THENE/JobBoard/2cdadeca-ed37-4ab7-8b6c-07670c02a063",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Therapy Brands"
+}

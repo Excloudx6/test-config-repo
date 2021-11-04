@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4691,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Skookum Contract Services",
+            "spider_name": "workday",
+            "start_url": "https://skookum.wd1.myworkdayjobs.com/careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Skookum Contract Services"
+}

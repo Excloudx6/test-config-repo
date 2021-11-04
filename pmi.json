@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6280,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "PMI",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/PRO1018PMI/JobBoard/fd975627-b6f3-4604-82c8-020f35755198",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "PMI"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25511,
+            "integration_provider_id": 181,
+            "is_python": true,
+            "name": "Holiday World RV",
+            "spider_name": "talentnest",
+            "start_url": "https://hwhrv.talentnest.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Holiday World RV"
+}

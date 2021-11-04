@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25938,
+            "integration_provider_id": 183,
+            "is_python": true,
+            "name": "The Ivy In The Lanes - Brighton",
+            "spider_name": "harri",
+            "start_url": "https://harri.com/theivycollection",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Ivy In The Lanes - Brighton"
+}

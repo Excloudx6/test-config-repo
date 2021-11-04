@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14365,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "APA International Placement Consultants",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://biztekpeople.zohorecruit.com/recruit/Portal.na?iframe=true&digest=CTPbedjwH6MELoKEIi2Lfdh5Djl@TSyeDL2aivjd2Ek-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "APA International Placement Consultants"
+}

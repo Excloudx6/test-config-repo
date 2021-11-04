@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10083,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Southern California Food Allergy Institute",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://phh.tbe.taleo.net/phh02/ats/careers/v2/searchResults?org=RADJ6H&cws=37",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Southern California Food Allergy Institute"
+}

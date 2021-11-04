@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10322,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Seafoods",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/AME1010AMSEA/JobBoard/00d7e216-2aed-4b81-b791-d819d8f29a0f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Seafoods"
+}

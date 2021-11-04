@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23365,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Danaher",
+            "spider_name": "workday",
+            "start_url": "https://danaher.wd1.myworkdayjobs.com/BeckmanCoulterDiagnosticsJobs",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30025,
+            "integration_provider_id": 94,
+            "is_python": true,
+            "name": "Danaher - Global",
+            "spider_name": "microsoft_unclear",
+            "start_url": "https://jobs.danaher.com/global/en/search-results",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Danaher"
+}

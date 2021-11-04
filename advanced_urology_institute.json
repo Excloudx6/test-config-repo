@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22181,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Advanced Urology Institute",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c664f8df9e01651075468465d6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Advanced Urology Institute"
+}

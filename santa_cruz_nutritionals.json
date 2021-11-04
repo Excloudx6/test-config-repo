@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5952,
+            "integration_provider_id": 66,
+            "is_python": true,
+            "name": "Santa Cruz Nutritionals",
+            "spider_name": "job_vite_career_page",
+            "start_url": "https://jobs.jobvite.com/santacruznutritionals",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Santa Cruz Nutritionals"
+}

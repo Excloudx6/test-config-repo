@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12045,
+            "integration_provider_id": 128,
+            "is_python": true,
+            "name": "Sygma Network",
+            "spider_name": "sysco_xml_feed",
+            "start_url": "http://feeds.appfeeder.com/output/Sysco9.13",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sygma Network"
+}

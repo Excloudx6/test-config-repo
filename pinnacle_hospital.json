@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14397,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "Pinnacle Hospital",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://pinnaclehealthcare.zohorecruit.com/recruit/Portal.na?iframe=true&digest=a7taxiEtEiURROlcZSSdcbHiUUxbIcgpf9XQVVFLmRQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pinnacle Hospital"
+}

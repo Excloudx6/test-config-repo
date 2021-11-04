@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12473,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Liberty Coca-Cola Beverages",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career4.successfactors.com/career?company=conaservic&career%5fns=job%5flisting%5fsummary&navBarLevel=JOB%5fSEARCH&site=VjItdU9iWTdBeTQ3bE1KMFBTZzdYUDR6UT09&_s.crb=GskJQnnuFh3cppfG8ziHhMCPy2x8OgOPKGbp%2baZdmMw%3d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Liberty Coca-Cola Beverages"
+}

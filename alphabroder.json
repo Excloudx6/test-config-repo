@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30078,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Alphabroder",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=AA3B137D800719157D7A102F780A5B6A",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alphabroder"
+}

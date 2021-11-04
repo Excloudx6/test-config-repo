@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10309,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Adswerve",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ADS1001ADSW/JobBoard/1bf5dede-9023-4625-ab15-5931478e6c86",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Adswerve"
+}

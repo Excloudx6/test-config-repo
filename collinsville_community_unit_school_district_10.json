@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 28370,
+            "integration_provider_id": 193,
+            "is_python": true,
+            "name": "Collinsville Community Unit School District #10",
+            "spider_name": "applitrack",
+            "start_url": "https://www.applitrack.com/ccusd10/onlineapp/default.aspx?all=1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Collinsville Community Unit School District #10"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22171,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Benson Integrated Marketing Solutions",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a788267574b28b701574ecf6d140298",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Benson Integrated Marketing Solutions"
+}

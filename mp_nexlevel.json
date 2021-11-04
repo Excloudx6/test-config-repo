@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10535,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "MP Nexlevel",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MPN1000MPNLV/JobBoard/cd746ce5-12d8-432a-a7bf-42e184e4b71d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MP Nexlevel"
+}

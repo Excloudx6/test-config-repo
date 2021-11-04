@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10768,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Carrier Access IT",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/b42fe621-cd62-4cff-b513-aae30dfdddef",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Carrier Access IT"
+}

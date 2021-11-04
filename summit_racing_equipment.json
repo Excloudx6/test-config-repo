@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4694,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Summit Racing Equipment",
+            "spider_name": "workday",
+            "start_url": "https://summitracing.wd5.myworkdayjobs.com/SummitRacing-External-Career-Site",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Summit Racing Equipment"
+}

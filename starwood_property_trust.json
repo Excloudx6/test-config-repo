@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15381,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Starwood Property Trust",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/LNR1000LNRP/JobBoard/4e2f2abb-e9c6-4a49-b864-60ef14a33c39",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Starwood Property Trust"
+}

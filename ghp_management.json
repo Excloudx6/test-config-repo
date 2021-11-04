@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15627,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "GHP Management",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/GHP1000GHPM/JobBoard/8065f020-4734-40c2-a990-16dfb0f463df",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "GHP Management"
+}

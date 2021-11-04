@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6294,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Kansas City Live!",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/ENT1009ECIL/JobBoard/515f5e65-d242-40d1-958b-0749b1937800",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kansas City Live!"
+}

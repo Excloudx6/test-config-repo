@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10331,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Amsted Industries",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/AMS1003AMSII/JobBoard/3d4fd1c9-9c96-4ecd-b277-09fc6f4cd15c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Amsted Industries"
+}

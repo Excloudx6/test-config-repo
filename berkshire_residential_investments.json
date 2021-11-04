@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6190,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Berkshire Residential Investments",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BER1009TBG/JobBoard/66b80eac-9323-4c54-9e00-7b3d65cf651d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Berkshire Residential Investments"
+}

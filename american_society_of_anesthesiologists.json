@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10323,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "American Society of Anesthesiologists\u00ae",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/AME1090ASAN/JobBoard/79dc62ee-25a8-40d7-92fe-8327b8e4afb5",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Society of Anesthesiologists\u00ae"
+}

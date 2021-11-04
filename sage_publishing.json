@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5472,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "SAGE Publishing",
+            "spider_name": "icims_career_page",
+            "start_url": "https://jobs-sagepub.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25343,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "SAGE Publishing - UK",
+            "spider_name": "icims_career_page",
+            "start_url": "https://jobs-uk-sagepub.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25344,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "SAGE Publishing - Editorial",
+            "spider_name": "icims_career_page",
+            "start_url": "https://ukeditorialjobs-sagepub.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SAGE Publishing"
+}

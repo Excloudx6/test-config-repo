@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19147,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Alluvion Staffing",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=0zjdnwhnq2iug9oghjjs2gy0z47duw052eek0t2dfjzde6zu3vmm6ctqt0iunhu3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Alluvion Staffing"
+}

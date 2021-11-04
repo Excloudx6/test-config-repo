@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10375,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "City of Loveland, Colorado - Government",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/CIT1029CLO/JobBoard/1a9f4e7d-ecfd-4986-bc53-146c0831d8b3",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "City of Loveland, Colorado - Government"
+}

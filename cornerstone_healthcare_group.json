@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10990,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Cornerstone Healthcare Group",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=2EB9B000F35D6F83318B8954B5277092",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cornerstone Healthcare Group"
+}

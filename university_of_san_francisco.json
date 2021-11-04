@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4739,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "University of San Francisco",
+            "spider_name": "workday",
+            "start_url": "https://usfca.wd5.myworkdayjobs.com/USF_Adjunct",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of San Francisco"
+}

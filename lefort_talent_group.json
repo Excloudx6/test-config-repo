@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23826,
+            "integration_provider_id": 126,
+            "is_python": true,
+            "name": "LEFORT TALENT GROUP",
+            "spider_name": "zoho_public_career_page",
+            "start_url": "https://leforttalentgroup.zohorecruit.com/recruit/Portal.na?iframe=true&digest=mV3dHbLg28v3kGONX.WhunGAUnkE7bVo.a85bxdBEmQ-",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "LEFORT TALENT GROUP"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7233,
+            "integration_provider_id": 73,
+            "is_python": true,
+            "name": "Forest River",
+            "spider_name": "applicantstack_career_page",
+            "start_url": "https://forestriverinc.applicantstack.com/x/openings",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Forest River"
+}

@@ -1,0 +1,145 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 21971,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings",
+            "spider_name": "icims_career_page",
+            "start_url": "https://us-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23529,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, CA",
+            "spider_name": "icims_career_page",
+            "start_url": "https://cae-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23530,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, CF",
+            "spider_name": "icims_career_page",
+            "start_url": "https://caf-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23531,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, FR",
+            "spider_name": "icims_career_page",
+            "start_url": "https://france-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23532,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, IRL",
+            "spider_name": "icims_career_page",
+            "start_url": "https://ire-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23533,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, ES",
+            "spider_name": "icims_career_page",
+            "start_url": "https://spain-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23534,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Enterprise Holdings, UK",
+            "spider_name": "icims_career_page",
+            "start_url": "https://uk-erac.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ehi.com"
+}

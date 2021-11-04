@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15251,
+            "integration_provider_id": 129,
+            "is_python": true,
+            "name": "NHS ",
+            "spider_name": "nhs_uk",
+            "start_url": "https://www.jobs.nhs.uk/xi/search_vacancy/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NHS"
+}

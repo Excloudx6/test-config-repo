@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23551,
+            "integration_provider_id": 47,
+            "is_python": true,
+            "name": "St. George's University",
+            "spider_name": "cornerstone_career_page",
+            "start_url": "https://sgu.csod.com/ux/ats/careersite/5/home?c=sgu",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "St. George's University"
+}

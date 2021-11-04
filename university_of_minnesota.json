@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29909,
+            "integration_provider_id": 201,
+            "is_python": true,
+            "name": "University of Minnesota",
+            "spider_name": "minnesota_jobs",
+            "start_url": "https://minnesotajobs.com/employer/company/11339149/University-Of-Minnesota-Office-Of-Human-Resources",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Minnesota"
+}

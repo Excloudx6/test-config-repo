@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11097,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Hudson Valley Community Services",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F4346E73491D4FA3F3787A320A00F926",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hudson Valley Community Services"
+}

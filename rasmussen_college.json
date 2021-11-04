@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10580,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Rasmussen College",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/RAS1000RASM/JobBoard/ee00e79c-5cdf-49a4-ac2d-b5b122defe04",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rasmussen College"
+}

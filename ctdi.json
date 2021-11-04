@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16815,
+            "integration_provider_id": 133,
+            "is_python": true,
+            "name": "CTDI",
+            "spider_name": "ams_hourly",
+            "start_url": "https://ctdijobs.byhourly.com/api/v1/requisitions/feed",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CTDI"
+}

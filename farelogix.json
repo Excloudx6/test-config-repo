@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14558,
+            "integration_provider_id": 122,
+            "is_python": true,
+            "name": "Farelogix",
+            "spider_name": "trinet_hire_career_page",
+            "start_url": "https://app.trinethire.com/companies/16678-farelogix/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Farelogix"
+}

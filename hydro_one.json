@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12363,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Hydro One",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career47.sapsf.com/career?career_ns=job_listing_summary&company=28745P",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hydro One"
+}

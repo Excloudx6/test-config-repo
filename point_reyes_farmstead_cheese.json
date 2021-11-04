@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10765,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Point Reyes Farmstead Cheese",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/145bf53b-8a00-4f18-96c7-a48b6e4c5d4d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Point Reyes Farmstead Cheese"
+}

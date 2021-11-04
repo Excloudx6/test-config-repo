@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15129,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Rigaku",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-rigaku.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rigaku"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10070,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Cambridge Associates",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://cho.tbe.taleo.net/cho01/ats/careers/v2/searchResults?org=CAMBRIDGEASSOCIATES&cws=47",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cambridge Associates"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15533,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Star of Hope Mission",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/STA1024SOHM/JobBoard/4a4c0774-5801-4cdb-b24c-3a740f9a1d61",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Star of Hope Mission"
+}

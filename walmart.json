@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 548,
+            "integration_provider_id": 91,
+            "is_python": true,
+            "name": "Walmart",
+            "spider_name": "walmart",
+            "start_url": "https://careers.walmart.com",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Walmart"
+}

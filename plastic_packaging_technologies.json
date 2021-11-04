@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11613,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Plastic Packaging Technologies",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=045D844E0799CF7F5B1B02EC239ED9C4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Plastic Packaging Technologies"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19305,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Mazda North American Operations",
+            "spider_name": "workday",
+            "start_url": "https://wd5.myworkdaysite.com/recruiting/mazdausa/Mazda",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mazda North American Operations"
+}

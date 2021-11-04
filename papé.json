@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10563,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Pap\u00e9",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/PAP1001/JobBoard/7297d137-c573-4bf4-8ab4-09ad7dac6ec8",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pap\u00e9"
+}

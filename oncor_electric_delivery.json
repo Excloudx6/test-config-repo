@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27607,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Oncor Electric Delivery",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ONC1003OEDC/JobBoard/de43ded3-2d19-4562-a2bc-bc2c9b595f44",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Oncor Electric Delivery"
+}

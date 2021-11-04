@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4083,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Badger Meter",
+            "spider_name": "workday",
+            "start_url": "https://badgermeter.wd5.myworkdayjobs.com/broadbean_external",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Badger Meter"
+}

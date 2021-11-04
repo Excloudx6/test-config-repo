@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4649,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Robert Half - 1",
+            "spider_name": "workday",
+            "start_url": "https://roberthalf.wd1.myworkdayjobs.com/RobertHalfStaffingCareers",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29811,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Robert Half - Corporate",
+            "spider_name": "workday",
+            "start_url": "https://roberthalf.wd1.myworkdayjobs.com/en-US/RobertHalfCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Robert Half"
+}

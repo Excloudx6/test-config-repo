@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22288,
+            "integration_provider_id": 149,
+            "is_python": true,
+            "name": "HAYMAKER AZ",
+            "spider_name": "isolvedhire",
+            "start_url": "https://haymakeraz.isolvedhire.com/jobs/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HAYMAKER AZ"
+}

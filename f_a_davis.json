@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10787,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "F.A. Davis",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/d078bd53-13e2-463f-bbfc-517b5368b12f",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "F.A. Davis"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15323,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Sono Bello",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/BOD1001BOCOC/JobBoard/a99e82d5-3fc0-4b64-a8ae-fd995f9f8c63",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Sono Bello"
+}

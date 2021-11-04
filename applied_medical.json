@@ -1,0 +1,85 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29905,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Applied Medical",
+            "spider_name": "icims_career_page",
+            "start_url": "https://hub-appliedmedical.icims.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29906,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Applied Medical - EUROPE",
+            "spider_name": "icims_career_page",
+            "start_url": "https://amecareers-appliedmedical.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29907,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Applied Medical - APAC",
+            "spider_name": "icims_career_page",
+            "start_url": "https://apaccareers-appliedmedical.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29908,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Applied Medical - NL",
+            "spider_name": "icims_career_page",
+            "start_url": "https://amecarrieres-appliedmedical.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Applied Medical"
+}

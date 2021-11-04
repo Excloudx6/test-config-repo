@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15636,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Mid-America Overseas",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/MID1019MAOI/JobBoard/63247d04-6f6f-4b92-bfb1-1379e445d4c7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mid-America Overseas"
+}

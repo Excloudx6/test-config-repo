@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10868,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "United Way of Dane County",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/081293df-af08-47c9-a138-1769927c19ea",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "United Way of Dane County"
+}

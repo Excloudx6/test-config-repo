@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22857,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "Governor of Illinois",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career-hcm20.ns2cloud.com/career?career_ns=job_listing_summary&company=SILHCM20P1",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Governor of Illinois"
+}

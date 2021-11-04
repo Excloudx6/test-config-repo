@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5067,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Dematic",
+            "spider_name": "workday",
+            "start_url": "https://kiongroup.wd3.myworkdayjobs.com/KION_SCS",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30126,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Kion Group",
+            "spider_name": "workday",
+            "start_url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KIONGroup",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kion Group"
+}

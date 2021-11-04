@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24891,
+            "integration_provider_id": 179,
+            "is_python": true,
+            "name": "Seattle Pacific University",
+            "spider_name": "hirezon",
+            "start_url": "https://spu.interviewexchange.com/jobsrchresults.jsp",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Seattle Pacific University"
+}

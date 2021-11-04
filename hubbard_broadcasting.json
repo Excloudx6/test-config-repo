@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10275,
+            "integration_provider_id": 36,
+            "is_python": true,
+            "name": "Hubbard Broadcasting",
+            "spider_name": "adp_career_page",
+            "start_url": "https://recruiting.adp.com/srccar/public/rest/1/190607/search/",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Hubbard Broadcasting"
+}

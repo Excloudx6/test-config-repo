@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11239,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Ryobi",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=40E154B4FA157F29013FFA704A558C00",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ryobi"
+}

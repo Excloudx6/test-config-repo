@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 16692,
+            "integration_provider_id": 131,
+            "is_python": true,
+            "name": "BlackTree Healthcare Consulting",
+            "spider_name": "workable_career_page",
+            "start_url": "https://apply.workable.com/blacktree-healthcare-consulting",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "BlackTree Healthcare Consulting"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30098,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Spartronics",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/recruiting/jobs/All/e84b04be-db42-4207-9bf5-b6cbc9825f1a",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spartronics"
+}

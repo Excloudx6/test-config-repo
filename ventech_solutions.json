@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15573,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Ventech Solutions",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/VEN1004VENSO/JobBoard/22385a1b-1298-4c79-aa35-bc292ccd9357",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ventech Solutions"
+}

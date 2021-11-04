@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12796,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "American College of Cardiology",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://chm.tbe.taleo.net/chm03/ats/careers/v2/searchResults?org=ACC&cws=42",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American College of Cardiology"
+}

@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 455,
+            "integration_provider_id": 77,
+            "is_python": true,
+            "name": "Med Center Health",
+            "spider_name": "hcs_career_page",
+            "start_url": "https://pm.healthcaresource.com/cs/chc#/results?whereControl=radius&radiusDistance=25&radiusUnit=mi&radius%5Bselection%5D%5Bdistance%5D=25&radius%5Bselection%5D%5Bunit%5D=mi",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "Med Center Health"
+}

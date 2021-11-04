@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24822,
+            "integration_provider_id": 177,
+            "is_python": true,
+            "name": "JDC",
+            "spider_name": "comeet",
+            "start_url": "https://www.comeet.com/jobs/JDC/F3.004",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "JDC"
+}

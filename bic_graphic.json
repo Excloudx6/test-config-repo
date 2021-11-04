@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 486,
+            "integration_provider_id": 81,
+            "is_python": true,
+            "name": "BIC Graphic",
+            "spider_name": "bic_avature",
+            "start_url": "https://bicgraphic.avature.net/careers",
+            "status": 1,
+            "url_params": [
+                "source=Talentify"
+            ]
+        }
+    ],
+    "name": "Bic Graphic"
+}

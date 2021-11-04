@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11204,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Preservation of Affordable Housing",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=527FB6CF7D35682C9E722CC86640EF01",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Preservation of Affordable Housing"
+}

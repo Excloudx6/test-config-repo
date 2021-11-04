@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29912,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Kyocera Document Solutions America",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-kyocera.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Kyocera Document Solutions"
+}

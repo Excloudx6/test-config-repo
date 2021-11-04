@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11599,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "NorthCare",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=DBA81D56B1650563E7854A2037744F06",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NorthCare"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15362,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "CleanSlate Centers",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CLE1008CSCI/JobBoard/12cd1123-fff4-41dc-9f20-11b75c1cd6b7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "CleanSlate Centers"
+}

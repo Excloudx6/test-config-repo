@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29551,
+            "integration_provider_id": 198,
+            "is_python": true,
+            "name": "ICI - Instituto Curitiba de Inform\u00c3\u00a1tica",
+            "spider_name": "gupy",
+            "start_url": "https://ici.gupy.io",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ICI - Instituto Curitiba de Inform\u00c3\u00a1tica"
+}

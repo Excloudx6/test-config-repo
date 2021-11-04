@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20869,
+            "integration_provider_id": 147,
+            "is_python": true,
+            "name": "SitusAMC",
+            "spider_name": "hrm_direct",
+            "start_url": "https://situsamc.hrmdirect.com/employment/job-openings.php?search=true",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27379,
+            "integration_provider_id": 151,
+            "is_python": true,
+            "name": "SitusAMC ",
+            "spider_name": "avature",
+            "start_url": "https://situsamc.avature.net/careers/searchjobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SitusAMC"
+}

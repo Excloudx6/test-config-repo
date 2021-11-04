@@ -1,0 +1,27 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 177,
+            "integration_provider_id": 34,
+            "is_python": true,
+            "name": "Woodforest National Bank",
+            "spider_name": "taleo_career_page",
+            "start_url": "https://woodforest.taleo.net/careersection/2/jobsearch.ajax?portal=101430233",
+            "status": 1,
+            "url_params": [
+                "utm_source=FLUX"
+            ]
+        }
+    ],
+    "name": "Woodforest National Bank"
+}

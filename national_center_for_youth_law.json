@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10875,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "National Center for Youth Law",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/cc85794f-bf38-4266-816d-360978651225",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Center for Youth Law"
+}

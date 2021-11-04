@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10880,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "3Degrees",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=828AE153633C61AAEB7E5B5B54AB4860",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "3Degrees"
+}

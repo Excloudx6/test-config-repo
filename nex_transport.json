@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29792,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "NEX Transport",
+            "spider_name": "paycor_recruiting",
+            "start_url": "http://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7882525bc77931015bdaf4d6ac5831",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "NEX Transport"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24004,
+            "integration_provider_id": 169,
+            "is_python": true,
+            "name": "Indy Reads",
+            "spider_name": "prism_hr",
+            "start_url": "https://indy-reads.prismhr-hire.com",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Indy Reads"
+}

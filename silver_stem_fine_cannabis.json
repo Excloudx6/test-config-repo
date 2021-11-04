@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10798,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Silver Stem Fine Cannabis",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/5e9bdf8b-5cb9-495b-a80b-db9d64f18ceb",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Silver Stem Fine Cannabis"
+}

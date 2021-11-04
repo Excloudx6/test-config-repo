@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24351,
+            "integration_provider_id": 173,
+            "is_python": true,
+            "name": "Marble Technologies",
+            "spider_name": "freshteam_hr",
+            "start_url": "https://seemarble.freshteam.com/jobs",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Marble Technologies"
+}

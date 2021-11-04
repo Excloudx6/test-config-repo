@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15265,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "AiM Certify",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/all1026/JobBoard/f6a99fca-aaee-80d4-87b4-a46b5d4b2268",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "AiM Certify"
+}

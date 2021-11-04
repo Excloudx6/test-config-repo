@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10606,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "UGN",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/UGN1000UGNL/JobBoard/ad220167-7173-4414-be22-89bd11ff9bfd",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UGN"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22190,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Rx Savings Solutions",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a7883c66a3387ef016a5183d6f11208",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Rx Savings Solutions"
+}

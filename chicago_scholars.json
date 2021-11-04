@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10760,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Chicago Scholars",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/3938ab08-2fb5-4ac2-8d9e-798e2ecec2a0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Chicago Scholars"
+}

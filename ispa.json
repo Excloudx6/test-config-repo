@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6284,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "K12",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/KIN1002KTWEL/JobBoard/add1f8eb-bc80-43fb-afce-29fd0b824e83",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "ISPA"
+}

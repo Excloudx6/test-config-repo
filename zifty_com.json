@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29942,
+            "integration_provider_id": 180,
+            "is_python": true,
+            "name": "Zifty.com",
+            "spider_name": "workstream",
+            "start_url": "https://www.workstream.us/j/zifty-careers-open-positions",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Zifty.com"
+}

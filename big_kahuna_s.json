@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10329,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Big Kahuna's",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/APE1005APARK/JobBoard/28f038b8-9aea-4efd-9671-b879c8258f86",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Big Kahuna's"
+}

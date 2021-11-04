@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10583,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Fannin Regional Hospital",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/QHC1000QHCS/JobBoard/aeb268cc-f0f6-4c28-942d-d73ab841c44e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Fannin Regional Hospital"
+}

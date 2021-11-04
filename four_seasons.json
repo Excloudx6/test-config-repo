@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24757,
+            "integration_provider_id": 175,
+            "is_python": true,
+            "name": "Four Seasons",
+            "spider_name": "four_seasons_workday",
+            "start_url": "https://wd3-services1.myworkday.com/ccx/service/customreport2/fourseasons/INT_USER_Talentify/Talentify_External_Job_Posts?format=simplexml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29926,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Four Seasons Hotel",
+            "spider_name": "workday",
+            "start_url": "https://fourseasons.wd3.myworkdayjobs.com/en-US/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Four Seasons "
+}

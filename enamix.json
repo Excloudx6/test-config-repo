@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19162,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "eNamix",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=jvjdnwfo09gz2ut06a930d7705zso305f2jo9694bqke6mr8hckonffgi9t3zbmm",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "eNamix"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19169,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "TalentBridge",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=gljdnwq43svrf8k4hns2e9ghgd6ay106bdll5fi4d4yyqqzsfts4ytud3ffuqs38",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "TalentBridge"
+}

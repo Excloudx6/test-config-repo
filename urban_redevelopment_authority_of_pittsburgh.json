@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 7109,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "Urban Redevelopment Authority of Pittsburgh",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/05ab61b4-acd7-4183-8086-efd8e515d82d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Urban Redevelopment Authority of Pittsburgh"
+}

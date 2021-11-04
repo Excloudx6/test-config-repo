@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 547,
+            "integration_provider_id": 90,
+            "is_python": true,
+            "name": "Engage2Excel",
+            "spider_name": "engage_2_excel",
+            "start_url": "http://jobinfo.com/dtoolbox_extras/jobs.php?version=talentify&return_kind=xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Engage2Excel"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11015,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Cypress Hills LDC",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=35721037CC80CECE4525D74183C7E25B",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cypress Hills LDC"
+}

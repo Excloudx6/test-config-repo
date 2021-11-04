@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19199,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "American Recruiting & Consulting Group",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=jljdnw8xh7g6iz9v3wi52vla0sy9hx0667nxlsabk9d90qjeph9lre3ynwpeocav",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "American Recruiting & Consulting Group"
+}

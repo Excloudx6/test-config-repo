@@ -1,0 +1,203 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 538,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Cumberland Farms",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=cumberlandfarmsinc",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1908,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Certified Oil",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=certifiedoilegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1909,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Kwik Shop",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=kwikshopegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1910,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Turkey Hill",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=turkeyhillegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1911,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Loaf N Jug",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=loafnjugegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1912,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Minit Mart",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=minitmartegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1913,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Quik Stop",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=quikstopegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1914,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Tom Thumb",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=tomthumbegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 1915,
+            "integration_provider_id": 64,
+            "is_python": true,
+            "name": "Fastrac Caf\u00e9",
+            "spider_name": "snag_career_page",
+            "start_url": "https://api.peoplematter.com/api/applicationbusinessunit?alias=fastracegretail",
+            "status": 1,
+            "url_params": [
+                "sourceCode=Talentify"
+            ]
+        }
+    ],
+    "name": "Cumberland Farms"
+}

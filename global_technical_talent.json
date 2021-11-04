@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 19150,
+            "integration_provider_id": 139,
+            "is_python": true,
+            "name": "Global Technical Talent",
+            "spider_name": "jobdiva_career_page",
+            "start_url": "https://www1.jobdiva.com/portal/?a=5cjdnwenzpqejkgxijtvgahld0va90009c0e3c8jutidwbg0unjxodtsm81az828",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Global Technical Talent"
+}

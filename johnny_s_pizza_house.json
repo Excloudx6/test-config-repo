@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11346,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Johnny's Pizza House",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=F30011ECEF59B2E939D7F8A1B0D1728F",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Johnny's Pizza House"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23521,
+            "integration_provider_id": 166,
+            "is_python": true,
+            "name": "LifeBridge Health",
+            "spider_name": "hcts_portals",
+            "start_url": "https://lifebridgehealth.hctsportals.com/jobs/search",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "LifeBridge Health"
+}

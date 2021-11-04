@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10751,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "MicroVention-Terumo",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25987&siteid=5297",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MicroVention-Terumo"
+}

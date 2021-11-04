@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11386,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Bayaud Enterprises",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=6AB49DAA7221342095253233F99CAFB6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bayaud Enterprises"
+}

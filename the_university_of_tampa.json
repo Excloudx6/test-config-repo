@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4787,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "The University of Tampa",
+            "spider_name": "workday",
+            "start_url": "https://utampa.wd1.myworkdayjobs.com/Faculty",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 23410,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "The University of Tampa - Staff",
+            "spider_name": "workday",
+            "start_url": "https://utampa.wd1.myworkdayjobs.com/Staff",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The University of Tampa"
+}

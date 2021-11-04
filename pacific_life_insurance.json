@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12563,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Pacific Life Insurance",
+            "spider_name": "workday",
+            "start_url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Pacific Life Insurance"
+}

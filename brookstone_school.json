@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10947,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Brookstone School",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C2D503D6FED398074C89F9DEA27E45D6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Brookstone School"
+}

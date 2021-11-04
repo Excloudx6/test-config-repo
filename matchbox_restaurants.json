@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15546,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Matchbox Restaurants",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/THO1011THCOP/JobBoard/37f75a50-467d-4ef4-88a7-e9b2e4f8c6c0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Matchbox Restaurants"
+}

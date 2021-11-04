@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22166,
+            "integration_provider_id": 155,
+            "is_python": true,
+            "name": "Wheaton Bible Church",
+            "spider_name": "paycor_recruiting",
+            "start_url": "https://recruitingbypaycor.com/career/CareerHome.action?clientId=8a78826755fc2fa30156057feb2f0256",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Wheaton Bible Church"
+}

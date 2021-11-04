@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26063,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "The AES",
+            "spider_name": "workday",
+            "start_url": "https://aes.wd1.myworkdayjobs.com/en-US/AES_BRAZIL",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The AES"
+}

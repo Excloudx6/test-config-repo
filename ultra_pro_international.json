@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11699,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Ultra PRO International",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=321B9385BD577378745B78F06DBE9D12",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Ultra PRO International"
+}

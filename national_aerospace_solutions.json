@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 22779,
+            "integration_provider_id": 60,
+            "is_python": true,
+            "name": "National Aerospace Solutions",
+            "spider_name": "cats_career_page",
+            "start_url": "https://nascareers.catsone.com/careers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Aerospace Solutions"
+}

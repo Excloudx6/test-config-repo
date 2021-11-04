@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 4991,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Chick-fil-A",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-chickfila.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 26646,
+            "integration_provider_id": 82,
+            "is_python": true,
+            "name": "Chick-fil-A Airport",
+            "spider_name": "talent_reef_webscraper_career_page",
+            "start_url": "https://apply.jobappnetwork.com/cfajust10enterprises",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29871,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Chick-fil-A - Supply",
+            "spider_name": "icims_career_page",
+            "start_url": "https://careers-cfasupply.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Chick-fil-A"
+}

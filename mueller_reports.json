@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15414,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Mueller Reports",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/mue1000msinc/JobBoard/a659bce7-c86e-4d7d-b09d-2d3b9585c4f0",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Mueller Reports"
+}

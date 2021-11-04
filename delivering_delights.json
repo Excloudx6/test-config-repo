@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 24699,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Delivering Delights",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=D493B98844BCC25550B6C9D84FFECB29",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Delivering Delights"
+}

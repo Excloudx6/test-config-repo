@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20134,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bowlero Corporation",
+            "spider_name": "icims_career_page",
+            "start_url": "https://corporatecareers-bowlerocorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20136,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bowlero Corporation",
+            "spider_name": "icims_career_page",
+            "start_url": "https://hourlycareers-bowlerocorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 20137,
+            "integration_provider_id": 33,
+            "is_python": true,
+            "name": "Bowlero Corporation",
+            "spider_name": "icims_career_page",
+            "start_url": "https://managementcareers-bowlerocorp.icims.com/sitemap.xml",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Bowlero Corporation"
+}

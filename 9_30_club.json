@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10879,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "9:30 Club",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=92E008E318E81EDDCCF0B49394F28F59",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "9:30 Club"
+}

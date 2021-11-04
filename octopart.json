@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10321,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Octopart",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/ALT1009ATIM/JobBoard/6495a7f5-ac02-4093-a950-c34e559f775e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Octopart"
+}

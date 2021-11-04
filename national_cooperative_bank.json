@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15428,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "National Cooperative Bank",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NAT1039/JobBoard/ebdfb998-30db-26a1-ee93-bdff9b57e07c",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "National Cooperative Bank"
+}

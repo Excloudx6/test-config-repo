@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12786,
+            "integration_provider_id": 39,
+            "is_python": true,
+            "name": "EY",
+            "spider_name": "success_factors_career_page",
+            "start_url": "https://career5.successfactors.eu/career?career_ns=job_listing_summary&company=EYHRISPRD1",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27645,
+            "integration_provider_id": 123,
+            "is_python": true,
+            "name": "EY ",
+            "spider_name": "recsolu_career_page",
+            "start_url": "https://eyglobal.recsolu.com/job_boards/c1riT--B2O-KySgYWsZO1Q",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "EY"
+}

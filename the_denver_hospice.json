@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10388,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "The Denver Hospice",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting2.ultipro.com/COM1078CBDB/JobBoard/87bf04e5-6cba-4300-a214-bd499c25ed34",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "The Denver Hospice"
+}

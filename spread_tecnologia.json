@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 27903,
+            "integration_provider_id": 191,
+            "is_python": true,
+            "name": "Spread Tecnologia",
+            "spider_name": "kenoby",
+            "start_url": "https://jobs.kenoby.com/spread",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Spread Tecnologia"
+}

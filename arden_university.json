@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25574,
+            "integration_provider_id": 182,
+            "is_python": true,
+            "name": "Arden University",
+            "spider_name": "teamtailor",
+            "start_url": "https://careers.arden.ac.uk/jobs.rss",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Arden University"
+}

@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10754,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "University of California San Francisco",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=6495&siteid=5861",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29796,
+            "integration_provider_id": 35,
+            "is_python": true,
+            "name": "UCSF - Internal",
+            "spider_name": "brassrings_career_page",
+            "start_url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=6495&siteid=5862",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of California"
+}

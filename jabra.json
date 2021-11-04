@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14930,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "Jabra",
+            "spider_name": "workday",
+            "start_url": "https://gn.wd3.myworkdayjobs.com/JabraCareers",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Jabra"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11058,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Frieda's Specialty Produce",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=A50556322D256C03F94CD8ED497A2E2C",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Frieda's Specialty Produce"
+}

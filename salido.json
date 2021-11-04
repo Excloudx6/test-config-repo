@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15445,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "SALIDO",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/NOR1054NABC/JobBoard/20fe13ec-86f4-4869-99a0-40d5606d909e",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "SALIDO"
+}

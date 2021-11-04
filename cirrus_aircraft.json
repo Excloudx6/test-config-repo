@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15359,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Cirrus Aircraft",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/CIR1003CIRR/JobBoard/04ffd7da-0e4d-4fab-aa94-09c4d2114655",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Cirrus Aircraft"
+}

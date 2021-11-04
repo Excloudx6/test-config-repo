@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10846,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "New York Civil Liberties Union",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/f5bbebac-4fea-4d16-8905-aa8a8446591d",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "New York Civil Liberties Union"
+}

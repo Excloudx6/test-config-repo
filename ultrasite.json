@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 11696,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "UltraSite",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=C5D8F71E975CB80CD37BE84E326C360F",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "UltraSite"
+}

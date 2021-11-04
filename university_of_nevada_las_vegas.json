@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29186,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "University of Nevada - Las Vegas",
+            "spider_name": "workday",
+            "start_url": "https://nshe.wd1.myworkdayjobs.com/UNLV-External",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "University of Nevada - Las Vegas"
+}

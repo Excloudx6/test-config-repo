@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 3436,
+            "integration_provider_id": 83,
+            "is_python": true,
+            "name": "Lowell Community Health Center",
+            "spider_name": "smart_recruiters",
+            "start_url": "https://api.smartrecruiters.com/v1/companies/lowellcommunityhealthcenter",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Lowell Community Health Center"
+}

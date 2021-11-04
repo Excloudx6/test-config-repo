@@ -1,0 +1,47 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 146,
+            "integration_provider_id": 30,
+            "is_python": true,
+            "name": "ChenMed",
+            "spider_name": "workday",
+            "start_url": "https://chenmed.wd1.myworkdayjobs.com/Dedicated",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 6318,
+            "integration_provider_id": 104,
+            "is_python": true,
+            "name": "ChenMed",
+            "spider_name": "chenmed_xml_feed",
+            "start_url": "https://jobboards.phenommarket.com/feeds/chenus-en-us-feed-generic",
+            "status": 1,
+            "url_params": [
+                "utm_source=Talentify"
+            ]
+        }
+    ],
+    "name": "ChenMed"
+}

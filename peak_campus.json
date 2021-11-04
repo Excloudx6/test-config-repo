@@ -1,0 +1,45 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 5412,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Peak Campus",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=5D3E3A1FF6A173D1DEB3A91AE4AB41C9",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 25345,
+            "integration_provider_id": 67,
+            "is_python": true,
+            "name": "Peak Campus - Corporate",
+            "spider_name": "pay_com_career_page",
+            "start_url": "https://www.paycomonline.net/v4/ats/web.php/jobs?clientkey=1BF578E1EFB61BC7E1FD28166F8520F7",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Peak Campus"
+}

@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 14298,
+            "integration_provider_id": 124,
+            "is_python": true,
+            "name": "Stokes Creative Group",
+            "spider_name": "the_applicant_manager",
+            "start_url": "https://www.theapplicantmanager.com/careers?co=s4",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Stokes Creative Group,"
+}

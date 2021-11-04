@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 10805,
+            "integration_provider_id": 111,
+            "is_python": true,
+            "name": "AHMA of Washington",
+            "spider_name": "paylocity",
+            "start_url": "https://recruiting.paylocity.com/Recruiting/Jobs/All/5f4445c9-2e4b-44a2-aff3-2bb821eca9c6",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "MemberClicks"
+}

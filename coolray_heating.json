@@ -1,0 +1,25 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 15594,
+            "integration_provider_id": 69,
+            "is_python": true,
+            "name": "Coolray Heating",
+            "spider_name": "ultipro_recruiting_career_page",
+            "start_url": "https://recruiting.ultipro.com/WRE1000WREN/JobBoard/f8ce5eb7-e514-4367-944b-446c93360fbd",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "Coolray Heating"
+}

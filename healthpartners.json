@@ -1,0 +1,65 @@
+{
+    "hiring_companies": [
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 12062,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "HealthPartners",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_healthpartners/external/search/search.html",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 29999,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "HealthPartners - Dentists",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_healthpartners/dentists_external/search/search.html",
+            "status": 1,
+            "url_params": []
+        },
+        {
+            "blocks": null,
+            "body": null,
+            "cookies": null,
+            "credentials": {
+                "login": null,
+                "password": null
+            },
+            "default_params": null,
+            "fields": null,
+            "headers": null,
+            "integration_id": 30000,
+            "integration_provider_id": 116,
+            "is_python": true,
+            "name": "HealthPartners - Physicians",
+            "spider_name": "people_click_career_page",
+            "start_url": "https://careers.peopleclick.com/careerscp/client_healthpartners/physicians_external/search/search.html",
+            "status": 1,
+            "url_params": []
+        }
+    ],
+    "name": "HealthPartners"
+}
